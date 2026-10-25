@@ -81,14 +81,18 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           APP: ${{ steps.resolve.outputs.arg }}
+          ARG: ${{ steps.resolve.outputs.arg }}
         run: |
           result=$(python3 - <<'PY'
-          import json, pathlib
+          import json, os, pathlib
+          arg = os.environ.get("ARG", "").strip().lower()
           data = json.loads(pathlib.Path("docs/data/apps.json").read_text())
-          watch = {str(w["id"]) for w in json.loads(pathlib.Path("docs/data/watchlist.json").read_text())}
-          rows = [a for a in data["apps"] if str(a["id"]) in watch]
+          watch = json.loads(pathlib.Path("docs/data/watchlist.json").read_text())
+          ids = {str(w["id"]) for w in watch
+                 if str(w["id"]).lower() == arg or str(w.get("name", "")).lower() == arg}
+          rows = [a for a in data["apps"] if arg and (str(a["id"]) in ids or str(a["name"]).lower() == arg)]
           if not rows:
-              print("Added to the watchlist, but the scan could not read its App Store record yet.")
+              print("Added to the watchlist, but the scan has not read its App Store record yet.")
           else:
               for a in rows:
                   state = "Duo-ready ✅" if a.get("duo") else "not Duo-ready yet ❌"
