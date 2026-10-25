@@ -208,27 +208,41 @@ def load_watchlist() -> list[dict]:
 
 
 def add_to_watchlist(term: str) -> int:
-    """Add one app (App Store id or name) to the watchlist and check it now."""
+    """Add one app (App Store id or name) to the watchlist, validating it first."""
     term = term.strip()
     if term.isdigit():
-        app_id, name = term, None
+        found = get_json(f"https://itunes.apple.com/lookup?id={term}&country=us")["results"]
     else:
         found = get_json("https://itunes.apple.com/search?term=%s&entity=software&country=us&limit=1"
                          % term.replace(" ", "+"))["results"]
-        if not found:
-            print(f"no App Store result for {term!r}", file=sys.stderr)
-            return 1
-        app_id, name = str(found[0]["trackId"]), found[0]["trackName"]
+    if not found:
+        print(f"no App Store app matches {term!r}", file=sys.stderr)
+        return 1
+    app_id, name = str(found[0]["trackId"]), found[0]["trackName"]
 
     entries = load_watchlist()
     if any(str(entry.get("id")) == app_id for entry in entries):
-        print(f"already watched: {app_id}")
-    else:
-        entries.append({"id": app_id, "name": name or app_id,
-                        "addedAt": datetime.now(timezone.utc).strftime("%Y-%m-%d")})
-        OUT.mkdir(parents=True, exist_ok=True)
-        watchlist_path().write_text(json.dumps(entries, ensure_ascii=False, indent=1))
-        print(f"added to watchlist: {name or app_id} ({app_id})")
+        print(f"already watched: {name} ({app_id})")
+        return 0
+
+    entries.append({"id": app_id, "name": name,
+                    "addedAt": datetime.now(timezone.utc).strftime("%Y-%m-%d")})
+    OUT.mkdir(parents=True, exist_ok=True)
+    watchlist_path().write_text(json.dumps(entries, ensure_ascii=False, indent=1))
+    print(f"added to watchlist: {name} ({app_id})")
+    return 0
+
+
+def remove_from_watchlist(term: str) -> int:
+    term = term.strip().lower()
+    entries = load_watchlist()
+    kept = [e for e in entries
+            if str(e.get("id")) != term and str(e.get("name", "")).lower() != term]
+    if len(kept) == len(entries):
+        print(f"not on the watchlist: {term}", file=sys.stderr)
+        return 1
+    watchlist_path().write_text(json.dumps(kept, ensure_ascii=False, indent=1))
+    print(f"removed {len(entries) - len(kept)} entr{'y' if len(entries) - len(kept) == 1 else 'ies'}")
     return 0
 
 
@@ -239,6 +253,11 @@ def main() -> int:
             print("usage: scan.py --add '<app name or App Store id>'", file=sys.stderr)
             return 2
         return add_to_watchlist(" ".join(args[1:]))
+    if args and args[0] in ("--remove", "-r"):
+        if len(args) < 2:
+            print("usage: scan.py --remove '<app name or App Store id>'", file=sys.stderr)
+            return 2
+        return remove_from_watchlist(" ".join(args[1:]))
 
     previous = load_previous()
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")

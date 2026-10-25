@@ -77,6 +77,7 @@ jobs:
           fi
 
       - name: Report back on the issue
+        if: always()
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           APP: ${{ steps.resolve.outputs.arg }}
