@@ -17,10 +17,11 @@ html { -webkit-text-size-adjust: 100%; }
 
 body {
   margin: 0;
-  background:
+  background-color: var(--bg);
+  background-image:
     radial-gradient(900px 420px at 12% -8%, rgba(124, 92, 255, .20), transparent 70%),
-    radial-gradient(700px 380px at 88% -4%, rgba(57, 211, 145, .13), transparent 70%),
-    var(--bg);
+    radial-gradient(700px 380px at 88% -4%, rgba(57, 211, 145, .13), transparent 70%);
+  background-repeat: no-repeat;
   color: var(--text);
   font: 15px/1.5 -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Inter, Roboto, Helvetica, Arial, sans-serif;
 }
