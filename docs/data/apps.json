@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-25T16:59:14Z",
+ "generatedAt": "2026-10-25T17:54:52Z",
  "totals": {
   "tracked": 241,
   "duoReady": 72,
@@ -1203,7 +1203,8 @@
    "firstSeenDuo": "2026-10-25",
    "sources": [
     "chart-paid",
-    "featured"
+    "featured",
+    "watchlist"
    ]
   },
   {
