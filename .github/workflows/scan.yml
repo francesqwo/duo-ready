@@ -23,6 +23,9 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Install dependencies
+        run: python3 -m pip install --quiet requests
+
       - name: Scan the App Store
         run: python3 scraper/scan.py
 
