@@ -1,11 +1,20 @@
 {
- "generatedAt": "2026-10-25T18:03:47Z",
+ "generatedAt": "2026-10-25T18:05:55Z",
  "totals": {
-  "tracked": 241,
-  "duoReady": 72,
-  "checked": 240
+  "tracked": 243,
+  "duoReady": 74,
+  "checked": 243
  },
- "newToday": [],
- "errors": 1,
+ "newToday": [
+  {
+   "id": "1016366447",
+   "name": "Bear Markdown Notes & Journal"
+  },
+  {
+   "id": "1232780281",
+   "name": "Notion: Notes, Tasks, AI"
+  }
+ ],
+ "errors": 0,
  "skippedKnownDuo": 72
 }

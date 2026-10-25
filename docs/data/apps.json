@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-10-25T18:03:47Z",
+ "generatedAt": "2026-10-25T18:05:55Z",
  "totals": {
-  "tracked": 241,
-  "duoReady": 72,
-  "checked": 240
+  "tracked": 243,
+  "duoReady": 74,
+  "checked": 243
  },
  "apps": [
   {
@@ -221,6 +221,26 @@
    "firstSeenDuo": "2026-10-25",
    "sources": [
     "featured"
+   ]
+  },
+  {
+   "id": "1016366447",
+   "name": "Bear Markdown Notes & Journal",
+   "seller": "Shiny Frog Ltd.",
+   "genre": "Productivity",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/0b/d1/bf0bd135-8b4a-39bf-fada-8b3a048665d8/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/bear-markdown-notes-journal/id1016366447",
+   "duo": true,
+   "duoShots": [
+    "1398x2034",
+    "2853x2007"
+   ],
+   "latestRelease": "2026-10-22",
+   "checkedAt": "2026-10-25",
+   "notesMentionDuo": false,
+   "firstSeenDuo": "2026-10-25",
+   "sources": [
+    "watchlist"
    ]
   },
   {
@@ -828,6 +848,26 @@
    "firstSeenDuo": "2026-10-25",
    "sources": [
     "featured"
+   ]
+  },
+  {
+   "id": "1232780281",
+   "name": "Notion: Notes, Tasks, AI",
+   "seller": "Notion Labs, Incorporated",
+   "genre": "Productivity",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/41/8d/a9418d2a-aa4e-a996-a73f-63d7ffccec5f/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/notion-notes-tasks-ai/id1232780281",
+   "duo": true,
+   "duoShots": [
+    "2007x2853",
+    "2853x2007"
+   ],
+   "latestRelease": "2026-10-23",
+   "checkedAt": "2026-10-25",
+   "notesMentionDuo": true,
+   "firstSeenDuo": "2026-10-25",
+   "sources": [
+    "watchlist"
    ]
   },
   {
