@@ -1,8 +1,8 @@
 {
- "generatedAt": "2026-10-25T18:07:40Z",
+ "generatedAt": "2026-10-25T20:50:50Z",
  "totals": {
   "tracked": 243,
-  "duoReady": 74,
+  "duoReady": 73,
   "checked": 243
  },
  "apps": [
@@ -65,26 +65,6 @@
    "firstSeenDuo": "2026-10-25",
    "sources": [
     "featured"
-   ]
-  },
-  {
-   "id": "401626263",
-   "name": "Airbnb",
-   "seller": "Airbnb, Inc.",
-   "genre": "Travel",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b5/02/c0/b502c043-e4eb-3f7c-95e6-772688f3cfe2/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/airbnb/id401626263",
-   "duo": true,
-   "duoShots": [
-    "1398x2034",
-    "2007x2853"
-   ],
-   "latestRelease": "2026-10-23",
-   "checkedAt": "2026-10-25",
-   "notesMentionDuo": false,
-   "firstSeenDuo": "2026-10-25",
-   "sources": [
-    "chart-free"
    ]
   },
   {
@@ -537,6 +517,25 @@
    ]
   },
   {
+   "id": "905401434",
+   "name": "Fubo: Watch Live TV & Sports",
+   "seller": "fuboTV Inc.",
+   "genre": "Entertainment",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/31/22/df/3122df44-5f18-3d49-3ee8-b06bed582663/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/fubo-watch-live-tv-sports/id905401434",
+   "duo": true,
+   "duoShots": [
+    "1398x2034"
+   ],
+   "latestRelease": "2026-10-20",
+   "checkedAt": "2026-10-25",
+   "notesMentionDuo": true,
+   "firstSeenDuo": "2026-10-25",
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
    "id": "6815742588",
    "name": "Greens: Mini-golf",
    "seller": "BSR Films, LLC",
@@ -612,26 +611,6 @@
    "firstSeenDuo": "2026-10-25",
    "sources": [
     "featured"
-   ]
-  },
-  {
-   "id": "339407922",
-   "name": "iBend Pipe",
-   "seller": "Francisco Alcala",
-   "genre": "Productivity",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/57/3d/30573dec-90c6-ac0c-8441-2c69379a3509/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/ibend-pipe/id339407922",
-   "duo": true,
-   "duoShots": [
-    "2007x2853",
-    "2853x2007"
-   ],
-   "latestRelease": "2026-10-24",
-   "checkedAt": "2026-10-25",
-   "notesMentionDuo": true,
-   "firstSeenDuo": "2026-10-25",
-   "sources": [
-    "chart-paid"
    ]
   },
   {
@@ -1647,23 +1626,6 @@
    ]
   },
   {
-   "id": "6462904878",
-   "name": "BigFuture School",
-   "seller": "The College Board",
-   "genre": "Education",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/40/a9/8c40a9b9-d4e4-5fd9-2b1e-b863cb537a05/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/bigfuture-school/id6462904878",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2026-09-30",
-   "checkedAt": "2026-10-25",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-free"
-   ]
-  },
-  {
    "id": "742625884",
    "name": "Blek",
    "seller": "kunabi brother GmbH",
@@ -1783,6 +1745,23 @@
    ]
   },
   {
+   "id": "443321291",
+   "name": "CCW – Concealed Carry 50 State",
+   "seller": "Workman Consulting LLC",
+   "genre": "Reference",
+   "icon": null,
+   "url": "https://apps.apple.com/us/app/ccw-concealed-carry-50-state/id443321291",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2025-08-09",
+   "checkedAt": "2026-10-25",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-paid"
+   ]
+  },
+  {
    "id": "6448311069",
    "name": "ChatGPT",
    "seller": "OpenAI OpCo, LLC",
@@ -1885,23 +1864,6 @@
    ]
   },
   {
-   "id": "6746114452",
-   "name": "CrimeRadar Dispatch Audio",
-   "seller": "Scoopz Inc.",
-   "genre": "News",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/ef/94/21ef9492-46aa-2298-a6c5-406cc9be0c2d/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/crimeradar-dispatch-audio/id6746114452",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2026-10-21",
-   "checkedAt": "2026-10-25",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-free"
-   ]
-  },
-  {
    "id": "1478978570",
    "name": "Crossy Road Castle",
    "seller": "HIPSTER WHALE",
@@ -1979,6 +1941,23 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-19",
+   "checkedAt": "2026-10-25",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "1375031369",
+   "name": "DraftKings: Sports & Casino",
+   "seller": "DraftKings",
+   "genre": "Sports",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/aa/67/ecaa672e-03f8-5938-ac66-411a0f7e4379/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/draftkings-sports-casino/id1375031369",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-10-23",
    "checkedAt": "2026-10-25",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
@@ -2098,6 +2077,23 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-21",
+   "checkedAt": "2026-10-25",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "317469184",
+   "name": "ESPN: Live Sports & Scores",
+   "seller": "Disney",
+   "genre": "Sports",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/37/57/ad37578a-3834-5a83-aa72-a95756310b68/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/espn-live-sports-scores/id317469184",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-10-14",
    "checkedAt": "2026-10-25",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
@@ -2718,6 +2714,23 @@
    ]
   },
   {
+   "id": "1373567447",
+   "name": "Loon",
+   "seller": "Loon Lab Limited",
+   "genre": "Utilities",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/05/63/cb056395-186e-50d5-eba3-0e2801234487/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/loon/id1373567447",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-10-01",
+   "checkedAt": "2026-10-25",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-paid"
+   ]
+  },
+  {
    "id": "1062022008",
    "name": "LumaFusion",
    "seller": "Luma Touch LLC",
@@ -2778,6 +2791,23 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-08-12",
+   "checkedAt": "2026-10-25",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "454638411",
+   "name": "Messenger",
+   "seller": "Meta Platforms, Inc.",
+   "genre": "Social Networking",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/fe/7b/8efe7b74-4fa9-da9c-9799-34c43571db9a/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/messenger/id454638411",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-10-17",
    "checkedAt": "2026-10-25",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
@@ -2905,23 +2935,6 @@
    ]
   },
   {
-   "id": "754105884",
-   "name": "NightCap Camera: Long Exposure",
-   "seller": "RTD",
-   "genre": "Photo & Video",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f8/0b/e5/f80be542-bf77-28e8-c985-b9195ba08d37/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/nightcap-camera-long-exposure/id754105884",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2026-09-19",
-   "checkedAt": "2026-10-25",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-paid"
-   ]
-  },
-  {
    "id": "1581140954",
    "name": "Noir - Dark Mode for Safari",
    "seller": "Jeffrey Kuiken",
@@ -2970,6 +2983,23 @@
    "firstSeenDuo": null,
    "sources": [
     "chart-paid"
+   ]
+  },
+  {
+   "id": "1494523953",
+   "name": "OnePay – Mobile Banking",
+   "seller": "One Finance, Inc.",
+   "genre": "Finance",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/f3/44/f4f34470-27b6-a38f-b6a5-255521b3324b/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/onepay-mobile-banking/id1494523953",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-10-22",
+   "checkedAt": "2026-10-25",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
    ]
   },
   {
@@ -3067,23 +3097,6 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-03",
-   "checkedAt": "2026-10-25",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-paid"
-   ]
-  },
-  {
-   "id": "1134126831",
-   "name": "PhET Simulations",
-   "seller": "University of Colorado Boulder",
-   "genre": "Education",
-   "icon": null,
-   "url": "https://apps.apple.com/us/app/phet-simulations/id1134126831",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2024-10-10",
    "checkedAt": "2026-10-25",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
@@ -3228,23 +3241,6 @@
    ]
   },
   {
-   "id": "1556928106",
-   "name": "Posh – Create & Find Events",
-   "seller": "Posh Group Inc.",
-   "genre": "Entertainment",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/27/b2/a327b276-4ae1-d02c-9680-3cfdb4500cd7/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/posh-create-find-events/id1556928106",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2026-10-19",
-   "checkedAt": "2026-10-25",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-free"
-   ]
-  },
-  {
    "id": "338893931",
    "name": "Prepware Aviation Maintenance",
    "seller": "ASA",
@@ -3347,6 +3343,23 @@
    ]
   },
   {
+   "id": "6461348120",
+   "name": "R8 Companion",
+   "seller": "Angela Mcarthur",
+   "genre": "Utilities",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/30/55/a9305586-239a-d4dc-372c-ddfe645a0f55/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/r8-companion/id6461348120",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-10-10",
+   "checkedAt": "2026-10-25",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-paid"
+   ]
+  },
+  {
    "id": "288419283",
    "name": "RadarScope",
    "seller": "Base Velocity, LLC",
@@ -3378,6 +3391,23 @@
    "firstSeenDuo": null,
    "sources": [
     "chart-paid"
+   ]
+  },
+  {
+   "id": "1593779280",
+   "name": "ReciMe: Recipes & Meal Planner",
+   "seller": "ReciMe Pty Ltd",
+   "genre": "Food & Drink",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/d3/bb/31d3bbf0-a49b-c49f-2eef-11a1a2e05d28/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/recime-recipes-meal-planner/id1593779280",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-10-22",
+   "checkedAt": "2026-10-25",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
    ]
   },
   {
@@ -3463,6 +3493,23 @@
    "firstSeenDuo": null,
    "sources": [
     "chart-free"
+   ]
+  },
+  {
+   "id": "363978811",
+   "name": "Seconds Pro Interval Timer",
+   "seller": "Runloop Ltd",
+   "genre": "Health & Fitness",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/c0/45/a0c04535-1099-1745-481a-d809271a9250/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/seconds-pro-interval-timer/id363978811",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-10-22",
+   "checkedAt": "2026-10-25",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-paid"
    ]
   },
   {
@@ -3585,6 +3632,23 @@
    ]
   },
   {
+   "id": "371817955",
+   "name": "Sporty's E6B Flight Computer",
+   "seller": "Sporty's Pilot Shop",
+   "genre": "Navigation",
+   "icon": null,
+   "url": "https://apps.apple.com/us/app/sportys-e6b-flight-computer/id371817955",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2024-02-17",
+   "checkedAt": "2026-10-25",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-paid"
+   ]
+  },
+  {
    "id": "324684580",
    "name": "Spotify: Music and Podcasts",
    "seller": "Spotify",
@@ -3645,23 +3709,6 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-24",
-   "checkedAt": "2026-10-25",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-paid"
-   ]
-  },
-  {
-   "id": "1564403188",
-   "name": "StbEmuTV (Pro)",
-   "seller": "Junaid Muhammad",
-   "genre": "Entertainment",
-   "icon": null,
-   "url": "https://apps.apple.com/us/app/stbemutv-pro/id1564403188",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2022-09-18",
    "checkedAt": "2026-10-25",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
@@ -3908,23 +3955,6 @@
    ]
   },
   {
-   "id": "329937776",
-   "name": "Tour Tempo",
-   "seller": "Tour Tempo",
-   "genre": "Sports",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/21/bb/4221bb65-96e4-9866-3407-e2f065377f48/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/tour-tempo/id329937776",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2026-10-08",
-   "checkedAt": "2026-10-25",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-paid"
-   ]
-  },
-  {
    "id": "6767364919",
    "name": "Trump Accounts: Official App",
    "seller": "U.S. Department of the Treasury",
@@ -3934,40 +3964,6 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-14",
-   "checkedAt": "2026-10-25",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-free"
-   ]
-  },
-  {
-   "id": "886445756",
-   "name": "Tubi: Movies & Live TV",
-   "seller": "Tubi, Inc",
-   "genre": "Entertainment",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/48/58/35/485835c8-e634-073a-b11f-b5003c92e617/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/tubi-movies-live-tv/id886445756",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2026-10-20",
-   "checkedAt": "2026-10-25",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-free"
-   ]
-  },
-  {
-   "id": "1539090879",
-   "name": "TV Remote - Universal Control",
-   "seller": "EVOLLY.APP",
-   "genre": "Utilities",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/73/d9/6c73d909-6758-1ddc-65d6-6bf6b7ffbd75/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/tv-remote-universal-control/id1539090879",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2026-09-28",
    "checkedAt": "2026-10-25",
    "notesMentionDuo": false,
    "firstSeenDuo": null,

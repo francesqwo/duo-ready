@@ -1,11 +1,16 @@
 {
- "generatedAt": "2026-10-25T18:07:40Z",
+ "generatedAt": "2026-10-25T20:50:50Z",
  "totals": {
   "tracked": 243,
-  "duoReady": 74,
+  "duoReady": 73,
   "checked": 243
  },
- "newToday": [],
+ "newToday": [
+  {
+   "id": "905401434",
+   "name": "Fubo: Watch Live TV & Sports"
+  }
+ ],
  "errors": 0,
- "skippedKnownDuo": 74
+ "skippedKnownDuo": 72
 }
