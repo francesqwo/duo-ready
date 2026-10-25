@@ -173,3 +173,22 @@ select {
   .card { transition: none; }
   .card:hover { transform: none; }
 }
+
+/* Track-an-app */
+.method-lede { color: #c9c9d6; margin: 0 0 14px; }
+.track-row { display: flex; gap: 8px; flex-wrap: wrap; }
+#track-input {
+  flex: 1 1 300px; min-width: 200px;
+  background: #0e0e14; color: var(--text);
+  border: 1px solid var(--line); border-radius: 10px;
+  padding: 10px 12px; font-size: 14px;
+}
+#track-input::placeholder { color: #6d6d7c; }
+#track-btn {
+  appearance: none; border: 0; cursor: pointer;
+  background: linear-gradient(92deg, var(--violet), #5d7dff);
+  color: #0b0716; font-weight: 650; font-size: 14px;
+  padding: 10px 18px; border-radius: 10px;
+}
+#track-btn:hover { filter: brightness(1.08); }
+#track-btn:disabled { opacity: .6; cursor: default; }

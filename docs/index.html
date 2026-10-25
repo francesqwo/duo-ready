@@ -57,6 +57,16 @@
   <p class="empty" id="empty" hidden>No apps match those filters.</p>
 
   <section class="method">
+    <h2>Track an app</h2>
+    <p class="method-lede">Charts and Apple's collections only cover so much. Add any app by name or by pasting its App Store link — it stays tracked from then on and is re-checked whenever its status could change.</p>
+    <div class="track-row">
+      <input id="track-input" type="text" placeholder="Things 3, or https://apps.apple.com/app/id904237743" aria-label="App name or App Store link">
+      <button id="track-btn" type="button">Track it</button>
+    </div>
+    <p class="fineprint" id="track-hint">Opens a GitHub issue on the repo; the Action adds it to the watchlist and replies there with its status.</p>
+  </section>
+
+  <section class="method">
     <h2>How this works</h2>
     <ol>
       <li>Every 6 hours a GitHub Action scans the US App Store: top-free 100, top-paid 100, Apple's own “Great Apps and Games on iPhone Duo” collections, plus a watchlist of apps added by hand.</li>

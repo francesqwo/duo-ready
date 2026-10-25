@@ -25,7 +25,13 @@ python3 scraper/scan.py --add "Things 3"      # by name
 python3 scraper/scan.py --add 904237743       # by App Store id
 ```
 
-or from GitHub: Actions → *Scan App Store for iPhone Duo-ready apps* → Run workflow, and put the name/id in the `app` field. The workflow adds it and rescans.
+Three other routes, easiest first:
+
+1. **On the site** — “Track an app” box at the bottom of the page. It opens a prefilled GitHub issue; `track.yml` picks it up, adds the app, scans it and comments the result back before closing the issue (owner-only).
+2. **GitHub UI** — Actions → *Scan App Store for iPhone Duo-ready apps* → **Run workflow**, put the name or id in the `app` field.
+3. **Issue** — open an issue titled `Track: <app name>` (paste an App Store link in the body and its id wins).
+
+`--add` only touches `docs/data/watchlist.json`; the next scan does the actual check.
 
 ### Re-check policy
 

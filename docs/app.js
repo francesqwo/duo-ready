@@ -104,6 +104,32 @@ function wire() {
   });
 }
 
+function wireTrack() {
+  const input = $('#track-input');
+  const button = $('#track-btn');
+  if (!input || !button) return;
+
+  const submit = () => {
+    const value = input.value.trim();
+    if (!value) { input.focus(); return; }
+    const idMatch = value.match(/id(\d{6,})/);
+    const title = idMatch ? `Track: ${idMatch[1]}` : `Track: ${value}`;
+    const body = [
+      idMatch ? `App Store id: ${idMatch[1]}` : `App: ${value}`,
+      '',
+      'Added from the Duo Ready site.',
+    ].join('\n');
+    const url = 'https://github.com/francesqwo/duo-ready/issues/new'
+      + `?title=${encodeURIComponent(title)}`
+      + `&body=${encodeURIComponent(body)}`;
+    window.open(url, '_blank', 'noopener');
+    $('#track-hint').textContent = 'Issue opened — the Action adds it within a minute and replies there.';
+  };
+
+  button.addEventListener('click', submit);
+  input.addEventListener('keydown', (event) => { if (event.key === 'Enter') submit(); });
+}
+
 async function boot() {
   try {
     const response = await fetch('data/apps.json', { cache: 'no-cache' });
@@ -121,6 +147,7 @@ async function boot() {
 
     buildGenres();
     wire();
+    wireTrack();
     render();
   } catch (error) {
     $('#resultline').textContent = `Could not load data (${error.message}). Try reloading.`;

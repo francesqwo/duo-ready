@@ -1,0 +1,100 @@
+name: Track requested app
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: duo-track
+  cancel-in-progress: false
+
+jobs:
+  track:
+    # Only the repo owner can add apps this way; anyone else's issue is ignored.
+    if: >-
+      startsWith(github.event.issue.title, 'Track:') &&
+      github.event.issue.user.login == github.repository_owner
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      ISSUE_TITLE: ${{ github.event.issue.title }}
+      ISSUE_BODY: ${{ github.event.issue.body }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: python3 -m pip install --quiet requests
+
+      - name: Work out what to track
+        id: resolve
+        run: |
+          set -euo pipefail
+          # An App Store id anywhere in the issue body wins (pasted link).
+          app_id=$(printf '%s' "$ISSUE_BODY" | grep -oE 'id[0-9]{6,}' | head -1 | sed 's/^id//' || true)
+          if [ -n "${app_id:-}" ]; then
+            arg="$app_id"
+          else
+            arg="${ISSUE_TITLE#Track: }"
+            arg="$(printf '%s' "$arg" | sed 's/^[[:space:]]*//; s/[[:space:]]*$//')"
+          fi
+          if [ -z "$arg" ]; then
+            echo "nothing to track" >&2
+            exit 1
+          fi
+          echo "arg=$arg" >> "$GITHUB_OUTPUT"
+          echo "tracking: $arg"
+
+      - name: Add to watchlist
+        run: python3 scraper/scan.py --add "${{ steps.resolve.outputs.arg }}"
+
+      - name: Check it now
+        env:
+          RESUME: "1"
+          BUDGET_SECONDS: "420"
+          MIN_INTERVAL: "1.2"
+        run: python3 scraper/scan.py
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data/apps.json docs/data/meta.json docs/data/watchlist.json
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "track: ${{ steps.resolve.outputs.arg }}"
+            git push
+          fi
+
+      - name: Report back on the issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          APP: ${{ steps.resolve.outputs.arg }}
+        run: |
+          result=$(python3 - <<'PY'
+          import json, pathlib
+          data = json.loads(pathlib.Path("docs/data/apps.json").read_text())
+          watch = {str(w["id"]) for w in json.loads(pathlib.Path("docs/data/watchlist.json").read_text())}
+          rows = [a for a in data["apps"] if str(a["id"]) in watch]
+          if not rows:
+              print("Added to the watchlist, but the scan could not read its App Store record yet.")
+          else:
+              for a in rows:
+                  state = "Duo-ready ✅" if a.get("duo") else "not Duo-ready yet ❌"
+                  print(f"{a['name']} — {state}")
+          PY
+          )
+          gh issue comment "${{ github.event.issue.number }}" --body "$result
+
+          Tracked in \`docs/data/watchlist.json\`; this issue closes itself."
+          gh issue close "${{ github.event.issue.number }}"
