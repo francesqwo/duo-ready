@@ -43,9 +43,12 @@ DUO_SLOT = "cassatt"
 SESSION = requests.Session()
 SESSION.headers.update({"User-Agent": UA, "Accept": "application/json"})
 
-# Apple's storefront proxy throttles bursts hard (~a few requests/second, then
-# 429 for a while). A steady ~1 req/s with jitter stays under it.
-MIN_INTERVAL = 2.0
+# Apple's storefront proxy throttles bursts hard (a few requests/second, then
+# 429 for a while — data-centre IPs get it worse). Pace gently, do not chase a
+# 429 for long, and let the next scheduled run fill whatever was skipped.
+MIN_INTERVAL = float(os.environ.get("MIN_INTERVAL", "1.2"))
+BUDGET_SECONDS = int(os.environ.get("BUDGET_SECONDS", "540"))
+STARTED = time.time()
 _last_request = 0.0
 
 
@@ -53,27 +56,25 @@ def _throttle():
     global _last_request
     wait = MIN_INTERVAL - (time.time() - _last_request)
     if wait > 0:
-        time.sleep(wait + random.uniform(0, 0.35))
+        time.sleep(wait + random.uniform(0, 0.3))
     _last_request = time.time()
 
 
-def get_json(url: str, tries: int = 4):
+def get_json(url: str, tries: int = 3):
     for attempt in range(tries):
         _throttle()
         try:
-            response = SESSION.get(url, timeout=20)
-            if response.status_code == 429:
-                if attempt < tries - 1:
-                    pause = 25 * (attempt + 1)
-                    print(f"    429, cooling down {pause}s", file=sys.stderr, flush=True)
-                    time.sleep(pause)
-                    continue
-                response.raise_for_status()
+            response = SESSION.get(url, timeout=15)
+            if response.status_code == 429 and attempt < tries - 1:
+                pause = 8 * (attempt + 1)
+                print(f"    429, waiting {pause}s", file=sys.stderr, flush=True)
+                time.sleep(pause)
+                continue
             response.raise_for_status()
             return response.json()
         except (requests.RequestException, ValueError):
             if attempt < tries - 1:
-                time.sleep(5 * (attempt + 1))
+                time.sleep(3 * (attempt + 1))
                 continue
             raise
     raise RuntimeError("unreachable")
@@ -213,7 +214,13 @@ def main() -> int:
     errors = 0
 
     resume = os.environ.get("RESUME") == "1"
+    stopped_early = False
     for index, (app_id, sources) in enumerate(sorted(universe.items()), 1):
+        if time.time() - STARTED > BUDGET_SECONDS:
+            stopped_early = True
+            print(f"  budget of {BUDGET_SECONDS}s reached at {index - 1}/{total} — "
+                  "committing what we have; the next run continues", flush=True)
+            break
         cached = previous.get(app_id)
         if resume and cached and cached.get("checkedAt") == today:
             cached = dict(cached)
@@ -238,10 +245,20 @@ def main() -> int:
         apps.append(record)
 
         if index % 10 == 0:
-            print(f"  {index}/{total} · duo {sum(1 for a in apps if a.get('duo'))} · errors {errors}", flush=True)
-        if index % 50 == 0:
+            elapsed = int(time.time() - STARTED)
+            print(f"  {index}/{total} · duo {sum(1 for a in apps if a.get('duo'))} · "
+                  f"errors {errors} · {elapsed}s", flush=True)
+        if index % 25 == 0:
             apps.sort(key=lambda a: (not a.get("duo"), (a.get("name") or "").lower()))
             write_payload(apps, errors)
+
+    # carry over anything we did not get to this run (budget stop / persistent 429)
+    processed = {a["id"] for a in apps}
+    for app_id, sources in sorted(universe.items()):
+        if app_id not in processed and app_id in previous:
+            stale = dict(previous[app_id])
+            stale["sources"] = sorted(sources)
+            apps.append(stale)
 
     apps.sort(key=lambda a: (not a.get("duo"), (a.get("name") or "").lower()))
     payload = write_payload(apps, errors)

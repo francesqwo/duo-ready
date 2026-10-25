@@ -59,7 +59,7 @@
   <section class="method">
     <h2>How this works</h2>
     <ol>
-      <li>Every day a GitHub Action scans the US App Store: top-free 100, top-paid 100, and Apple's own “Great Apps and Games on iPhone Duo” collections.</li>
+      <li>Every 6 hours a GitHub Action scans the US App Store: top-free 100, top-paid 100, and Apple's own “Great Apps and Games on iPhone Duo” collections.</li>
       <li>For each app it reads the public App Store catalog record and looks for the iPhone Duo screenshot slot. Duo screenshots are the only assets at 1398×2034 / 2034×1398 (outer display) and 2007×2853 / 2853×2007 (inner display).</li>
       <li>Apple shows the <em>Made for iPhone Duo</em> badge once an app submits those screenshots, so the slot is the machine-readable counterpart of the badge.</li>
     </ol>
@@ -68,7 +68,7 @@
 </main>
 
 <footer class="foot wrap">
-  <span>Data: Apple App Store, US storefront · updated daily</span>
+  <span>Data: Apple App Store, US storefront · refreshed every 6 hours</span>
   <span>Vibecoded with Hermes Agent · MIT</span>
 </footer>
 

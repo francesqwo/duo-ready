@@ -17,7 +17,7 @@ So the tracker reads the public catalog record for each app and checks for that 
 - US App Store **top-free 100** and **top-paid 100** (Apple marketing RSS)
 - Apple's editorial collections *Great Apps and Games on iPhone Duo* and *Great Games on iPhone Duo*
 
-Roughly 220–250 unique apps per run, one catalog request each, ~0.3 s apart.
+Roughly 220–250 unique apps per run, one catalog request each. Apple's storefront proxy rate-limits bursts, so the scanner paces itself, stops after a time budget (`BUDGET_SECONDS`, default 540 s) and keeps the previous record for anything it did not reach. The workflow runs every 6 hours with `RESUME=1`, so successive runs on the same day fill in the gaps instead of starting over.
 
 ## Layout
 
@@ -32,6 +32,11 @@ docs/data/meta.json    # generated: run metadata + new-today list
 ```
 
 ## Run locally
+
+```bash
+BUDGET_SECONDS=120 python3 scraper/scan.py   # partial run, keeps old records
+RESUME=1 python3 scraper/scan.py             # continue where the last run stopped
+```
 
 ```bash
 python3 scraper/scan.py            # writes docs/data/*.json

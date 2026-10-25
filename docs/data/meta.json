@@ -1,11 +1,10 @@
 {
- "generatedAt": "2026-10-25T16:40:00Z",
+ "generatedAt": "2026-10-25T16:53:35Z",
  "totals": {
-  "tracked": 100,
+  "tracked": 99,
   "duoReady": 17,
-  "checked": 100
+  "checked": 98
  },
  "newToday": [],
- "errors": 0,
- "seed": true
+ "errors": 1
 }
