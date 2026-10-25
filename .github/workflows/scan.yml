@@ -1,0 +1,40 @@
+name: Scan App Store for iPhone Duo-ready apps
+
+on:
+  schedule:
+    - cron: "17 6 * * *"   # daily, 06:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: duo-scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Scan the App Store
+        run: python3 scraper/scan.py
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data/apps.json docs/data/meta.json
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            summary=$(python3 -c "import json;d=json.load(open('docs/data/meta.json'));t=d['totals'];print(f\"{t['duoReady']}/{t['tracked']} Duo-ready\")")
+            git commit -m "data: ${summary} ($(date -u +%Y-%m-%d))"
+            git push
+          fi

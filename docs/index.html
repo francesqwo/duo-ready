@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Duo Ready — iPhone Duo app tracker</title>
+<meta name="description" content="Which App Store apps are ready for iPhone Duo? A daily-updated tracker built from App Store data.">
+<meta property="og:title" content="Duo Ready — iPhone Duo app tracker">
+<meta property="og:description" content="Which App Store apps are ready for iPhone Duo? A daily-updated tracker built from App Store data.">
+<meta property="og:type" content="website">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='22' fill='%230b0b0f'/><rect x='16' y='24' width='30' height='52' rx='5' fill='%237c5cff'/><rect x='54' y='24' width='30' height='52' rx='5' fill='%2339d391'/></svg>">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="hero">
+  <div class="wrap">
+    <div class="brand">
+      <svg viewBox="0 0 100 100" aria-hidden="true"><rect x="10" y="20" width="36" height="60" rx="6" fill="#7c5cff"/><rect x="54" y="20" width="36" height="60" rx="6" fill="#39d391"/></svg>
+      <span>Duo Ready</span>
+    </div>
+    <h1>Which apps are ready for <span class="grad">iPhone&nbsp;Duo</span>?</h1>
+    <p class="lede">A tracker built from App Store data. An app counts as ready when it has shipped iPhone&nbsp;Duo screenshots — the same thing that puts Apple's <em>Made for iPhone Duo</em> badge on its product page.</p>
+    <div class="stats" id="stats">
+      <div class="stat"><strong id="stat-ready">—</strong><span>Duo-ready</span></div>
+      <div class="stat"><strong id="stat-total">—</strong><span>tracked</span></div>
+      <div class="stat"><strong id="stat-pct">—</strong><span>of tracked set</span></div>
+      <div class="stat"><strong id="stat-updated">—</strong><span>last scan (UTC)</span></div>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="controls" aria-label="Filters">
+    <input id="search" type="search" placeholder="Search app, developer, category…" autocomplete="off" aria-label="Search apps">
+    <div class="pills" role="group" aria-label="Status">
+      <button class="pill is-active" data-status="all">All</button>
+      <button class="pill" data-status="ready">Duo-ready</button>
+      <button class="pill" data-status="pending">Not yet</button>
+    </div>
+    <div class="pills" role="group" aria-label="Source">
+      <button class="pill is-active" data-source="all">Everywhere</button>
+      <button class="pill" data-source="featured">Apple featured</button>
+      <button class="pill" data-source="chart">Charts</button>
+    </div>
+    <select id="genre" aria-label="Category">
+      <option value="all">All categories</option>
+    </select>
+    <select id="sort" aria-label="Sort">
+      <option value="status">Ready first</option>
+      <option value="name">Name A–Z</option>
+      <option value="recent">Recently added</option>
+    </select>
+  </section>
+
+  <p class="resultline" id="resultline"></p>
+  <section id="grid" class="grid" aria-live="polite"></section>
+  <p class="empty" id="empty" hidden>No apps match those filters.</p>
+
+  <section class="method">
+    <h2>How this works</h2>
+    <ol>
+      <li>Every day a GitHub Action scans the US App Store: top-free 100, top-paid 100, and Apple's own “Great Apps and Games on iPhone Duo” collections.</li>
+      <li>For each app it reads the public App Store catalog record and looks for the iPhone Duo screenshot slot. Duo screenshots are the only assets at 1398×2034 / 2034×1398 (outer display) and 2007×2853 / 2853×2007 (inner display).</li>
+      <li>Apple shows the <em>Made for iPhone Duo</em> badge once an app submits those screenshots, so the slot is the machine-readable counterpart of the badge.</li>
+    </ol>
+    <p class="fineprint">Caveats: “Not yet” means no Duo screenshots uploaded — an app can be recompiled for iOS 27.1 and still show nothing here. From April 2027 Apple requires Duo screenshots for new submissions, so the “not yet” column will drain. Data comes from an undocumented App Store endpoint and can break without notice. Not affiliated with Apple.</p>
+  </section>
+</main>
+
+<footer class="foot wrap">
+  <span>Data: Apple App Store, US storefront · updated daily</span>
+  <span>Vibecoded with Hermes Agent · MIT</span>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
