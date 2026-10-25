@@ -186,9 +186,63 @@ def write_payload(apps: list[dict], errors: int) -> dict:
     return payload
 
 
+def days_since(date_str: str | None) -> int:
+    if not date_str:
+        return 9999
+    try:
+        when = datetime.strptime(date_str, "%Y-%m-%d").replace(tzinfo=timezone.utc)
+    except ValueError:
+        return 9999
+    return (datetime.now(timezone.utc) - when).days
+
+
+def watchlist_path() -> Path:
+    return OUT / "watchlist.json"
+
+
+def load_watchlist() -> list[dict]:
+    try:
+        return json.loads(watchlist_path().read_text())
+    except Exception:
+        return []
+
+
+def add_to_watchlist(term: str) -> int:
+    """Add one app (App Store id or name) to the watchlist and check it now."""
+    term = term.strip()
+    if term.isdigit():
+        app_id, name = term, None
+    else:
+        found = get_json("https://itunes.apple.com/search?term=%s&entity=software&country=us&limit=1"
+                         % term.replace(" ", "+"))["results"]
+        if not found:
+            print(f"no App Store result for {term!r}", file=sys.stderr)
+            return 1
+        app_id, name = str(found[0]["trackId"]), found[0]["trackName"]
+
+    entries = load_watchlist()
+    if any(str(entry.get("id")) == app_id for entry in entries):
+        print(f"already watched: {app_id}")
+    else:
+        entries.append({"id": app_id, "name": name or app_id,
+                        "addedAt": datetime.now(timezone.utc).strftime("%Y-%m-%d")})
+        OUT.mkdir(parents=True, exist_ok=True)
+        watchlist_path().write_text(json.dumps(entries, ensure_ascii=False, indent=1))
+        print(f"added to watchlist: {name or app_id} ({app_id})")
+    return 0
+
+
 def main() -> int:
+    args = sys.argv[1:]
+    if args and args[0] in ("--add", "-a"):
+        if len(args) < 2:
+            print("usage: scan.py --add '<app name or App Store id>'", file=sys.stderr)
+            return 2
+        return add_to_watchlist(" ".join(args[1:]))
+
     previous = load_previous()
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    recheck_days = int(os.environ.get("RECHECK_DAYS", "30"))
 
     universe: dict[str, set[str]] = {}
     for kind, tag in (("top-free", "chart-free"), ("top-paid", "chart-paid")):
@@ -208,20 +262,47 @@ def main() -> int:
             universe.setdefault(app_id, set()).add("featured")
         print(f"  featured {story.rsplit('/', 1)[-1]}: {len(ids)} ids", flush=True)
 
+    for entry in load_watchlist():
+        universe.setdefault(str(entry["id"]), set()).add("watchlist")
+    print(f"  watchlist: {len(load_watchlist())} ids", flush=True)
+
     total = len(universe)
     print(f"universe: {total} unique apps", flush=True)
+
+    # Never-checked apps first, then apps not yet Duo-ready, then periodic
+    # re-checks of apps already known to be ready (their flag rarely regresses).
+    def priority(app_id: str):
+        record = previous.get(app_id)
+        if not record:
+            return (0, 0)
+        if not record.get("duo"):
+            return (1, -(days_since(record.get("checkedAt"))))
+        return (2, -(days_since(record.get("checkedAt"))))
+
+    ordered = sorted(universe.items(), key=lambda item: priority(item[0]))
+
     apps: list[dict] = []
     errors = 0
+    skipped_known = 0
 
     resume = os.environ.get("RESUME") == "1"
-    stopped_early = False
-    for index, (app_id, sources) in enumerate(sorted(universe.items()), 1):
-        if time.time() - STARTED > BUDGET_SECONDS:
-            stopped_early = True
+    scan_started = time.time()   # the budget covers the scan loop, not discovery
+    for index, (app_id, sources) in enumerate(ordered, 1):
+        if time.time() - scan_started > BUDGET_SECONDS:
             print(f"  budget of {BUDGET_SECONDS}s reached at {index - 1}/{total} — "
                   "committing what we have; the next run continues", flush=True)
             break
         cached = previous.get(app_id)
+
+        # Duo-ready is effectively monotonic: don't spend the budget re-checking
+        # apps that already have their badge until RECHECK_DAYS have passed.
+        if cached and cached.get("duo") and days_since(cached.get("checkedAt")) < recheck_days:
+            cached = dict(cached)
+            cached["sources"] = sorted(sources)
+            apps.append(cached)
+            skipped_known += 1
+            continue
+
         if resume and cached and cached.get("checkedAt") == today:
             cached = dict(cached)
             cached["sources"] = sorted(sources)
@@ -245,7 +326,7 @@ def main() -> int:
         apps.append(record)
 
         if index % 10 == 0:
-            elapsed = int(time.time() - STARTED)
+            elapsed = int(time.time() - scan_started)
             print(f"  {index}/{total} · duo {sum(1 for a in apps if a.get('duo'))} · "
                   f"errors {errors} · {elapsed}s", flush=True)
         if index % 25 == 0:
@@ -270,9 +351,11 @@ def main() -> int:
         "totals": payload["totals"],
         "newToday": [{"id": a["id"], "name": a["name"]} for a in newly],
         "errors": errors,
+        "skippedKnownDuo": skipped_known,
     }
     (OUT / "meta.json").write_text(json.dumps(meta, ensure_ascii=False, indent=1))
-    print(f"done: {payload['totals']['duoReady']}/{len(apps)} duo-ready, {len(newly)} new today, {errors} errors", flush=True)
+    print(f"done: {payload['totals']['duoReady']}/{len(apps)} duo-ready, "
+          f"{len(newly)} new today, {errors} errors, {skipped_known} known-duo skipped", flush=True)
     return 0
 
 

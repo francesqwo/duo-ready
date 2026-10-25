@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "17 */6 * * *"   # every 6 hours; runs converge on the full set
   workflow_dispatch:
+    inputs:
+      app:
+        description: "Optional: app name or App Store id to add to the watchlist"
+        required: false
+        type: string
 
 permissions:
   contents: write
@@ -15,7 +20,7 @@ concurrency:
 jobs:
   scan:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
 
@@ -26,18 +31,25 @@ jobs:
       - name: Install dependencies
         run: python3 -m pip install --quiet requests
 
+      - name: Add requested app to the watchlist
+        if: ${{ inputs.app != '' }}
+        env:
+          APP: ${{ inputs.app }}
+        run: python3 scraper/scan.py --add "$APP"
+
       - name: Scan the App Store
         env:
-          RESUME: "1"          # reuse records already refreshed today, so a
-          BUDGET_SECONDS: "600" # throttled run still commits and the next fills gaps
+          RESUME: "1"            # reuse records already refreshed today
+          BUDGET_SECONDS: "600"  # stop and commit; the next run fills the gaps
           MIN_INTERVAL: "1.2"
+          RECHECK_DAYS: "30"     # don't re-check known Duo-ready apps for a month
         run: python3 scraper/scan.py
 
       - name: Commit refreshed data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/data/apps.json docs/data/meta.json
+          git add docs/data/apps.json docs/data/meta.json docs/data/watchlist.json
           if git diff --cached --quiet; then
             echo "no changes"
           else

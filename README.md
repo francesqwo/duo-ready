@@ -16,6 +16,20 @@ So the tracker reads the public catalog record for each app and checks for that 
 
 - US App Store **top-free 100** and **top-paid 100** (Apple marketing RSS)
 - Apple's editorial collections *Great Apps and Games on iPhone Duo* and *Great Games on iPhone Duo*
+- Anything on the **watchlist** (`docs/data/watchlist.json`) — arbitrary apps, checked app-by-app
+
+Anything outside that set is not scanned. To track a specific app:
+
+```bash
+python3 scraper/scan.py --add "Things 3"      # by name
+python3 scraper/scan.py --add 904237743       # by App Store id
+```
+
+or from GitHub: Actions → *Scan App Store for iPhone Duo-ready apps* → Run workflow, and put the name/id in the `app` field. The workflow adds it and rescans.
+
+### Re-check policy
+
+Duo readiness is effectively one-way — once an app ships Duo screenshots it keeps them. So apps already marked Duo-ready are **not** re-requested until `RECHECK_DAYS` (default 30) have passed; their record is carried forward untouched. Each run spends its budget on apps it has never seen, then on apps still marked "not yet", and only then on the oldest re-checks.
 
 Roughly 220–250 unique apps per run, one catalog request each. Apple's storefront proxy rate-limits bursts, so the scanner paces itself, stops after a time budget (`BUDGET_SECONDS`, default 540 s) and keeps the previous record for anything it did not reach. The workflow runs every 6 hours with `RESUME=1`, so successive runs on the same day fill in the gaps instead of starting over.
 
