@@ -17,14 +17,14 @@ from __future__ import annotations
 
 import json
 import os
+import random
 import re
 import sys
 import time
-import urllib.error
-import urllib.parse
-import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
+
+import requests
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "docs" / "data"
@@ -40,35 +40,54 @@ STORIES = [
 
 DUO_SLOT = "cassatt"
 
+SESSION = requests.Session()
+SESSION.headers.update({"User-Agent": UA, "Accept": "application/json"})
 
-def get(url: str, tries: int = 4, timeout: int = 30):
+# Apple's storefront proxy throttles bursts hard (~a few requests/second, then
+# 429 for a while). A steady ~1 req/s with jitter stays under it.
+MIN_INTERVAL = 2.0
+_last_request = 0.0
+
+
+def _throttle():
+    global _last_request
+    wait = MIN_INTERVAL - (time.time() - _last_request)
+    if wait > 0:
+        time.sleep(wait + random.uniform(0, 0.35))
+    _last_request = time.time()
+
+
+def get_json(url: str, tries: int = 4):
     for attempt in range(tries):
+        _throttle()
         try:
-            req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/json"})
-            with urllib.request.urlopen(req, timeout=timeout) as r:
-                return json.load(r)
-        except urllib.error.HTTPError as e:
-            if e.code in (429, 500, 502, 503) and attempt < tries - 1:
-                time.sleep(5 * (attempt + 1))
-                continue
-            raise
-        except (urllib.error.URLError, TimeoutError):
+            response = SESSION.get(url, timeout=20)
+            if response.status_code == 429:
+                if attempt < tries - 1:
+                    pause = 25 * (attempt + 1)
+                    print(f"    429, cooling down {pause}s", file=sys.stderr, flush=True)
+                    time.sleep(pause)
+                    continue
+                response.raise_for_status()
+            response.raise_for_status()
+            return response.json()
+        except (requests.RequestException, ValueError):
             if attempt < tries - 1:
-                time.sleep(3 * (attempt + 1))
+                time.sleep(5 * (attempt + 1))
                 continue
             raise
     raise RuntimeError("unreachable")
 
 
-def get_text(url: str, tries: int = 4) -> str:
+def get_text(url: str, tries: int = 3) -> str:
     for attempt in range(tries):
         try:
-            req = urllib.request.Request(url, headers={"User-Agent": UA})
-            with urllib.request.urlopen(req, timeout=30) as r:
-                return r.read().decode("utf-8", "replace")
-        except (urllib.error.HTTPError, urllib.error.URLError, TimeoutError):
+            response = SESSION.get(url, timeout=20)
+            response.raise_for_status()
+            return response.text
+        except requests.RequestException:
             if attempt < tries - 1:
-                time.sleep(4 * (attempt + 1))
+                time.sleep(3 * (attempt + 1))
                 continue
             raise
     raise RuntimeError("unreachable")
@@ -77,28 +96,23 @@ def get_text(url: str, tries: int = 4) -> str:
 def chart_ids(kind: str, limit: int = 100, country: str = "us") -> list[str]:
     url = f"https://rss.marketingtools.apple.com/api/v2/{country}/apps/{kind}/{limit}/apps.json"
     try:
-        feed = get(url)["feed"]["results"]
-        return [str(a["id"]) for a in feed]
-    except Exception as exc:  # chart hiccup must not kill the run
-        print(f"  ! chart {kind} failed: {exc}", file=sys.stderr)
+        return [str(a["id"]) for a in get_json(url)["feed"]["results"]]
+    except Exception as exc:  # a chart hiccup must not kill the run
+        print(f"  ! chart {kind} failed: {exc}", file=sys.stderr, flush=True)
         return []
 
 
 def story_apps(url: str) -> list[str]:
     """Apple editorial collections: pull Lockup entries out of the SSR JSON."""
     html = get_text(url)
-    m = re.search(r'<script type="application/json" id="serialized-server-data">(.*?)</script>', html, re.S)
-    if not m:
+    match = re.search(r'<script type="application/json" id="serialized-server-data">(.*?)</script>', html, re.S)
+    if not match:
         return []
-    blob = m.group(1)
-    # unescape the HTML entities JSON ships with
-    blob = (blob.replace("&quot;", '"').replace("&amp;", "&")
-                .replace("&lt;", "<").replace("&gt;", ">").replace("&#39;", "'"))
+    blob = match.group(1)
     try:
         data = json.loads(blob)
     except json.JSONDecodeError:
-        ids = re.findall(r'"adamId":\s*"?(\d{6,})"?', blob)
-        return list(dict.fromkeys(ids))
+        return list(dict.fromkeys(re.findall(r'"adamId":\s*"?(\d{6,})"?', blob)))
 
     found: list[str] = []
 
@@ -126,16 +140,13 @@ def app_record(app_id: str, country: str = "us") -> dict:
     url = (f"https://apps.apple.com/api/apps/v1/catalog/{country}/apps/{app_id}"
            "?platform=web&additionalPlatforms=iphone%2Cipad"
            "&extend=customScreenshotsByType%2CiconArtwork%2CversionHistory&l=en-US")
-    data = get(url)["data"][0]
-    attrs = data["attributes"]
+    attrs = get_json(url)["data"][0]["attributes"]
     ios = attrs.get("platformAttributes", {}).get("ios", {})
     shots = (ios.get("customAttributes", {}).get("default", {})
              .get("default", {}).get("customScreenshotsByType", {}))
     versions = ios.get("versionHistory") or []
-    latest = None
-    if versions:
-        latest = max(versions, key=lambda v: v.get("releaseDate") or "")
-    notes = (latest or {}).get("releaseNotes") or ""
+    latest = max(versions, key=lambda v: v.get("releaseDate") or "") if versions else {}
+    notes = latest.get("releaseNotes") or ""
     return {
         "id": str(app_id),
         "name": attrs.get("name"),
@@ -145,7 +156,8 @@ def app_record(app_id: str, country: str = "us") -> dict:
         "url": attrs.get("url"),
         "duo": DUO_SLOT in shots,
         "duoShots": sorted({f"{s.get('width')}x{s.get('height')}" for s in shots.get(DUO_SLOT, [])}),
-        "latestRelease": (latest or {}).get("releaseDate"),
+        "latestRelease": latest.get("releaseDate"),
+        "checkedAt": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
         "notesMentionDuo": "duo" in notes.lower(),
     }
 
@@ -154,10 +166,23 @@ def load_previous() -> dict:
     if not STATE.exists():
         return {}
     try:
-        data = json.loads(STATE.read_text())
-        return {a["id"]: a for a in data.get("apps", [])}
+        return {a["id"]: a for a in json.loads(STATE.read_text()).get("apps", [])}
     except Exception:
         return {}
+
+
+def write_payload(apps: list[dict], errors: int) -> dict:
+    ready = [a for a in apps if a.get("duo")]
+    payload = {
+        "generatedAt": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "totals": {"tracked": len(apps), "duoReady": len(ready), "checked": len(apps) - errors},
+        "apps": apps,
+    }
+    OUT.mkdir(parents=True, exist_ok=True)
+    tmp = STATE.with_suffix(".tmp")
+    tmp.write_text(json.dumps(payload, ensure_ascii=False, indent=1))
+    tmp.replace(STATE)
+    return payload
 
 
 def main() -> int:
@@ -165,70 +190,64 @@ def main() -> int:
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
     universe: dict[str, set[str]] = {}
-    for kind in ("top-free", "top-paid"):
-        for app_id in chart_ids(kind):
-            universe.setdefault(app_id, set()).add("chart-" + kind.split("-")[1])
-        print(f"  {kind}: {len([1 for v in universe.values() if 'chart-' + kind.split('-')[1] in v])} ids")
-        time.sleep(0.4)
+    for kind, tag in (("top-free", "chart-free"), ("top-paid", "chart-paid")):
+        ids = chart_ids(kind)
+        for app_id in ids:
+            universe.setdefault(app_id, set()).add(tag)
+        print(f"  {tag}: {len(ids)} ids", flush=True)
+        time.sleep(0.3)
 
     for story in STORIES:
         try:
             ids = story_apps(story)
         except Exception as exc:
-            print(f"  ! story failed ({story}): {exc}", file=sys.stderr)
+            print(f"  ! story failed ({story}): {exc}", file=sys.stderr, flush=True)
             ids = []
         for app_id in ids:
             universe.setdefault(app_id, set()).add("featured")
-        print(f"  featured {story.rsplit('/', 1)[-1]}: {len(ids)} ids")
+        print(f"  featured {story.rsplit('/', 1)[-1]}: {len(ids)} ids", flush=True)
 
-    print(f"universe: {len(universe)} unique apps")
+    total = len(universe)
+    print(f"universe: {total} unique apps", flush=True)
     apps: list[dict] = []
     errors = 0
 
+    resume = os.environ.get("RESUME") == "1"
     for index, (app_id, sources) in enumerate(sorted(universe.items()), 1):
+        cached = previous.get(app_id)
+        if resume and cached and cached.get("checkedAt") == today:
+            cached = dict(cached)
+            cached["sources"] = sorted(sources)
+            apps.append(cached)
+            continue
         try:
             record = app_record(app_id)
         except Exception as exc:
             errors += 1
-            print(f"  ! {app_id}: {exc}", file=sys.stderr)
+            print(f"  ! {app_id}: {exc}", file=sys.stderr, flush=True)
             stale = previous.get(app_id)
             if stale:
                 stale = dict(stale)
                 stale["sources"] = sorted(sources)
                 apps.append(stale)
-            time.sleep(1.5)
+            time.sleep(1)
             continue
 
-        previous_record = previous.get(app_id, {})
-        if record["duo"]:
-            first_seen = previous_record.get("firstSeenDuo") or today
-        else:
-            first_seen = None
-        record["firstSeenDuo"] = first_seen
+        record["firstSeenDuo"] = (previous.get(app_id, {}).get("firstSeenDuo") or today) if record["duo"] else None
         record["sources"] = sorted(sources)
         apps.append(record)
-        if index % 25 == 0:
-            print(f"  scanned {index}/{len(universe)} (duo so far: {sum(1 for a in apps if a.get('duo'))})")
-        time.sleep(0.3)
+
+        if index % 10 == 0:
+            print(f"  {index}/{total} · duo {sum(1 for a in apps if a.get('duo'))} · errors {errors}", flush=True)
+        if index % 50 == 0:
+            apps.sort(key=lambda a: (not a.get("duo"), (a.get("name") or "").lower()))
+            write_payload(apps, errors)
 
     apps.sort(key=lambda a: (not a.get("duo"), (a.get("name") or "").lower()))
-    ready = [a for a in apps if a.get("duo")]
-    newly = [a for a in ready if a.get("firstSeenDuo") == today and a["id"] not in previous]
+    payload = write_payload(apps, errors)
+    newly = [a for a in payload["apps"] if a.get("duo") and a.get("firstSeenDuo") == today and a["id"] not in previous]
 
     OUT.mkdir(parents=True, exist_ok=True)
-    payload = {
-        "generatedAt": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "totals": {
-            "tracked": len(apps),
-            "duoReady": len(ready),
-            "checked": len(apps) - errors,
-        },
-        "apps": apps,
-    }
-    tmp = STATE.with_suffix(".tmp")
-    tmp.write_text(json.dumps(payload, ensure_ascii=False, indent=1))
-    tmp.replace(STATE)
-
     meta = {
         "generatedAt": payload["generatedAt"],
         "totals": payload["totals"],
@@ -236,7 +255,7 @@ def main() -> int:
         "errors": errors,
     }
     (OUT / "meta.json").write_text(json.dumps(meta, ensure_ascii=False, indent=1))
-    print(f"done: {len(ready)}/{len(apps)} duo-ready, {len(newly)} new today, {errors} errors")
+    print(f"done: {payload['totals']['duoReady']}/{len(apps)} duo-ready, {len(newly)} new today, {errors} errors", flush=True)
     return 0
 
 
