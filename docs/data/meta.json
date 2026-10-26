@@ -1,11 +1,28 @@
 {
- "generatedAt": "2026-10-26T13:01:55Z",
+ "generatedAt": "2026-10-26T22:40:26Z",
  "totals": {
   "tracked": 243,
-  "duoReady": 72,
+  "duoReady": 74,
   "checked": 243
  },
- "newToday": [],
+ "newToday": [
+  {
+   "id": "1569922923",
+   "name": "Air & Space Fitness Calculator"
+  },
+  {
+   "id": "339407922",
+   "name": "iBend Pipe"
+  },
+  {
+   "id": "541164041",
+   "name": "Microsoft Copilot"
+  },
+  {
+   "id": "951937596",
+   "name": "Microsoft Outlook"
+  }
+ ],
  "errors": 0,
- "skippedKnownDuo": 72
+ "skippedKnownDuo": 70
 }
