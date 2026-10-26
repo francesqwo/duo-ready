@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-25T20:50:50Z",
+ "generatedAt": "2026-10-26T04:50:16Z",
  "totals": {
   "tracked": 243,
   "duoReady": 73,
@@ -7,10 +7,14 @@
  },
  "newToday": [
   {
-   "id": "905401434",
-   "name": "Fubo: Watch Live TV & Sports"
+   "id": "401626263",
+   "name": "Airbnb"
+  },
+  {
+   "id": "484672289",
+   "name": "NBA: Live Games & Scores"
   }
  ],
  "errors": 0,
- "skippedKnownDuo": 72
+ "skippedKnownDuo": 70
 }
