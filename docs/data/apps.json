@@ -1,8 +1,8 @@
 {
- "generatedAt": "2026-10-26T04:50:16Z",
+ "generatedAt": "2026-10-26T13:01:55Z",
  "totals": {
   "tracked": 243,
-  "duoReady": 73,
+  "duoReady": 72,
   "checked": 243
  },
  "apps": [
@@ -241,26 +241,6 @@
    "firstSeenDuo": "2026-10-25",
    "sources": [
     "watchlist"
-   ]
-  },
-  {
-   "id": "6744274650",
-   "name": "Bevnap: Cocktail Recipes",
-   "seller": "Lemel Software, LLC",
-   "genre": "Food & Drink",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/f4/82/5cf482a2-483f-17bc-01d5-ceb62194a723/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/bevnap-cocktail-recipes/id6744274650",
-   "duo": true,
-   "duoShots": [
-    "1398x2034",
-    "2853x2007"
-   ],
-   "latestRelease": "2026-10-23",
-   "checkedAt": "2026-10-25",
-   "notesMentionDuo": true,
-   "firstSeenDuo": "2026-10-25",
-   "sources": [
-    "chart-paid"
    ]
   },
   {
@@ -1456,23 +1436,6 @@
    ]
   },
   {
-   "id": "6762023973",
-   "name": "7 Brew Coffee",
-   "seller": "Brew Culture, LLC",
-   "genre": "Food & Drink",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/1b/10/901b109b-17da-10db-b9eb-43898bccf539/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/7-brew-coffee/id6762023973",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2026-10-16",
-   "checkedAt": "2026-10-26",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-free"
-   ]
-  },
-  {
    "id": "1633243177",
    "name": "Ableton Note",
    "seller": "Ableton AG",
@@ -1487,6 +1450,23 @@
    "firstSeenDuo": null,
    "sources": [
     "chart-paid"
+   ]
+  },
+  {
+   "id": "503451073",
+   "name": "Alibaba.com B2B Trade App",
+   "seller": "ALIBABA.COM GLOBAL SUPPLIER SERVICES PTE. LTD.",
+   "genre": "Shopping",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f6/06/b7/f606b736-b0ed-6c17-9ea3-cab96201d722/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/alibaba-com-b2b-trade-app/id503451073",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-10-23",
+   "checkedAt": "2026-10-26",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
    ]
   },
   {
@@ -1601,23 +1581,6 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-09-12",
-   "checkedAt": "2026-10-26",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-paid"
-   ]
-  },
-  {
-   "id": "1441335342",
-   "name": "Ballistic X",
-   "seller": "Nomad Innovations, LLC",
-   "genre": "Sports",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9b/88/72/9b887298-1322-7213-3b1c-1333cb0aee7a/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/ballistic-x/id1441335342",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2026-10-21",
    "checkedAt": "2026-10-26",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
@@ -1830,6 +1793,23 @@
    ]
   },
   {
+   "id": "6749840287",
+   "name": "Conduit: Open WebUI & AI",
+   "seller": "Tunap Paul",
+   "genre": "Productivity",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/b0/ac/b2b0ac1d-7bc1-468d-632b-23f161e5b1cf/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/conduit-open-webui-ai/id6749840287",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-10-17",
+   "checkedAt": "2026-10-26",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-paid"
+   ]
+  },
+  {
    "id": "535509415",
    "name": "Costco",
    "seller": "Costco Wholesale Corporation",
@@ -1878,6 +1858,23 @@
    "firstSeenDuo": null,
    "sources": [
     "chart-paid"
+   ]
+  },
+  {
+   "id": "6746114452",
+   "name": "CrimeRadar Dispatch Audio",
+   "seller": "Scoopz Inc.",
+   "genre": "News",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/ef/94/21ef9492-46aa-2298-a6c5-406cc9be0c2d/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/crimeradar-dispatch-audio/id6746114452",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-10-21",
+   "checkedAt": "2026-10-26",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
    ]
   },
   {
@@ -1975,23 +1972,6 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-19",
-   "checkedAt": "2026-10-26",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-free"
-   ]
-  },
-  {
-   "id": "1375031369",
-   "name": "DraftKings: Sports & Casino",
-   "seller": "DraftKings",
-   "genre": "Sports",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/aa/67/ecaa672e-03f8-5938-ac66-411a0f7e4379/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/draftkings-sports-casino/id1375031369",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2026-10-23",
    "checkedAt": "2026-10-26",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
@@ -2252,6 +2232,23 @@
    "firstSeenDuo": null,
    "sources": [
     "chart-free"
+   ]
+  },
+  {
+   "id": "6737280679",
+   "name": "FSD Hunter",
+   "seller": "David Hugenberg",
+   "genre": "Shopping",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/32/5f/f3325fc6-99e1-932a-3c8d-cbae21a07585/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/fsd-hunter/id6737280679",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-10-25",
+   "checkedAt": "2026-10-26",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-paid"
    ]
   },
   {
@@ -2578,23 +2575,6 @@
    ]
   },
   {
-   "id": "1497473331",
-   "name": "iSTB",
-   "seller": "Nihal Ahmed",
-   "genre": "Entertainment",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/8e/3b/038e3b1c-7366-df76-dc83-ab4695769db4/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/istb/id1497473331",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2026-10-14",
-   "checkedAt": "2026-10-26",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-paid"
-   ]
-  },
-  {
    "id": "1466120520",
    "name": "iVerify Basic",
    "seller": "iVerify",
@@ -2723,23 +2703,6 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2020-09-29",
-   "checkedAt": "2026-10-26",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-paid"
-   ]
-  },
-  {
-   "id": "525299323",
-   "name": "Land Nav Assistant",
-   "seller": "Gammon Applications, LLC",
-   "genre": "Navigation",
-   "icon": null,
-   "url": "https://apps.apple.com/us/app/land-nav-assistant/id525299323",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2019-04-08",
    "checkedAt": "2026-10-26",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
@@ -2952,6 +2915,23 @@
    ]
   },
   {
+   "id": "754105884",
+   "name": "NightCap Camera: Long Exposure",
+   "seller": "RTD",
+   "genre": "Photo & Video",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f8/0b/e5/f80be542-bf77-28e8-c985-b9195ba08d37/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/nightcap-camera-long-exposure/id754105884",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-09-19",
+   "checkedAt": "2026-10-26",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-paid"
+   ]
+  },
+  {
    "id": "1581140954",
    "name": "Noir - Dark Mode for Safari",
    "seller": "Jeffrey Kuiken",
@@ -2969,15 +2949,15 @@
    ]
   },
   {
-   "id": "6781631808",
-   "name": "NostalgicPod",
-   "seller": "Jesus manuel Curreri",
-   "genre": "Music",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/69/97/6c69973a-b08c-d4c9-741f-721c10fe6a5c/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/nostalgicpod/id6781631808",
+   "id": "1519508653",
+   "name": "Nomad Sculpt",
+   "seller": "Hexanomad",
+   "genre": "Graphics & Design",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/37/13/9a371389-3a30-1c69-60a1-a980737bc812/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/nomad-sculpt/id1519508653",
    "duo": false,
    "duoShots": [],
-   "latestRelease": "2026-10-21",
+   "latestRelease": "2026-10-23",
    "checkedAt": "2026-10-26",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
@@ -3224,6 +3204,23 @@
    ]
   },
   {
+   "id": "1191380081",
+   "name": "PractiScore Competitor",
+   "seller": "Eugene Kuleshov",
+   "genre": "Sports",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/a4/b9/7aa4b9e1-0099-6667-f5b3-e470ba1a2369/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/practiscore-competitor/id1191380081",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-10-23",
+   "checkedAt": "2026-10-26",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-paid"
+   ]
+  },
+  {
    "id": "338893931",
    "name": "Prepware Aviation Maintenance",
    "seller": "ASA",
@@ -3255,23 +3252,6 @@
    "firstSeenDuo": null,
    "sources": [
     "chart-paid"
-   ]
-  },
-  {
-   "id": "1437843273",
-   "name": "PrizePicks - Sports Picks",
-   "seller": "SidePrize, LLC",
-   "genre": "Sports",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/0a/82/e30a823a-345f-9eb2-aef0-ef332408f056/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/prizepicks-sports-picks/id1437843273",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2026-10-13",
-   "checkedAt": "2026-10-26",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-free"
    ]
   },
   {
@@ -3581,23 +3561,6 @@
    ]
   },
   {
-   "id": "582584117",
-   "name": "Solocator - GPS Field Camera",
-   "seller": "Civi Corp",
-   "genre": "Navigation",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/36/e4/c036e4c6-3706-992a-a80d-7e5f348a55f0/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/solocator-gps-field-camera/id582584117",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2026-10-07",
-   "checkedAt": "2026-10-26",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-paid"
-   ]
-  },
-  {
    "id": "1536762482",
    "name": "Spirit Talker ®",
    "seller": "Spotted Ghosts",
@@ -3629,23 +3592,6 @@
    "firstSeenDuo": null,
    "sources": [
     "chart-free"
-   ]
-  },
-  {
-   "id": "407838198",
-   "name": "Stack the Countries®",
-   "seller": "Freecloud Design, Inc.",
-   "genre": "Education",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/46/60/5f46608b-ccd0-f424-ab1f-7e81880caded/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/stack-the-countries/id407838198",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2025-11-01",
-   "checkedAt": "2026-10-26",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-paid"
    ]
   },
   {
@@ -3802,6 +3748,23 @@
    ]
   },
   {
+   "id": "6738342400",
+   "name": "Tampermonkey",
+   "seller": "Jan Biniok",
+   "genre": "Productivity",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/1f/23/971f2354-a18c-5ea9-5538-f495bee85f1d/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/tampermonkey/id6738342400",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-10-09",
+   "checkedAt": "2026-10-26",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-paid"
+   ]
+  },
+  {
    "id": "828392046",
    "name": "Teach Your Monster to Read",
    "seller": "Teach Your Monster",
@@ -3845,6 +3808,23 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-04-28",
+   "checkedAt": "2026-10-26",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-paid"
+   ]
+  },
+  {
+   "id": "493157418",
+   "name": "Theory Lessons",
+   "seller": "musictheory.net",
+   "genre": "Music",
+   "icon": null,
+   "url": "https://apps.apple.com/us/app/theory-lessons/id493157418",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-04-21",
    "checkedAt": "2026-10-26",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
@@ -3964,6 +3944,23 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-20",
+   "checkedAt": "2026-10-26",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "1539090879",
+   "name": "TV Remote - Universal Control",
+   "seller": "EVOLLY.APP",
+   "genre": "Utilities",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/73/d9/6c73d909-6758-1ddc-65d6-6bf6b7ffbd75/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/tv-remote-universal-control/id1539090879",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-09-28",
    "checkedAt": "2026-10-26",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
