@@ -1,11 +1,28 @@
 {
- "generatedAt": "2026-10-27T12:11:12Z",
+ "generatedAt": "2026-10-27T18:00:50Z",
  "totals": {
   "tracked": 243,
-  "duoReady": 75,
+  "duoReady": 76,
   "checked": 243
  },
- "newToday": [],
+ "newToday": [
+  {
+   "id": "339407922",
+   "name": "iBend Pipe"
+  },
+  {
+   "id": "951937596",
+   "name": "Microsoft Outlook"
+  },
+  {
+   "id": "1443988620",
+   "name": "Quantumult X"
+  },
+  {
+   "id": "357404131",
+   "name": "Slow Shutter Cam"
+  }
+ ],
  "errors": 0,
- "skippedKnownDuo": 75
+ "skippedKnownDuo": 72
 }
