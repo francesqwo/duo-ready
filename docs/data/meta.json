@@ -1,16 +1,11 @@
 {
- "generatedAt": "2026-10-27T05:07:37Z",
+ "generatedAt": "2026-10-27T12:11:12Z",
  "totals": {
   "tracked": 243,
-  "duoReady": 78,
+  "duoReady": 75,
   "checked": 243
  },
- "newToday": [
-  {
-   "id": "484672289",
-   "name": "NBA: Live Games & Scores"
-  }
- ],
+ "newToday": [],
  "errors": 0,
- "skippedKnownDuo": 74
+ "skippedKnownDuo": 75
 }
