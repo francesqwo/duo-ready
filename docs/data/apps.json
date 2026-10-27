@@ -1,8 +1,8 @@
 {
- "generatedAt": "2026-10-27T18:00:50Z",
+ "generatedAt": "2026-10-27T22:14:24Z",
  "totals": {
   "tracked": 243,
-  "duoReady": 76,
+  "duoReady": 75,
   "checked": 243
  },
  "apps": [
@@ -24,6 +24,25 @@
    "firstSeenDuo": "2026-10-25",
    "sources": [
     "featured"
+   ]
+  },
+  {
+   "id": "1470214600",
+   "name": "2Do: To Do List & Task Manager",
+   "seller": "Beehive Innovations Services",
+   "genre": "Productivity",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/af/f4/65aff445-1d5d-af28-8147-9f91379102ff/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/2do-to-do-list-task-manager/id1470214600",
+   "duo": true,
+   "duoShots": [
+    "2853x2007"
+   ],
+   "latestRelease": "2026-10-26",
+   "checkedAt": "2026-10-27",
+   "notesMentionDuo": false,
+   "firstSeenDuo": "2026-10-27",
+   "sources": [
+    "chart-paid"
    ]
   },
   {
@@ -867,25 +886,6 @@
    ]
   },
   {
-   "id": "530168168",
-   "name": "Paramount+",
-   "seller": "CBS Interactive",
-   "genre": "Entertainment",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/32/5d/fd/325dfd7a-1837-49c4-694b-2653c06bf031/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/paramount/id530168168",
-   "duo": true,
-   "duoShots": [
-    "2007x2853"
-   ],
-   "latestRelease": "2026-10-22",
-   "checkedAt": "2026-10-25",
-   "notesMentionDuo": false,
-   "firstSeenDuo": "2026-10-25",
-   "sources": [
-    "chart-free"
-   ]
-  },
-  {
    "id": "1473064295",
    "name": "Penbook: Paper Planner & Notes",
    "seller": "Pencil Research",
@@ -1098,25 +1098,6 @@
    "firstSeenDuo": "2026-10-25",
    "sources": [
     "chart-free"
-   ]
-  },
-  {
-   "id": "357404131",
-   "name": "Slow Shutter Cam",
-   "seller": "Cogitap Software",
-   "genre": "Photo & Video",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/0d/60/1a0d60db-f752-05b1-48f7-d0943e1c8357/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/slow-shutter-cam/id357404131",
-   "duo": true,
-   "duoShots": [
-    "1398x2034"
-   ],
-   "latestRelease": "2026-10-25",
-   "checkedAt": "2026-10-27",
-   "notesMentionDuo": true,
-   "firstSeenDuo": "2026-10-27",
-   "sources": [
-    "chart-paid"
    ]
   },
   {
@@ -1513,6 +1494,23 @@
    ]
   },
   {
+   "id": "6762023973",
+   "name": "7 Brew Coffee",
+   "seller": "Brew Culture, LLC",
+   "genre": "Food & Drink",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/1b/10/901b109b-17da-10db-b9eb-43898bccf539/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/7-brew-coffee/id6762023973",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-10-16",
+   "checkedAt": "2026-10-27",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
    "id": "1633243177",
    "name": "Ableton Note",
    "seller": "Ableton AG",
@@ -1527,6 +1525,23 @@
    "firstSeenDuo": null,
    "sources": [
     "chart-paid"
+   ]
+  },
+  {
+   "id": "444553167",
+   "name": "ADP Mobile Solutions",
+   "seller": "ADP, Inc",
+   "genre": "Business",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/df/ee/21dfeef8-afee-9f4d-16d3-530db26e40a3/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/adp-mobile-solutions/id444553167",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-10-23",
+   "checkedAt": "2026-10-27",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
    ]
   },
   {
@@ -1887,6 +1902,23 @@
    ]
   },
   {
+   "id": "395545555",
+   "name": "CVS Health",
+   "seller": "CVS Pharmacy",
+   "genre": "Medical",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/99/7e/0a997ead-e17f-216c-aa4f-e4937727c2c2/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/cvs-health/id395545555",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-10-23",
+   "checkedAt": "2026-10-27",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
    "id": "1438243180",
    "name": "Dark Reader for Safari",
    "seller": "Dark Reader Ltd",
@@ -2139,6 +2171,23 @@
    "firstSeenDuo": null,
    "sources": [
     "chart-free"
+   ]
+  },
+  {
+   "id": "596684220",
+   "name": "Essential Anatomy 5",
+   "seller": "3D4Medical from Elsevier",
+   "genre": "Medical",
+   "icon": null,
+   "url": "https://apps.apple.com/us/app/essential-anatomy-5/id596684220",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2022-01-22",
+   "checkedAt": "2026-10-27",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-paid"
    ]
   },
   {
@@ -2397,6 +2446,23 @@
    ]
   },
   {
+   "id": "842849113",
+   "name": "Google Sheets",
+   "seller": "Google",
+   "genre": "Productivity",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/ae/f4/96aef4b0-6ac2-5f4f-1761-1f8f5858204f/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/google-sheets/id842849113",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-10-26",
+   "checkedAt": "2026-10-27",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
    "id": "1605170923",
    "name": "GoWish - Your Digital Wishlist",
    "seller": "Onskeskyen ApS",
@@ -2428,6 +2494,23 @@
    "firstSeenDuo": null,
    "sources": [
     "chart-free"
+   ]
+  },
+  {
+   "id": "1371288324",
+   "name": "HamStudy.org",
+   "seller": "Signal Stuff",
+   "genre": "Education",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/b4/88/70b488e6-50b8-224f-6809-b47d327d4a51/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/hamstudy-org/id1371288324",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-07-23",
+   "checkedAt": "2026-10-27",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-paid"
    ]
   },
   {
@@ -2703,23 +2786,6 @@
    ]
   },
   {
-   "id": "406136981",
-   "name": "LaCuerda [PRO]",
-   "seller": "NARROI WEBS SC",
-   "genre": "Entertainment",
-   "icon": null,
-   "url": "https://apps.apple.com/us/app/lacuerda-pro/id406136981",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2020-09-29",
-   "checkedAt": "2026-10-27",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-paid"
-   ]
-  },
-  {
    "id": "525299323",
    "name": "Land Nav Assistant",
    "seller": "Gammon Applications, LLC",
@@ -2782,6 +2848,23 @@
    "latestRelease": "2026-10-01",
    "checkedAt": "2026-10-27",
    "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-paid"
+   ]
+  },
+  {
+   "id": "1062022008",
+   "name": "LumaFusion",
+   "seller": "Luma Touch LLC",
+   "genre": "Photo & Video",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/50/11/275011ab-9ee9-a396-af24-2168fc23052e/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/lumafusion/id1062022008",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-10-21",
+   "checkedAt": "2026-10-27",
+   "notesMentionDuo": true,
    "firstSeenDuo": null,
    "sources": [
     "chart-paid"
@@ -2938,23 +3021,6 @@
    "firstSeenDuo": null,
    "sources": [
     "chart-free"
-   ]
-  },
-  {
-   "id": "1670762759",
-   "name": "Necrometer",
-   "seller": "chris rogers",
-   "genre": "Utilities",
-   "icon": null,
-   "url": "https://apps.apple.com/us/app/necrometer/id1670762759",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2024-11-02",
-   "checkedAt": "2026-10-27",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-paid"
    ]
   },
   {
@@ -3213,23 +3279,6 @@
    ]
   },
   {
-   "id": "934525008",
-   "name": "Phonograms by SEI",
-   "seller": "Spalding Education International",
-   "genre": "Education",
-   "icon": null,
-   "url": "https://apps.apple.com/us/app/phonograms-by-sei/id934525008",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2022-01-29",
-   "checkedAt": "2026-10-27",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-paid"
-   ]
-  },
-  {
    "id": "596026805",
    "name": "PhotoPills",
    "seller": "PhotoPills S.L.",
@@ -3383,6 +3432,23 @@
    ]
   },
   {
+   "id": "894811756",
+   "name": "PromptSmart Pro - Teleprompter",
+   "seller": "PromptSmart",
+   "genre": "Photo & Video",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/e5/61/41e56113-6bfc-5cc0-5638-d94bfc4ef41c/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/promptsmart-pro-teleprompter/id894811756",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-10-14",
+   "checkedAt": "2026-10-27",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-paid"
+   ]
+  },
+  {
    "id": "561834333",
    "name": "Puzzle Retreat: Zen Logic Game",
    "seller": "THE VOXEL AGENTS PTY. LTD.",
@@ -3485,23 +3551,6 @@
    ]
   },
   {
-   "id": "482066631",
-   "name": "Roku Remote (Official)",
-   "seller": "ROKU INC",
-   "genre": "Entertainment",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/b6/5c/c2b65cc1-e87f-1d64-c1fa-cf07c06e58ea/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/roku-remote-official/id482066631",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2026-09-21",
-   "checkedAt": "2026-10-27",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-free"
-   ]
-  },
-  {
    "id": "6807671361",
    "name": "Running Writings Lab",
    "seller": "Running Writings",
@@ -3545,23 +3594,6 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2023-09-29",
-   "checkedAt": "2026-10-27",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-paid"
-   ]
-  },
-  {
-   "id": "363978811",
-   "name": "Seconds Pro Interval Timer",
-   "seller": "Runloop Ltd",
-   "genre": "Health & Fitness",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/c0/45/a0c04535-1099-1745-481a-d809271a9250/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/seconds-pro-interval-timer/id363978811",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2026-10-22",
    "checkedAt": "2026-10-27",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
@@ -3706,6 +3738,23 @@
    ]
   },
   {
+   "id": "371817955",
+   "name": "Sporty's E6B Flight Computer",
+   "seller": "Sporty's Pilot Shop",
+   "genre": "Navigation",
+   "icon": null,
+   "url": "https://apps.apple.com/us/app/sportys-e6b-flight-computer/id371817955",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2024-02-17",
+   "checkedAt": "2026-10-27",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-paid"
+   ]
+  },
+  {
    "id": "324684580",
    "name": "Spotify: Music and Podcasts",
    "seller": "Spotify",
@@ -3766,23 +3815,6 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-24",
-   "checkedAt": "2026-10-27",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-paid"
-   ]
-  },
-  {
-   "id": "640564761",
-   "name": "Stop Motion Studio Pro",
-   "seller": "CATEATER, LLC",
-   "genre": "Photo & Video",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/80/3b/93803bab-102d-e6a4-4d1e-8aefc406ff4a/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/stop-motion-studio-pro/id640564761",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2025-12-10",
    "checkedAt": "2026-10-27",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
@@ -4080,23 +4112,6 @@
    ]
   },
   {
-   "id": "1054033219",
-   "name": "VIZIO Remote (Official)",
-   "seller": "VIZIO",
-   "genre": "Entertainment",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/9f/ec/5c9fec0e-4629-918f-70bc-3518257ec85f/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/vizio-remote-official/id1054033219",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2026-10-23",
-   "checkedAt": "2026-10-27",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-free"
-   ]
-  },
-  {
    "id": "1370293473",
    "name": "VPN - Super Unlimited Proxy",
    "seller": "Mobile Jump Pte Ltd",
@@ -4256,23 +4271,6 @@
    "genre": "Photo & Video",
    "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/20/bc/9620bca4-9ccb-3903-25dd-b814132060ac/Placeholder.mill/96x96bb.png",
    "url": "https://apps.apple.com/us/app/youtube/id544007664",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2026-10-21",
-   "checkedAt": "2026-10-27",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-free"
-   ]
-  },
-  {
-   "id": "1193350206",
-   "name": "YouTube TV",
-   "seller": "Google",
-   "genre": "Entertainment",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/dd/f7/adddf76c-58e8-77a5-449b-c0b7506e2a17/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/youtube-tv/id1193350206",
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-21",

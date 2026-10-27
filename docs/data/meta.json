@@ -1,28 +1,16 @@
 {
- "generatedAt": "2026-10-27T18:00:50Z",
+ "generatedAt": "2026-10-27T22:14:24Z",
  "totals": {
   "tracked": 243,
-  "duoReady": 76,
+  "duoReady": 75,
   "checked": 243
  },
  "newToday": [
   {
-   "id": "339407922",
-   "name": "iBend Pipe"
-  },
-  {
-   "id": "951937596",
-   "name": "Microsoft Outlook"
-  },
-  {
-   "id": "1443988620",
-   "name": "Quantumult X"
-  },
-  {
-   "id": "357404131",
-   "name": "Slow Shutter Cam"
+   "id": "1470214600",
+   "name": "2Do: To Do List & Task Manager"
   }
  ],
  "errors": 0,
- "skippedKnownDuo": 72
+ "skippedKnownDuo": 74
 }
