@@ -1,28 +1,16 @@
 {
- "generatedAt": "2026-10-26T22:40:26Z",
+ "generatedAt": "2026-10-27T05:07:37Z",
  "totals": {
   "tracked": 243,
-  "duoReady": 74,
+  "duoReady": 78,
   "checked": 243
  },
  "newToday": [
   {
-   "id": "1569922923",
-   "name": "Air & Space Fitness Calculator"
-  },
-  {
-   "id": "339407922",
-   "name": "iBend Pipe"
-  },
-  {
-   "id": "541164041",
-   "name": "Microsoft Copilot"
-  },
-  {
-   "id": "951937596",
-   "name": "Microsoft Outlook"
+   "id": "484672289",
+   "name": "NBA: Live Games & Scores"
   }
  ],
  "errors": 0,
- "skippedKnownDuo": 70
+ "skippedKnownDuo": 74
 }
