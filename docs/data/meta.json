@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-28T05:45:36Z",
+ "generatedAt": "2026-10-28T12:54:36Z",
  "totals": {
   "tracked": 243,
   "duoReady": 79,
@@ -7,22 +7,14 @@
  },
  "newToday": [
   {
-   "id": "390017969",
-   "name": "Due - Reminders & Timers"
+   "id": "6744274650",
+   "name": "Bevnap: Cocktail Recipes"
   },
   {
-   "id": "363738376",
-   "name": "forScore"
-  },
-  {
-   "id": "357404131",
-   "name": "Slow Shutter Cam"
-  },
-  {
-   "id": "330247123",
-   "name": "Sun Seeker - Sunlight Tracker"
+   "id": "529379082",
+   "name": "Lyft"
   }
  ],
  "errors": 0,
- "skippedKnownDuo": 73
+ "skippedKnownDuo": 77
 }
