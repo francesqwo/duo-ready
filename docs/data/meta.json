@@ -1,16 +1,28 @@
 {
- "generatedAt": "2026-10-27T22:14:24Z",
+ "generatedAt": "2026-10-28T05:45:36Z",
  "totals": {
   "tracked": 243,
-  "duoReady": 75,
+  "duoReady": 79,
   "checked": 243
  },
  "newToday": [
   {
-   "id": "1470214600",
-   "name": "2Do: To Do List & Task Manager"
+   "id": "390017969",
+   "name": "Due - Reminders & Timers"
+  },
+  {
+   "id": "363738376",
+   "name": "forScore"
+  },
+  {
+   "id": "357404131",
+   "name": "Slow Shutter Cam"
+  },
+  {
+   "id": "330247123",
+   "name": "Sun Seeker - Sunlight Tracker"
   }
  ],
  "errors": 0,
- "skippedKnownDuo": 74
+ "skippedKnownDuo": 73
 }
