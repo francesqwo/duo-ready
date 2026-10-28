@@ -1,20 +1,20 @@
 {
- "generatedAt": "2026-10-28T12:54:36Z",
+ "generatedAt": "2026-10-28T22:35:19Z",
  "totals": {
   "tracked": 243,
-  "duoReady": 79,
+  "duoReady": 77,
   "checked": 243
  },
  "newToday": [
   {
-   "id": "6744274650",
-   "name": "Bevnap: Cocktail Recipes"
+   "id": "6803329435",
+   "name": "Chromagraph Camera"
   },
   {
-   "id": "529379082",
-   "name": "Lyft"
+   "id": "563082328",
+   "name": "Military Retirement"
   }
  ],
  "errors": 0,
- "skippedKnownDuo": 77
+ "skippedKnownDuo": 75
 }
