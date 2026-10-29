@@ -1,20 +1,11 @@
 {
- "generatedAt": "2026-10-29T13:00:44Z",
+ "generatedAt": "2026-10-29T22:45:14Z",
  "totals": {
   "tracked": 243,
-  "duoReady": 81,
+  "duoReady": 79,
   "checked": 243
  },
- "newToday": [
-  {
-   "id": "529379082",
-   "name": "Lyft"
-  },
-  {
-   "id": "754105884",
-   "name": "NightCap Camera: Long Exposure"
-  }
- ],
+ "newToday": [],
  "errors": 0,
  "skippedKnownDuo": 79
 }
