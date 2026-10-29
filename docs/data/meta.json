@@ -1,36 +1,20 @@
 {
- "generatedAt": "2026-10-29T05:51:18Z",
+ "generatedAt": "2026-10-29T13:00:44Z",
  "totals": {
   "tracked": 243,
-  "duoReady": 82,
+  "duoReady": 81,
   "checked": 243
  },
  "newToday": [
   {
-   "id": "6744274650",
-   "name": "Bevnap: Cocktail Recipes"
+   "id": "529379082",
+   "name": "Lyft"
   },
   {
-   "id": "390017969",
-   "name": "Due - Reminders & Timers"
-  },
-  {
-   "id": "363738376",
-   "name": "forScore"
-  },
-  {
-   "id": "1202650514",
-   "name": "HealthFit"
-  },
-  {
-   "id": "484672289",
-   "name": "NBA: Live Games & Scores"
-  },
-  {
-   "id": "363590051",
-   "name": "Netflix"
+   "id": "754105884",
+   "name": "NightCap Camera: Long Exposure"
   }
  ],
  "errors": 0,
- "skippedKnownDuo": 75
+ "skippedKnownDuo": 79
 }
