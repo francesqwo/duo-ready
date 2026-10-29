@@ -1,18 +1,34 @@
 {
- "generatedAt": "2026-10-28T22:35:19Z",
+ "generatedAt": "2026-10-29T05:51:18Z",
  "totals": {
   "tracked": 243,
-  "duoReady": 77,
+  "duoReady": 82,
   "checked": 243
  },
  "newToday": [
   {
-   "id": "6803329435",
-   "name": "Chromagraph Camera"
+   "id": "6744274650",
+   "name": "Bevnap: Cocktail Recipes"
   },
   {
-   "id": "563082328",
-   "name": "Military Retirement"
+   "id": "390017969",
+   "name": "Due - Reminders & Timers"
+  },
+  {
+   "id": "363738376",
+   "name": "forScore"
+  },
+  {
+   "id": "1202650514",
+   "name": "HealthFit"
+  },
+  {
+   "id": "484672289",
+   "name": "NBA: Live Games & Scores"
+  },
+  {
+   "id": "363590051",
+   "name": "Netflix"
   }
  ],
  "errors": 0,
