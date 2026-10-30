@@ -1,24 +1,32 @@
 {
- "generatedAt": "2026-10-30T05:58:15Z",
+ "generatedAt": "2026-10-30T12:56:38Z",
  "totals": {
   "tracked": 243,
-  "duoReady": 81,
-  "checked": 238
+  "duoReady": 84,
+  "checked": 243
  },
  "newToday": [
   {
-   "id": "330247123",
-   "name": "Sun Seeker - Sunlight Tracker"
+   "id": "6825181273",
+   "name": "AltoPaint: Oil & Gouache"
   },
   {
-   "id": "497387361",
-   "name": "Taco Bell Fast Food & Delivery"
+   "id": "1202650514",
+   "name": "HealthFit"
   },
   {
-   "id": "297430070",
-   "name": "Target: Shop. Style. Save."
+   "id": "1373567447",
+   "name": "Loon"
+  },
+  {
+   "id": "530168168",
+   "name": "Paramount+"
+  },
+  {
+   "id": "284942719",
+   "name": "Universalis"
   }
  ],
- "errors": 5,
- "skippedKnownDuo": 0
+ "errors": 0,
+ "skippedKnownDuo": 78
 }
