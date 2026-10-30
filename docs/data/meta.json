@@ -1,32 +1,24 @@
 {
- "generatedAt": "2026-10-30T12:56:38Z",
+ "generatedAt": "2026-10-30T22:19:42Z",
  "totals": {
   "tracked": 243,
-  "duoReady": 84,
+  "duoReady": 83,
   "checked": 243
  },
  "newToday": [
   {
-   "id": "6825181273",
-   "name": "AltoPaint: Oil & Gouache"
+   "id": "951937596",
+   "name": "Microsoft Outlook"
   },
   {
-   "id": "1202650514",
-   "name": "HealthFit"
+   "id": "330247123",
+   "name": "Sun Seeker - Sunlight Tracker"
   },
   {
-   "id": "1373567447",
-   "name": "Loon"
-  },
-  {
-   "id": "530168168",
-   "name": "Paramount+"
-  },
-  {
-   "id": "284942719",
-   "name": "Universalis"
+   "id": "6824686276",
+   "name": "Wider - Fullscreen Browsing"
   }
  ],
  "errors": 0,
- "skippedKnownDuo": 78
+ "skippedKnownDuo": 80
 }
