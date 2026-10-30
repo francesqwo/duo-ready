@@ -1,11 +1,24 @@
 {
- "generatedAt": "2026-10-29T22:45:14Z",
+ "generatedAt": "2026-10-30T05:58:15Z",
  "totals": {
   "tracked": 243,
-  "duoReady": 79,
-  "checked": 243
+  "duoReady": 81,
+  "checked": 238
  },
- "newToday": [],
- "errors": 0,
- "skippedKnownDuo": 79
+ "newToday": [
+  {
+   "id": "330247123",
+   "name": "Sun Seeker - Sunlight Tracker"
+  },
+  {
+   "id": "497387361",
+   "name": "Taco Bell Fast Food & Delivery"
+  },
+  {
+   "id": "297430070",
+   "name": "Target: Shop. Style. Save."
+  }
+ ],
+ "errors": 5,
+ "skippedKnownDuo": 0
 }
