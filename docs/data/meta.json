@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-31T05:43:47Z",
+ "generatedAt": "2026-10-31T12:28:38Z",
  "totals": {
   "tracked": 240,
   "duoReady": 77,
@@ -7,30 +7,14 @@
  },
  "newToday": [
   {
-   "id": "6825181273",
-   "name": "AltoPaint: Oil & Gouache"
+   "id": "1443988620",
+   "name": "Quantumult X"
   },
   {
-   "id": "6824753007",
-   "name": "Bagatelle Ultra"
-  },
-  {
-   "id": "6746760369",
-   "name": "Everlife 2 - Life Simulator"
-  },
-  {
-   "id": "527358348",
-   "name": "Fieldrunners 2"
-  },
-  {
-   "id": "6811637729",
-   "name": "Marbles Unhinged: Folding Maze"
-  },
-  {
-   "id": "6814813688",
-   "name": "Penalty Area: Face2Face"
+   "id": "886445756",
+   "name": "Tubi: Movies & Live TV"
   }
  ],
  "errors": 0,
- "skippedKnownDuo": 71
+ "skippedKnownDuo": 75
 }
