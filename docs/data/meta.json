@@ -1,24 +1,36 @@
 {
- "generatedAt": "2026-10-30T22:19:42Z",
+ "generatedAt": "2026-10-31T05:43:47Z",
  "totals": {
-  "tracked": 243,
-  "duoReady": 83,
-  "checked": 243
+  "tracked": 240,
+  "duoReady": 77,
+  "checked": 240
  },
  "newToday": [
   {
-   "id": "951937596",
-   "name": "Microsoft Outlook"
+   "id": "6825181273",
+   "name": "AltoPaint: Oil & Gouache"
   },
   {
-   "id": "330247123",
-   "name": "Sun Seeker - Sunlight Tracker"
+   "id": "6824753007",
+   "name": "Bagatelle Ultra"
   },
   {
-   "id": "6824686276",
-   "name": "Wider - Fullscreen Browsing"
+   "id": "6746760369",
+   "name": "Everlife 2 - Life Simulator"
+  },
+  {
+   "id": "527358348",
+   "name": "Fieldrunners 2"
+  },
+  {
+   "id": "6811637729",
+   "name": "Marbles Unhinged: Folding Maze"
+  },
+  {
+   "id": "6814813688",
+   "name": "Penalty Area: Face2Face"
   }
  ],
  "errors": 0,
- "skippedKnownDuo": 80
+ "skippedKnownDuo": 71
 }
