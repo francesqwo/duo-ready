@@ -1,32 +1,24 @@
 {
- "generatedAt": "2026-11-01T13:23:22Z",
+ "generatedAt": "2026-11-01T22:02:06Z",
  "totals": {
   "tracked": 240,
-  "duoReady": 77,
+  "duoReady": 80,
   "checked": 240
  },
  "newToday": [
   {
-   "id": "390017969",
-   "name": "Due - Reminders & Timers"
+   "id": "6827677447",
+   "name": "Duo Fold Counter"
   },
   {
-   "id": "6818168418",
-   "name": "Flipcorder: Retro Camcorder"
+   "id": "754105884",
+   "name": "NightCap Camera: Long Exposure"
   },
   {
-   "id": "6443996847",
-   "name": "Frame Crop – Art Mode"
-  },
-  {
-   "id": "1443988620",
-   "name": "Quantumult X"
-  },
-  {
-   "id": "886445756",
-   "name": "Tubi: Movies & Live TV"
+   "id": "6824686276",
+   "name": "Wider - Fullscreen Browsing"
   }
  ],
  "errors": 0,
- "skippedKnownDuo": 72
+ "skippedKnownDuo": 77
 }
