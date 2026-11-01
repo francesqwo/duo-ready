@@ -1,20 +1,24 @@
 {
- "generatedAt": "2026-10-31T21:33:44Z",
+ "generatedAt": "2026-11-01T06:06:51Z",
  "totals": {
   "tracked": 240,
-  "duoReady": 77,
+  "duoReady": 76,
   "checked": 240
  },
  "newToday": [
   {
-   "id": "1202650514",
-   "name": "HealthFit"
+   "id": "363738376",
+   "name": "forScore"
   },
   {
-   "id": "284942719",
-   "name": "Universalis"
+   "id": "754105884",
+   "name": "NightCap Camera: Long Exposure"
+  },
+  {
+   "id": "330247123",
+   "name": "Sun Seeker - Sunlight Tracker"
   }
  ],
  "errors": 0,
- "skippedKnownDuo": 75
+ "skippedKnownDuo": 73
 }
