@@ -1,24 +1,32 @@
 {
- "generatedAt": "2026-11-01T06:06:51Z",
+ "generatedAt": "2026-11-01T13:23:22Z",
  "totals": {
   "tracked": 240,
-  "duoReady": 76,
+  "duoReady": 77,
   "checked": 240
  },
  "newToday": [
   {
-   "id": "363738376",
-   "name": "forScore"
+   "id": "390017969",
+   "name": "Due - Reminders & Timers"
   },
   {
-   "id": "754105884",
-   "name": "NightCap Camera: Long Exposure"
+   "id": "6818168418",
+   "name": "Flipcorder: Retro Camcorder"
   },
   {
-   "id": "330247123",
-   "name": "Sun Seeker - Sunlight Tracker"
+   "id": "6443996847",
+   "name": "Frame Crop – Art Mode"
+  },
+  {
+   "id": "1443988620",
+   "name": "Quantumult X"
+  },
+  {
+   "id": "886445756",
+   "name": "Tubi: Movies & Live TV"
   }
  ],
  "errors": 0,
- "skippedKnownDuo": 73
+ "skippedKnownDuo": 72
 }
