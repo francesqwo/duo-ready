@@ -1,24 +1,24 @@
 {
- "generatedAt": "2026-11-01T22:02:06Z",
+ "generatedAt": "2026-11-02T06:05:54Z",
  "totals": {
   "tracked": 240,
-  "duoReady": 80,
+  "duoReady": 79,
   "checked": 240
  },
  "newToday": [
   {
-   "id": "6827677447",
-   "name": "Duo Fold Counter"
+   "id": "401626263",
+   "name": "Airbnb"
   },
   {
-   "id": "754105884",
-   "name": "NightCap Camera: Long Exposure"
+   "id": "363738376",
+   "name": "forScore"
   },
   {
-   "id": "6824686276",
-   "name": "Wider - Fullscreen Browsing"
+   "id": "297430070",
+   "name": "Target: Shop. Style. Save."
   }
  ],
  "errors": 0,
- "skippedKnownDuo": 77
+ "skippedKnownDuo": 75
 }
