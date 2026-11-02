@@ -1,24 +1,24 @@
 {
- "generatedAt": "2026-11-02T06:05:54Z",
+ "generatedAt": "2026-11-02T15:51:11Z",
  "totals": {
   "tracked": 240,
-  "duoReady": 79,
+  "duoReady": 80,
   "checked": 240
  },
  "newToday": [
   {
-   "id": "401626263",
-   "name": "Airbnb"
+   "id": "1373567447",
+   "name": "Loon"
   },
   {
-   "id": "363738376",
-   "name": "forScore"
+   "id": "325683306",
+   "name": "MyRadar Weather Radar Pro"
   },
   {
-   "id": "297430070",
-   "name": "Target: Shop. Style. Save."
+   "id": "886445756",
+   "name": "Tubi: Movies & Live TV"
   }
  ],
  "errors": 0,
- "skippedKnownDuo": 75
+ "skippedKnownDuo": 77
 }
