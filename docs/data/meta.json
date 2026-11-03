@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T14:13:34Z",
+ "generatedAt": "2026-11-03T23:23:01Z",
  "totals": {
   "tracked": 240,
   "duoReady": 80,
@@ -7,18 +7,26 @@
  },
  "newToday": [
   {
-   "id": "908905093",
-   "name": "Lumy"
+   "id": "1569922923",
+   "name": "Air & Space Fitness Calculator"
   },
   {
-   "id": "6480136315",
-   "name": "Suno - AI Songs, Music, Lyrics"
+   "id": "339407922",
+   "name": "iBend Pipe"
   },
   {
-   "id": "6824686276",
-   "name": "Wider - Fullscreen Browsing"
+   "id": "951937596",
+   "name": "Microsoft Outlook"
+  },
+  {
+   "id": "6826478625",
+   "name": "Pocket Mac Lab"
+  },
+  {
+   "id": "284942719",
+   "name": "Universalis"
   }
  ],
  "errors": 0,
- "skippedKnownDuo": 77
+ "skippedKnownDuo": 75
 }
