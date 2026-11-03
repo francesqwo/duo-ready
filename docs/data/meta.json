@@ -1,22 +1,30 @@
 {
- "generatedAt": "2026-11-02T15:51:11Z",
+ "generatedAt": "2026-11-03T01:01:07Z",
  "totals": {
   "tracked": 240,
-  "duoReady": 80,
+  "duoReady": 82,
   "checked": 240
  },
  "newToday": [
   {
-   "id": "1373567447",
-   "name": "Loon"
+   "id": "339407922",
+   "name": "iBend Pipe"
   },
   {
-   "id": "325683306",
-   "name": "MyRadar Weather Radar Pro"
+   "id": "951937596",
+   "name": "Microsoft Outlook"
   },
   {
-   "id": "886445756",
-   "name": "Tubi: Movies & Live TV"
+   "id": "330247123",
+   "name": "Sun Seeker - Sunlight Tracker"
+  },
+  {
+   "id": "297430070",
+   "name": "Target: Shop. Style. Save."
+  },
+  {
+   "id": "546505307",
+   "name": "Zoom Workplace"
   }
  ],
  "errors": 0,
