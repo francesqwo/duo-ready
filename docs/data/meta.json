@@ -1,30 +1,22 @@
 {
- "generatedAt": "2026-11-03T01:01:07Z",
+ "generatedAt": "2026-11-03T14:13:34Z",
  "totals": {
   "tracked": 240,
-  "duoReady": 82,
+  "duoReady": 80,
   "checked": 240
  },
  "newToday": [
   {
-   "id": "339407922",
-   "name": "iBend Pipe"
+   "id": "908905093",
+   "name": "Lumy"
   },
   {
-   "id": "951937596",
-   "name": "Microsoft Outlook"
+   "id": "6480136315",
+   "name": "Suno - AI Songs, Music, Lyrics"
   },
   {
-   "id": "330247123",
-   "name": "Sun Seeker - Sunlight Tracker"
-  },
-  {
-   "id": "297430070",
-   "name": "Target: Shop. Style. Save."
-  },
-  {
-   "id": "546505307",
-   "name": "Zoom Workplace"
+   "id": "6824686276",
+   "name": "Wider - Fullscreen Browsing"
   }
  ],
  "errors": 0,
