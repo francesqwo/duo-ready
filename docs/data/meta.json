@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T23:23:01Z",
+ "generatedAt": "2026-11-04T06:24:47Z",
  "totals": {
   "tracked": 240,
   "duoReady": 80,
@@ -7,26 +7,18 @@
  },
  "newToday": [
   {
-   "id": "1569922923",
-   "name": "Air & Space Fitness Calculator"
+   "id": "330247123",
+   "name": "Sun Seeker - Sunlight Tracker"
   },
   {
-   "id": "339407922",
-   "name": "iBend Pipe"
+   "id": "497387361",
+   "name": "Taco Bell Fast Food & Delivery"
   },
   {
-   "id": "951937596",
-   "name": "Microsoft Outlook"
-  },
-  {
-   "id": "6826478625",
-   "name": "Pocket Mac Lab"
-  },
-  {
-   "id": "284942719",
-   "name": "Universalis"
+   "id": "297430070",
+   "name": "Target: Shop. Style. Save."
   }
  ],
  "errors": 0,
- "skippedKnownDuo": 75
+ "skippedKnownDuo": 76
 }
