@@ -1,22 +1,30 @@
 {
- "generatedAt": "2026-11-04T06:24:47Z",
+ "generatedAt": "2026-11-04T19:46:10Z",
  "totals": {
   "tracked": 240,
-  "duoReady": 80,
+  "duoReady": 81,
   "checked": 240
  },
  "newToday": [
   {
-   "id": "330247123",
-   "name": "Sun Seeker - Sunlight Tracker"
+   "id": "6828573950",
+   "name": "Fold by Fold"
   },
   {
-   "id": "497387361",
-   "name": "Taco Bell Fast Food & Delivery"
+   "id": "1373567447",
+   "name": "Loon"
   },
   {
-   "id": "297430070",
-   "name": "Target: Shop. Style. Save."
+   "id": "754105884",
+   "name": "NightCap Camera: Long Exposure"
+  },
+  {
+   "id": "6480136315",
+   "name": "Suno - AI Songs, Music, Lyrics"
+  },
+  {
+   "id": "284942719",
+   "name": "Universalis"
   }
  ],
  "errors": 0,
