@@ -1,28 +1,11 @@
 {
- "generatedAt": "2026-11-05T06:49:56Z",
+ "generatedAt": "2026-11-05T19:56:57Z",
  "totals": {
   "tracked": 146,
-  "duoReady": 68,
-  "checked": 145
+  "duoReady": 65,
+  "checked": 146
  },
- "newToday": [
-  {
-   "id": "6822860496",
-   "name": "Foldtype"
-  },
-  {
-   "id": "1473064295",
-   "name": "Penbook: Paper Planner & Notes"
-  },
-  {
-   "id": "497387361",
-   "name": "Taco Bell Fast Food & Delivery"
-  },
-  {
-   "id": "297430070",
-   "name": "Target: Shop. Style. Save."
-  }
- ],
- "errors": 1,
- "skippedKnownDuo": 64
+ "newToday": [],
+ "errors": 0,
+ "skippedKnownDuo": 65
 }

@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-11-05T06:49:56Z",
+ "generatedAt": "2026-11-05T19:56:57Z",
  "totals": {
   "tracked": 146,
-  "duoReady": 68,
-  "checked": 145
+  "duoReady": 65,
+  "checked": 146
  },
  "apps": [
   {
@@ -259,26 +259,6 @@
    "firstSeenDuo": "2026-10-29",
    "sources": [
     "featured"
-   ]
-  },
-  {
-   "id": "6768593043",
-   "name": "BlinkDrama - Short Dramas",
-   "seller": "Atlas Ventures Culture & Technology Limited",
-   "genre": "Entertainment",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/46/92/3146922f-9266-2285-e268-d02d86582de7/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/blinkdrama-short-dramas/id6768593043",
-   "duo": true,
-   "duoShots": [
-    "1398x2034",
-    "2853x2007"
-   ],
-   "latestRelease": "2026-10-25",
-   "checkedAt": "2026-10-25",
-   "notesMentionDuo": true,
-   "firstSeenDuo": "2026-10-25",
-   "sources": [
-    "chart-free"
    ]
   },
   {
@@ -863,25 +843,6 @@
    ]
   },
   {
-   "id": "530168168",
-   "name": "Paramount+",
-   "seller": "CBS Interactive",
-   "genre": "Entertainment",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/32/5d/fd/325dfd7a-1837-49c4-694b-2653c06bf031/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/paramount/id530168168",
-   "duo": true,
-   "duoShots": [
-    "2007x2853"
-   ],
-   "latestRelease": "2026-10-22",
-   "checkedAt": "2026-10-30",
-   "notesMentionDuo": false,
-   "firstSeenDuo": "2026-10-30",
-   "sources": [
-    "chart-free"
-   ]
-  },
-  {
    "id": "6814813688",
    "name": "Penalty Area: Face2Face",
    "seller": "Eray Dinc",
@@ -1056,25 +1017,6 @@
    "checkedAt": "2026-11-04",
    "notesMentionDuo": false,
    "firstSeenDuo": "2026-11-04",
-   "sources": [
-    "chart-free"
-   ]
-  },
-  {
-   "id": "497387361",
-   "name": "Taco Bell Fast Food & Delivery",
-   "seller": "Taco Bell",
-   "genre": "Food & Drink",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/1f/95/a31f95b0-c9a1-0cc1-41d1-592652cfa44b/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/taco-bell-fast-food-delivery/id497387361",
-   "duo": true,
-   "duoShots": [
-    "2853x2007"
-   ],
-   "latestRelease": "2026-10-30",
-   "checkedAt": "2026-11-05",
-   "notesMentionDuo": true,
-   "firstSeenDuo": "2026-11-05",
    "sources": [
     "chart-free"
    ]
@@ -1456,6 +1398,23 @@
    ]
   },
   {
+   "id": "6462904878",
+   "name": "BigFuture School",
+   "seller": "The College Board",
+   "genre": "Education",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/f6/a8/4bf6a83a-d40e-205a-0709-5c5ed3ae5210/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/bigfuture-school/id6462904878",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-10-26",
+   "checkedAt": "2026-11-05",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
    "id": "1500855883",
    "name": "CapCut: Photo & Video Editor",
    "seller": "Bytedance Pte. Ltd",
@@ -1499,23 +1458,6 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-03",
-   "checkedAt": "2026-11-05",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-free"
-   ]
-  },
-  {
-   "id": "298867247",
-   "name": "Chase Mobile®: Bank & Invest",
-   "seller": "JPMorgan Chase & Co.",
-   "genre": "Finance",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/17/65/30176556-2e6c-3b00-54d9-5131c4855bc8/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/chase-mobile-bank-invest/id298867247",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2026-11-04",
    "checkedAt": "2026-11-05",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
@@ -1898,6 +1840,23 @@
    ]
   },
   {
+   "id": "962194608",
+   "name": "Google Photos: Backup & Edit",
+   "seller": "Google",
+   "genre": "Photo & Video",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/62/b7/7262b78d-b7f7-c694-b53d-d41f6bc3636c/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/google-photos-backup-edit/id962194608",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-10-30",
+   "checkedAt": "2026-11-05",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
    "id": "842849113",
    "name": "Google Sheets",
    "seller": "Google",
@@ -2051,6 +2010,23 @@
    ]
   },
   {
+   "id": "529379082",
+   "name": "Lyft",
+   "seller": "Lyft, Inc.",
+   "genre": "Travel",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/cb/96/f0cb961e-bf05-4ac7-287f-04f3ce89b1bf/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/lyft/id529379082",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-02",
+   "checkedAt": "2026-11-05",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
    "id": "922103212",
    "name": "McDonald's",
    "seller": "McDonald's USA",
@@ -2060,6 +2036,23 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-12",
+   "checkedAt": "2026-11-05",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "454638411",
+   "name": "Messenger",
+   "seller": "Meta Platforms, Inc.",
+   "genre": "Social Networking",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/ef/92/acef92bf-f52b-ce38-1884-ee26b75b21fe/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/messenger/id454638411",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-04",
    "checkedAt": "2026-11-05",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
@@ -2094,6 +2087,23 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-05",
+   "checkedAt": "2026-11-05",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "586447913",
+   "name": "Microsoft Word",
+   "seller": "Microsoft Corporation",
+   "genre": "Productivity",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/a0/51/58a0517a-395b-8ad2-dc9f-86742a069f40/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/microsoft-word/id586447913",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-02",
    "checkedAt": "2026-11-05",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
@@ -2374,15 +2384,15 @@
    ]
   },
   {
-   "id": "482066631",
-   "name": "Roku Remote (Official)",
-   "seller": "ROKU INC",
-   "genre": "Entertainment",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/97/91/e49791c5-e4da-8b2a-5a90-7b3d6578ae94/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/roku-remote-official/id482066631",
+   "id": "878577184",
+   "name": "SHEIN - Shopping Online",
+   "seller": "ROADGET BUSINESS PTE. LTD.",
+   "genre": "Shopping",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/55/61/80/556180a3-3d1d-374f-4c2f-85fcb442b27d/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/shein-shopping-online/id878577184",
    "duo": false,
    "duoShots": [],
-   "latestRelease": "2026-11-04",
+   "latestRelease": "2026-11-05",
    "checkedAt": "2026-11-05",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
@@ -2417,7 +2427,24 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-23",
-   "checkedAt": "2026-11-04",
+   "checkedAt": "2026-11-05",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "331177714",
+   "name": "Starbucks",
+   "seller": "Starbucks Coffee Company",
+   "genre": "Food & Drink",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/07/7b/48/077b4835-0160-57f7-3548-eba16e994d99/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/starbucks/id331177714",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-02",
+   "checkedAt": "2026-11-05",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2561,23 +2588,6 @@
    ]
   },
   {
-   "id": "1054033219",
-   "name": "VIZIO Remote (Official)",
-   "seller": "VIZIO",
-   "genre": "Entertainment",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/9f/ec/5c9fec0e-4629-918f-70bc-3518257ec85f/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/vizio-remote-official/id1054033219",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2026-10-23",
-   "checkedAt": "2026-11-05",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-free"
-   ]
-  },
-  {
    "id": "1488269261",
    "name": "Whatnot: Shop, Sell, Connect",
    "seller": "Whatnot Inc.",
@@ -2638,23 +2648,6 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-02",
-   "checkedAt": "2026-11-05",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-free"
-   ]
-  },
-  {
-   "id": "1619030760",
-   "name": "zeta: AI Chat, Story, Play",
-   "seller": "Scatter Lab, Inc.",
-   "genre": "Entertainment",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/d8/7e/63d87ed7-0cc2-497c-a80b-82b6f4d33018/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/zeta-ai-chat-story-play/id1619030760",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2026-10-21",
    "checkedAt": "2026-11-05",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
