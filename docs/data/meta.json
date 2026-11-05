@@ -1,32 +1,28 @@
 {
- "generatedAt": "2026-11-04T19:46:10Z",
+ "generatedAt": "2026-11-05T06:49:56Z",
  "totals": {
-  "tracked": 240,
-  "duoReady": 81,
-  "checked": 240
+  "tracked": 146,
+  "duoReady": 68,
+  "checked": 145
  },
  "newToday": [
   {
-   "id": "6828573950",
-   "name": "Fold by Fold"
+   "id": "6822860496",
+   "name": "Foldtype"
   },
   {
-   "id": "1373567447",
-   "name": "Loon"
+   "id": "1473064295",
+   "name": "Penbook: Paper Planner & Notes"
   },
   {
-   "id": "754105884",
-   "name": "NightCap Camera: Long Exposure"
+   "id": "497387361",
+   "name": "Taco Bell Fast Food & Delivery"
   },
   {
-   "id": "6480136315",
-   "name": "Suno - AI Songs, Music, Lyrics"
-  },
-  {
-   "id": "284942719",
-   "name": "Universalis"
+   "id": "297430070",
+   "name": "Target: Shop. Style. Save."
   }
  ],
- "errors": 0,
- "skippedKnownDuo": 76
+ "errors": 1,
+ "skippedKnownDuo": 64
 }
