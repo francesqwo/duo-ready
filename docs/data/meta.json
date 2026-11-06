@@ -1,11 +1,80 @@
 {
- "generatedAt": "2026-11-05T19:56:57Z",
+ "generatedAt": "2026-11-06T06:46:55Z",
  "totals": {
-  "tracked": 146,
-  "duoReady": 65,
-  "checked": 146
+  "tracked": 241,
+  "duoReady": 83,
+  "checked": 241
  },
- "newToday": [],
+ "newToday": [
+  {
+   "id": "1470214600",
+   "name": "2Do: To Do List & Task Manager"
+  },
+  {
+   "id": "1569922923",
+   "name": "Air & Space Fitness Calculator"
+  },
+  {
+   "id": "6803329435",
+   "name": "Chromagraph Camera"
+  },
+  {
+   "id": "390017969",
+   "name": "Due - Reminders & Timers"
+  },
+  {
+   "id": "6821872148",
+   "name": "Duopaper: Panoramic Wallpapers"
+  },
+  {
+   "id": "6828573950",
+   "name": "Fold by Fold"
+  },
+  {
+   "id": "363738376",
+   "name": "forScore"
+  },
+  {
+   "id": "1202650514",
+   "name": "HealthFit"
+  },
+  {
+   "id": "339407922",
+   "name": "iBend Pipe"
+  },
+  {
+   "id": "6821610088",
+   "name": "Miniature Studio"
+  },
+  {
+   "id": "586149216",
+   "name": "Monash FODMAP Diet"
+  },
+  {
+   "id": "6826478625",
+   "name": "Pocket Mac Lab"
+  },
+  {
+   "id": "949490225",
+   "name": "Print to Size"
+  },
+  {
+   "id": "916366645",
+   "name": "Procreate Pocket"
+  },
+  {
+   "id": "6821710782",
+   "name": "Satisfy: ASMR Fidget Toys"
+  },
+  {
+   "id": "963034692",
+   "name": "Streaks"
+  },
+  {
+   "id": "284942719",
+   "name": "Universalis"
+  }
+ ],
  "errors": 0,
  "skippedKnownDuo": 65
 }
