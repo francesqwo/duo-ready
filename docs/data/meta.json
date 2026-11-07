@@ -1,24 +1,60 @@
 {
- "generatedAt": "2026-11-06T19:24:20Z",
+ "generatedAt": "2026-11-07T06:04:31Z",
  "totals": {
-  "tracked": 241,
+  "tracked": 242,
   "duoReady": 82,
   "checked": 241
  },
  "newToday": [
   {
-   "id": "6814210373",
-   "name": "Auday - All-Day Watch Recorder"
+   "id": "6791804049",
+   "name": "Apple Knight 3"
   },
   {
-   "id": "6768593043",
-   "name": "BlinkDrama - Short Dramas"
+   "id": "6830004679",
+   "name": "Brim: Full-Width Browsing"
   },
   {
-   "id": "330247123",
-   "name": "Sun Seeker - Sunlight Tracker"
+   "id": "849316734",
+   "name": "Dibs"
+  },
+  {
+   "id": "6819150080",
+   "name": "Duo Aquarium"
+  },
+  {
+   "id": "6829417372",
+   "name": "Duo Draw: Party Game"
+  },
+  {
+   "id": "6820516041",
+   "name": "Fineliner"
+  },
+  {
+   "id": "6818168418",
+   "name": "Flipcorder: Retro Camcorder"
+  },
+  {
+   "id": "339407922",
+   "name": "iBend Pipe"
+  },
+  {
+   "id": "6799999961",
+   "name": "IncrediBooth - Photo Booth"
+  },
+  {
+   "id": "6826587140",
+   "name": "Midnight Fridge"
+  },
+  {
+   "id": "497387361",
+   "name": "Taco Bell Fast Food & Delivery"
+  },
+  {
+   "id": "6754027574",
+   "name": "TR-49"
   }
  ],
- "errors": 0,
- "skippedKnownDuo": 79
+ "errors": 1,
+ "skippedKnownDuo": 69
 }
