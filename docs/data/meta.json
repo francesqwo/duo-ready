@@ -1,60 +1,40 @@
 {
- "generatedAt": "2026-11-07T06:04:31Z",
+ "generatedAt": "2026-11-07T13:00:25Z",
  "totals": {
   "tracked": 242,
-  "duoReady": 82,
-  "checked": 241
+  "duoReady": 84,
+  "checked": 242
  },
  "newToday": [
   {
-   "id": "6791804049",
-   "name": "Apple Knight 3"
+   "id": "6768593043",
+   "name": "BlinkDrama - Short Dramas"
   },
   {
-   "id": "6830004679",
-   "name": "Brim: Full-Width Browsing"
+   "id": "6820440624",
+   "name": "Calendaria"
   },
   {
-   "id": "849316734",
-   "name": "Dibs"
+   "id": "6794501026",
+   "name": "Grok Bot"
   },
   {
-   "id": "6819150080",
-   "name": "Duo Aquarium"
+   "id": "1489470545",
+   "name": "iFacialMocap"
   },
   {
-   "id": "6829417372",
-   "name": "Duo Draw: Party Game"
+   "id": "1373567447",
+   "name": "Loon"
   },
   {
-   "id": "6820516041",
-   "name": "Fineliner"
+   "id": "357404131",
+   "name": "Slow Shutter Cam"
   },
   {
-   "id": "6818168418",
-   "name": "Flipcorder: Retro Camcorder"
-  },
-  {
-   "id": "339407922",
-   "name": "iBend Pipe"
-  },
-  {
-   "id": "6799999961",
-   "name": "IncrediBooth - Photo Booth"
-  },
-  {
-   "id": "6826587140",
-   "name": "Midnight Fridge"
-  },
-  {
-   "id": "497387361",
-   "name": "Taco Bell Fast Food & Delivery"
-  },
-  {
-   "id": "6754027574",
-   "name": "TR-49"
+   "id": "886445756",
+   "name": "Tubi: Movies & Live TV"
   }
  ],
- "errors": 1,
- "skippedKnownDuo": 69
+ "errors": 0,
+ "skippedKnownDuo": 77
 }
