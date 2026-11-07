@@ -1,40 +1,24 @@
 {
- "generatedAt": "2026-11-07T13:00:25Z",
+ "generatedAt": "2026-11-07T21:49:50Z",
  "totals": {
   "tracked": 242,
-  "duoReady": 84,
+  "duoReady": 81,
   "checked": 242
  },
  "newToday": [
   {
-   "id": "6768593043",
-   "name": "BlinkDrama - Short Dramas"
+   "id": "1569922923",
+   "name": "Air & Space Fitness Calculator"
   },
   {
-   "id": "6820440624",
-   "name": "Calendaria"
+   "id": "6814210373",
+   "name": "Auday - All-Day Watch Recorder"
   },
   {
-   "id": "6794501026",
-   "name": "Grok Bot"
-  },
-  {
-   "id": "1489470545",
-   "name": "iFacialMocap"
-  },
-  {
-   "id": "1373567447",
-   "name": "Loon"
-  },
-  {
-   "id": "357404131",
-   "name": "Slow Shutter Cam"
-  },
-  {
-   "id": "886445756",
-   "name": "Tubi: Movies & Live TV"
+   "id": "363738376",
+   "name": "forScore"
   }
  ],
  "errors": 0,
- "skippedKnownDuo": 77
+ "skippedKnownDuo": 78
 }
