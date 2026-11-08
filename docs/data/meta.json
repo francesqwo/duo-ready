@@ -1,16 +1,16 @@
 {
- "generatedAt": "2026-11-08T13:24:12Z",
+ "generatedAt": "2026-11-08T22:05:06Z",
  "totals": {
   "tracked": 242,
-  "duoReady": 87,
+  "duoReady": 86,
   "checked": 242
  },
  "newToday": [
   {
-   "id": "6827308965",
-   "name": "Widezilla"
+   "id": "1443988620",
+   "name": "Quantumult X"
   }
  ],
  "errors": 0,
- "skippedKnownDuo": 86
+ "skippedKnownDuo": 85
 }
