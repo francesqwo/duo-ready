@@ -1,24 +1,48 @@
 {
- "generatedAt": "2026-11-07T21:49:50Z",
+ "generatedAt": "2026-11-08T06:03:48Z",
  "totals": {
   "tracked": 242,
-  "duoReady": 81,
+  "duoReady": 89,
   "checked": 242
  },
  "newToday": [
   {
-   "id": "1569922923",
-   "name": "Air & Space Fitness Calculator"
+   "id": "892542000",
+   "name": "Board Game Stats"
   },
   {
-   "id": "6814210373",
-   "name": "Auday - All-Day Watch Recorder"
+   "id": "436491861",
+   "name": "Domino's Pizza USA"
   },
   {
-   "id": "363738376",
-   "name": "forScore"
+   "id": "6818168418",
+   "name": "Flipcorder: Retro Camcorder"
+  },
+  {
+   "id": "6443996847",
+   "name": "Frame Crop – Art Mode"
+  },
+  {
+   "id": "1202650514",
+   "name": "HealthFit"
+  },
+  {
+   "id": "754105884",
+   "name": "NightCap Camera: Long Exposure"
+  },
+  {
+   "id": "530168168",
+   "name": "Paramount+"
+  },
+  {
+   "id": "497387361",
+   "name": "Taco Bell Fast Food & Delivery"
+  },
+  {
+   "id": "886445756",
+   "name": "Tubi: Movies & Live TV"
   }
  ],
  "errors": 0,
- "skippedKnownDuo": 78
+ "skippedKnownDuo": 80
 }
