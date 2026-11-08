@@ -1,48 +1,16 @@
 {
- "generatedAt": "2026-11-08T06:03:48Z",
+ "generatedAt": "2026-11-08T13:24:12Z",
  "totals": {
   "tracked": 242,
-  "duoReady": 89,
+  "duoReady": 87,
   "checked": 242
  },
  "newToday": [
   {
-   "id": "892542000",
-   "name": "Board Game Stats"
-  },
-  {
-   "id": "436491861",
-   "name": "Domino's Pizza USA"
-  },
-  {
-   "id": "6818168418",
-   "name": "Flipcorder: Retro Camcorder"
-  },
-  {
-   "id": "6443996847",
-   "name": "Frame Crop – Art Mode"
-  },
-  {
-   "id": "1202650514",
-   "name": "HealthFit"
-  },
-  {
-   "id": "754105884",
-   "name": "NightCap Camera: Long Exposure"
-  },
-  {
-   "id": "530168168",
-   "name": "Paramount+"
-  },
-  {
-   "id": "497387361",
-   "name": "Taco Bell Fast Food & Delivery"
-  },
-  {
-   "id": "886445756",
-   "name": "Tubi: Movies & Live TV"
+   "id": "6827308965",
+   "name": "Widezilla"
   }
  ],
  "errors": 0,
- "skippedKnownDuo": 80
+ "skippedKnownDuo": 86
 }

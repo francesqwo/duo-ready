@@ -1,8 +1,8 @@
 {
- "generatedAt": "2026-11-08T06:03:48Z",
+ "generatedAt": "2026-11-08T13:24:12Z",
  "totals": {
   "tracked": 242,
-  "duoReady": 89,
+  "duoReady": 87,
   "checked": 242
  },
  "apps": [
@@ -278,26 +278,6 @@
    "firstSeenDuo": "2026-11-07",
    "sources": [
     "chart-free"
-   ]
-  },
-  {
-   "id": "892542000",
-   "name": "Board Game Stats",
-   "seller": "Eerko Vissering",
-   "genre": "Lifestyle",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/df/e4/f3dfe4ae-88b0-48f0-f752-db76ad590ca7/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/board-game-stats/id892542000",
-   "duo": true,
-   "duoShots": [
-    "1398x2034",
-    "2853x2007"
-   ],
-   "latestRelease": "2026-11-01",
-   "checkedAt": "2026-11-08",
-   "notesMentionDuo": false,
-   "firstSeenDuo": "2026-11-08",
-   "sources": [
-    "chart-paid"
    ]
   },
   {
@@ -726,46 +706,6 @@
    "firstSeenDuo": "2026-11-05",
    "sources": [
     "featured"
-   ]
-  },
-  {
-   "id": "363738376",
-   "name": "forScore",
-   "seller": "forScore LLC",
-   "genre": "Music",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/47/e5/4a47e54c-82e1-8440-a67b-75c266ccb8b3/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/forscore/id363738376",
-   "duo": true,
-   "duoShots": [
-    "2007x2853",
-    "2853x2007"
-   ],
-   "latestRelease": "2026-10-27",
-   "checkedAt": "2026-11-07",
-   "notesMentionDuo": false,
-   "firstSeenDuo": "2026-11-07",
-   "sources": [
-    "chart-paid"
-   ]
-  },
-  {
-   "id": "6443996847",
-   "name": "Frame Crop – Art Mode",
-   "seller": "Shane Jeffers",
-   "genre": "Utilities",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/e5/f2/c5e5f2e7-d8db-58bb-29fd-e3e25e1e1d7f/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/frame-crop-art-mode/id6443996847",
-   "duo": true,
-   "duoShots": [
-    "1398x2034",
-    "2853x2007"
-   ],
-   "latestRelease": "2026-10-31",
-   "checkedAt": "2026-11-08",
-   "notesMentionDuo": true,
-   "firstSeenDuo": "2026-11-08",
-   "sources": [
-    "chart-paid"
    ]
   },
   {
@@ -1732,6 +1672,26 @@
    ]
   },
   {
+   "id": "6827308965",
+   "name": "Widezilla",
+   "seller": "Matteo Dall'Ombra",
+   "genre": "Utilities",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/c9/51/fbc95151-95b0-8aab-5934-61a64eb04a74/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/widezilla/id6827308965",
+   "duo": true,
+   "duoShots": [
+    "1398x2034",
+    "2853x2007"
+   ],
+   "latestRelease": "2026-11-06",
+   "checkedAt": "2026-11-08",
+   "notesMentionDuo": false,
+   "firstSeenDuo": "2026-11-08",
+   "sources": [
+    "chart-paid"
+   ]
+  },
+  {
    "id": "1458605549",
    "name": "Wylde Flowers",
    "seller": "Studio Drydock Pty Ltd",
@@ -1777,23 +1737,6 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-28",
-   "checkedAt": "2026-11-08",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-free"
-   ]
-  },
-  {
-   "id": "589653414",
-   "name": "7-Eleven: Rewards & Shopping",
-   "seller": "7-Eleven, Inc.",
-   "genre": "Food & Drink",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ef/e1/6d/efe16d53-77d6-d969-4d15-edf216abd9b4/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/7-eleven-rewards-shopping/id589653414",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2026-10-21",
    "checkedAt": "2026-11-08",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
@@ -1870,6 +1813,23 @@
    ]
   },
   {
+   "id": "6444631986",
+   "name": "AstroShader",
+   "seller": "AstroShader Limited",
+   "genre": "Photo & Video",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/ad/59/8fad595c-4568-922b-5c18-a8694e868adf/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/astroshader/id6444631986",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-09-17",
+   "checkedAt": "2026-11-08",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-paid"
+   ]
+  },
+  {
    "id": "1164801111",
    "name": "AutoSleep: Watch Sleep Tracker",
    "seller": "Tantsissa",
@@ -1879,23 +1839,6 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-03",
-   "checkedAt": "2026-11-08",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-paid"
-   ]
-  },
-  {
-   "id": "6746705608",
-   "name": "AutoSnore: Snoring Recorder",
-   "seller": "Tantsissa",
-   "genre": "Medical",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/b6/32/cdb632b9-518d-730c-28a2-62a6ae1b9061/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/autosnore-snoring-recorder/id6746705608",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2026-09-12",
    "checkedAt": "2026-11-08",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
@@ -2057,20 +2000,20 @@
    ]
   },
   {
-   "id": "6499201223",
-   "name": "CalCs - Calendar Complications",
-   "seller": "Akihiro Usui",
-   "genre": "Utilities",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/3d/6e/0f3d6e21-afcb-fdf3-935a-fb58d44aa711/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/calcs-calendar-complications/id6499201223",
+   "id": "1018368216",
+   "name": "Cantina: AI Video & Characters",
+   "seller": "Cantina, Inc",
+   "genre": "Photo & Video",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/70/03/0b700356-fd96-400c-f2f6-bcd8e789d16b/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/cantina-ai-video-characters/id1018368216",
    "duo": false,
    "duoShots": [],
-   "latestRelease": "2026-11-04",
+   "latestRelease": "2026-11-03",
    "checkedAt": "2026-11-08",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
-    "chart-paid"
+    "chart-free"
    ]
   },
   {
@@ -2258,6 +2201,23 @@
    "firstSeenDuo": null,
    "sources": [
     "chart-paid"
+   ]
+  },
+  {
+   "id": "6746114452",
+   "name": "CrimeRadar Dispatch Audio",
+   "seller": "Scoopz Inc.",
+   "genre": "News",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/4f/b6/de4fb600-8a1a-ded0-141d-9090cab6b287/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/crimeradar-dispatch-audio/id6746114452",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-06",
+   "checkedAt": "2026-11-08",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
    ]
   },
   {
@@ -2513,6 +2473,40 @@
    "firstSeenDuo": null,
    "sources": [
     "chart-free"
+   ]
+  },
+  {
+   "id": "6768240254",
+   "name": "FreeDrama: Watch Short Stories",
+   "seller": "Kuku Technologies Limited",
+   "genre": "Entertainment",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0f/b5/07/0fb5077e-5c81-fb70-d22f-43a91e45e955/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/freedrama-watch-short-stories/id6768240254",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-10-23",
+   "checkedAt": "2026-11-08",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "1360656789",
+   "name": "Ghost Science M3",
+   "seller": "Michael Weber",
+   "genre": "Entertainment",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/76/14/3b761476-0a09-51f5-72dc-19bbe283d493/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/ghost-science-m3/id1360656789",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-05-28",
+   "checkedAt": "2026-11-08",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-paid"
    ]
   },
   {
@@ -2907,23 +2901,6 @@
    ]
   },
   {
-   "id": "1115120118",
-   "name": "Klarna: Smarter everyday money",
-   "seller": "Klarna Bank AB",
-   "genre": "Finance",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/54/03/98/540398bc-808e-cce5-da65-f85affdc31cf/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/klarna-smarter-everyday-money/id1115120118",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2026-11-07",
-   "checkedAt": "2026-11-08",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-free"
-   ]
-  },
-  {
    "id": "453571750",
    "name": "Knots 3D",
    "seller": "Nynix",
@@ -3026,6 +3003,23 @@
    ]
   },
   {
+   "id": "6778099993",
+   "name": "Manager for Scooters",
+   "seller": "Radoslaw Marciniak",
+   "genre": "Travel",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/48/b1/b648b1e7-d0f0-336f-f12b-a093db443de1/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/manager-for-scooters/id6778099993",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-09-03",
+   "checkedAt": "2026-11-08",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-paid"
+   ]
+  },
+  {
    "id": "364867315",
    "name": "Marine Aquarium 2.6",
    "seller": "Prolific Publishing, Inc.",
@@ -3077,23 +3071,6 @@
    ]
   },
   {
-   "id": "983156458",
-   "name": "Microsoft Authenticator",
-   "seller": "Microsoft Corporation",
-   "genre": "Productivity",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/77/75/de/7775dec6-2af8-8694-0d34-c1355763a7a1/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/microsoft-authenticator/id983156458",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2026-10-20",
-   "checkedAt": "2026-11-08",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-free"
-   ]
-  },
-  {
    "id": "405835358",
    "name": "MilGPS",
    "seller": "Cascode Labs Pty Ltd",
@@ -3120,6 +3097,23 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-06",
+   "checkedAt": "2026-11-08",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-paid"
+   ]
+  },
+  {
+   "id": "1670762759",
+   "name": "Necrometer",
+   "seller": "chris rogers",
+   "genre": "Utilities",
+   "icon": null,
+   "url": "https://apps.apple.com/us/app/necrometer/id1670762759",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2024-11-02",
    "checkedAt": "2026-11-08",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
@@ -3621,32 +3615,15 @@
    ]
   },
   {
-   "id": "382497397",
-   "name": "Sam's Club Shopping & Delivery",
-   "seller": "Sam’s Club",
-   "genre": "Shopping",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/f0/3a/a0f03a98-200e-771d-033e-5ecb72990f54/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/sams-club-shopping-delivery/id382497397",
+   "id": "972387337",
+   "name": "Scrivener",
+   "seller": "Literature & Latte",
+   "genre": "Productivity",
+   "icon": null,
+   "url": "https://apps.apple.com/us/app/scrivener/id972387337",
    "duo": false,
    "duoShots": [],
-   "latestRelease": "2026-10-30",
-   "checkedAt": "2026-11-08",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-free"
-   ]
-  },
-  {
-   "id": "363978811",
-   "name": "Seconds Pro Interval Timer",
-   "seller": "Runloop Ltd",
-   "genre": "Health & Fitness",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/81/ec/1081ec6d-06a7-3363-3e8f-610988e48b46/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/seconds-pro-interval-timer/id363978811",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2026-10-29",
+   "latestRelease": "2023-09-29",
    "checkedAt": "2026-11-08",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
@@ -3664,6 +3641,23 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-29",
+   "checkedAt": "2026-11-08",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-paid"
+   ]
+  },
+  {
+   "id": "6814971826",
+   "name": "SharpStop Depth of Field Calc",
+   "seller": "Yaniv van der Stigchel",
+   "genre": "Photo & Video",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/60/80/9e60805b-7cdb-485f-308f-08fd3d7a5210/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/sharpstop-depth-of-field-calc/id6814971826",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-02",
    "checkedAt": "2026-11-08",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
@@ -3961,6 +3955,23 @@
    ]
   },
   {
+   "id": "493157418",
+   "name": "Theory Lessons",
+   "seller": "musictheory.net",
+   "genre": "Music",
+   "icon": null,
+   "url": "https://apps.apple.com/us/app/theory-lessons/id493157418",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-04-21",
+   "checkedAt": "2026-11-08",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-paid"
+   ]
+  },
+  {
    "id": "578665578",
    "name": "Threema. The Secure Messenger",
    "seller": "Threema GmbH",
@@ -4055,6 +4066,23 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-05",
+   "checkedAt": "2026-11-08",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "1539090879",
+   "name": "TV Remote - Universal Control",
+   "seller": "EVOLLY.APP",
+   "genre": "Utilities",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/73/d9/6c73d909-6758-1ddc-65d6-6bf6b7ffbd75/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/tv-remote-universal-control/id1539090879",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-09-28",
    "checkedAt": "2026-11-08",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
@@ -4165,23 +4193,6 @@
    ]
   },
   {
-   "id": "6474207287",
-   "name": "Wagotabi: Learn Japanese",
-   "seller": "WAGOTABI LIMITED",
-   "genre": "Education",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/52/1e/27521ef2-1e45-bf3e-f323-f99b1dc81de9/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/wagotabi-learn-japanese/id6474207287",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2026-11-03",
-   "checkedAt": "2026-11-08",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-paid"
-   ]
-  },
-  {
    "id": "1343524838",
    "name": "Waymo",
    "seller": "Waymo LLC",
@@ -4230,23 +4241,6 @@
    "firstSeenDuo": null,
    "sources": [
     "chart-free"
-   ]
-  },
-  {
-   "id": "6447090616",
-   "name": "Whisper Notes - Speech to Text",
-   "seller": "SmashMelon LLC",
-   "genre": "Productivity",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/e8/8e/2de88eff-f2f2-ef5d-161b-75153f4ba493/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/whisper-notes-speech-to-text/id6447090616",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2026-11-06",
-   "checkedAt": "2026-11-08",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-paid"
    ]
   },
   {
