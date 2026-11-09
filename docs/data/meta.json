@@ -1,28 +1,32 @@
 {
- "generatedAt": "2026-11-09T06:29:27Z",
+ "generatedAt": "2026-11-09T22:21:35Z",
  "totals": {
   "tracked": 242,
-  "duoReady": 89,
+  "duoReady": 88,
   "checked": 242
  },
  "newToday": [
   {
-   "id": "905401434",
-   "name": "Fubo: Watch Live TV & Sports"
+   "id": "6827445474",
+   "name": "FoldTick"
   },
   {
-   "id": "6823045499",
-   "name": "IvyPod"
+   "id": "363738376",
+   "name": "forScore"
   },
   {
-   "id": "6824241131",
-   "name": "Midgar - Ambience Effect"
+   "id": "339407922",
+   "name": "iBend Pipe"
   },
   {
-   "id": "357404131",
-   "name": "Slow Shutter Cam"
+   "id": "951937596",
+   "name": "Microsoft Outlook"
+  },
+  {
+   "id": "546505307",
+   "name": "Zoom Workplace"
   }
  ],
  "errors": 0,
- "skippedKnownDuo": 84
+ "skippedKnownDuo": 83
 }
