@@ -1,16 +1,28 @@
 {
- "generatedAt": "2026-11-08T22:05:06Z",
+ "generatedAt": "2026-11-09T06:29:27Z",
  "totals": {
   "tracked": 242,
-  "duoReady": 86,
+  "duoReady": 89,
   "checked": 242
  },
  "newToday": [
   {
-   "id": "1443988620",
-   "name": "Quantumult X"
+   "id": "905401434",
+   "name": "Fubo: Watch Live TV & Sports"
+  },
+  {
+   "id": "6823045499",
+   "name": "IvyPod"
+  },
+  {
+   "id": "6824241131",
+   "name": "Midgar - Ambience Effect"
+  },
+  {
+   "id": "357404131",
+   "name": "Slow Shutter Cam"
   }
  ],
  "errors": 0,
- "skippedKnownDuo": 85
+ "skippedKnownDuo": 84
 }
