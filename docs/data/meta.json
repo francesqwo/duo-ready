@@ -1,20 +1,32 @@
 {
- "generatedAt": "2026-11-10T07:20:53Z",
+ "generatedAt": "2026-11-10T19:43:42Z",
  "totals": {
   "tracked": 242,
-  "duoReady": 89,
+  "duoReady": 88,
   "checked": 242
  },
  "newToday": [
   {
-   "id": "6821710782",
-   "name": "Satisfy: ASMR Fidget Toys"
+   "id": "6814210373",
+   "name": "Auday - All-Day Watch Recorder"
   },
   {
-   "id": "304731501",
-   "name": "Tempo - Metronome with Setlist"
+   "id": "390017969",
+   "name": "Due - Reminders & Timers"
+  },
+  {
+   "id": "6828383349",
+   "name": "DuoFridge"
+  },
+  {
+   "id": "6794501026",
+   "name": "Grok Bot"
+  },
+  {
+   "id": "951937596",
+   "name": "Microsoft Outlook"
   }
  ],
  "errors": 0,
- "skippedKnownDuo": 86
+ "skippedKnownDuo": 83
 }
