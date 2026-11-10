@@ -1,32 +1,20 @@
 {
- "generatedAt": "2026-11-09T22:21:35Z",
+ "generatedAt": "2026-11-10T07:20:53Z",
  "totals": {
   "tracked": 242,
-  "duoReady": 88,
+  "duoReady": 89,
   "checked": 242
  },
  "newToday": [
   {
-   "id": "6827445474",
-   "name": "FoldTick"
+   "id": "6821710782",
+   "name": "Satisfy: ASMR Fidget Toys"
   },
   {
-   "id": "363738376",
-   "name": "forScore"
-  },
-  {
-   "id": "339407922",
-   "name": "iBend Pipe"
-  },
-  {
-   "id": "951937596",
-   "name": "Microsoft Outlook"
-  },
-  {
-   "id": "546505307",
-   "name": "Zoom Workplace"
+   "id": "304731501",
+   "name": "Tempo - Metronome with Setlist"
   }
  ],
  "errors": 0,
- "skippedKnownDuo": 83
+ "skippedKnownDuo": 86
 }
