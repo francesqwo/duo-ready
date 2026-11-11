@@ -1,11 +1,112 @@
 {
- "generatedAt": "2026-11-11T06:21:47Z",
+ "generatedAt": "2026-11-11T14:36:10Z",
  "totals": {
-  "tracked": 147,
-  "duoReady": 68,
-  "checked": 146
+  "tracked": 241,
+  "duoReady": 93,
+  "checked": 240
  },
- "newToday": [],
+ "newToday": [
+  {
+   "id": "1569922923",
+   "name": "Air & Space Fitness Calculator"
+  },
+  {
+   "id": "503451073",
+   "name": "Alibaba.com B2B Trade App"
+  },
+  {
+   "id": "6814210373",
+   "name": "Auday - All-Day Watch Recorder"
+  },
+  {
+   "id": "6803329435",
+   "name": "Chromagraph Camera"
+  },
+  {
+   "id": "6819150080",
+   "name": "Duo Aquarium"
+  },
+  {
+   "id": "6828383349",
+   "name": "DuoFridge"
+  },
+  {
+   "id": "6818168418",
+   "name": "Flipcorder: Retro Camcorder"
+  },
+  {
+   "id": "6827445474",
+   "name": "FoldTick"
+  },
+  {
+   "id": "363738376",
+   "name": "forScore"
+  },
+  {
+   "id": "6794501026",
+   "name": "Grok Bot"
+  },
+  {
+   "id": "1202650514",
+   "name": "HealthFit"
+  },
+  {
+   "id": "339407922",
+   "name": "iBend Pipe"
+  },
+  {
+   "id": "6823045499",
+   "name": "IvyPod"
+  },
+  {
+   "id": "379869627",
+   "name": "Living Earth - Clock & Weather"
+  },
+  {
+   "id": "1373567447",
+   "name": "Loon"
+  },
+  {
+   "id": "586149216",
+   "name": "Monash FODMAP Diet"
+  },
+  {
+   "id": "754105884",
+   "name": "NightCap Camera: Long Exposure"
+  },
+  {
+   "id": "6826478625",
+   "name": "Pocket Mac Lab"
+  },
+  {
+   "id": "949490225",
+   "name": "Print to Size"
+  },
+  {
+   "id": "916366645",
+   "name": "Procreate Pocket"
+  },
+  {
+   "id": "963034692",
+   "name": "Streaks"
+  },
+  {
+   "id": "330247123",
+   "name": "Sun Seeker - Sunlight Tracker"
+  },
+  {
+   "id": "6480136315",
+   "name": "Suno - AI Songs, Music, Lyrics"
+  },
+  {
+   "id": "304731501",
+   "name": "Tempo - Metronome with Setlist"
+  },
+  {
+   "id": "6827308965",
+   "name": "Widezilla"
+  }
+ ],
  "errors": 1,
- "skippedKnownDuo": 67
+ "skippedKnownDuo": 68
 }
