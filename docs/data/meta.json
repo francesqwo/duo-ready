@@ -1,32 +1,11 @@
 {
- "generatedAt": "2026-11-10T19:43:42Z",
+ "generatedAt": "2026-11-11T06:21:47Z",
  "totals": {
-  "tracked": 242,
-  "duoReady": 88,
-  "checked": 242
+  "tracked": 147,
+  "duoReady": 68,
+  "checked": 146
  },
- "newToday": [
-  {
-   "id": "6814210373",
-   "name": "Auday - All-Day Watch Recorder"
-  },
-  {
-   "id": "390017969",
-   "name": "Due - Reminders & Timers"
-  },
-  {
-   "id": "6828383349",
-   "name": "DuoFridge"
-  },
-  {
-   "id": "6794501026",
-   "name": "Grok Bot"
-  },
-  {
-   "id": "951937596",
-   "name": "Microsoft Outlook"
-  }
- ],
- "errors": 0,
- "skippedKnownDuo": 83
+ "newToday": [],
+ "errors": 1,
+ "skippedKnownDuo": 67
 }
