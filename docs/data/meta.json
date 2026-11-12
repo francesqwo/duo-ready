@@ -1,28 +1,16 @@
 {
- "generatedAt": "2026-11-12T00:53:28Z",
+ "generatedAt": "2026-11-12T15:14:52Z",
  "totals": {
-  "tracked": 242,
-  "duoReady": 92,
-  "checked": 240
+  "tracked": 147,
+  "duoReady": 69,
+  "checked": 147
  },
  "newToday": [
   {
-   "id": "390017969",
-   "name": "Due - Reminders & Timers"
-  },
-  {
-   "id": "6480396367",
-   "name": "Punch Kick Duck+"
-  },
-  {
-   "id": "6818514178",
-   "name": "Sandbender"
-  },
-  {
-   "id": "6821710782",
-   "name": "Satisfy: ASMR Fidget Toys"
+   "id": "886445756",
+   "name": "Tubi: Movies & Live TV"
   }
  ],
- "errors": 2,
- "skippedKnownDuo": 87
+ "errors": 0,
+ "skippedKnownDuo": 68
 }
