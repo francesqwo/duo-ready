@@ -1,140 +1,20 @@
 {
- "generatedAt": "2026-11-12T23:43:07Z",
+ "generatedAt": "2026-11-13T06:55:02Z",
  "totals": {
   "tracked": 241,
-  "duoReady": 90,
-  "checked": 240
+  "duoReady": 88,
+  "checked": 235
  },
  "newToday": [
   {
-   "id": "1569922923",
-   "name": "Air & Space Fitness Calculator"
+   "id": "339407922",
+   "name": "iBend Pipe"
   },
   {
-   "id": "6814210373",
-   "name": "Auday - All-Day Watch Recorder"
-  },
-  {
-   "id": "6803329435",
-   "name": "Chromagraph Camera"
-  },
-  {
-   "id": "390017969",
-   "name": "Due - Reminders & Timers"
-  },
-  {
-   "id": "6819150080",
-   "name": "Duo Aquarium"
-  },
-  {
-   "id": "6828383349",
-   "name": "DuoFridge"
-  },
-  {
-   "id": "6818168418",
-   "name": "Flipcorder: Retro Camcorder"
-  },
-  {
-   "id": "6827445474",
-   "name": "FoldTick"
-  },
-  {
-   "id": "363738376",
-   "name": "forScore"
-  },
-  {
-   "id": "1623318294",
-   "name": "Gossip Harbor®: Merge & Story"
-  },
-  {
-   "id": "6823045499",
-   "name": "IvyPod"
-  },
-  {
-   "id": "1373567447",
-   "name": "Loon"
-  },
-  {
-   "id": "529379082",
-   "name": "Lyft"
-  },
-  {
-   "id": "541164041",
-   "name": "Microsoft Copilot"
-  },
-  {
-   "id": "951937596",
-   "name": "Microsoft Outlook"
-  },
-  {
-   "id": "1534460779",
-   "name": "Mini Mini Farm"
-  },
-  {
-   "id": "586149216",
-   "name": "Monash FODMAP Diet"
-  },
-  {
-   "id": "754105884",
-   "name": "NightCap Camera: Long Exposure"
-  },
-  {
-   "id": "1451427298",
-   "name": "Patterned"
-  },
-  {
-   "id": "357421934",
-   "name": "PeakFinder"
-  },
-  {
-   "id": "6826478625",
-   "name": "Pocket Mac Lab"
-  },
-  {
-   "id": "6826606004",
-   "name": "Pocket Midway"
-  },
-  {
-   "id": "6759608688",
-   "name": "Pokermancer"
-  },
-  {
-   "id": "6670792878",
-   "name": "POOLS™"
-  },
-  {
-   "id": "949490225",
-   "name": "Print to Size"
-  },
-  {
-   "id": "916366645",
-   "name": "Procreate Pocket"
-  },
-  {
-   "id": "1659992476",
-   "name": "puffies."
-  },
-  {
-   "id": "6821710782",
-   "name": "Satisfy: ASMR Fidget Toys"
-  },
-  {
-   "id": "963034692",
-   "name": "Streaks"
-  },
-  {
-   "id": "330247123",
-   "name": "Sun Seeker - Sunlight Tracker"
-  },
-  {
-   "id": "1662217862",
-   "name": "Wipr 2"
-  },
-  {
-   "id": "1606356401",
-   "name": "Zenless Zone Zero"
+   "id": "304731501",
+   "name": "Tempo - Metronome with Setlist"
   }
  ],
- "errors": 1,
- "skippedKnownDuo": 58
+ "errors": 6,
+ "skippedKnownDuo": 0
 }
