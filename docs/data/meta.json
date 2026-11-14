@@ -1,28 +1,52 @@
 {
- "generatedAt": "2026-11-13T19:42:08Z",
+ "generatedAt": "2026-11-14T06:25:33Z",
  "totals": {
-  "tracked": 242,
+  "tracked": 241,
   "duoReady": 90,
-  "checked": 242
+  "checked": 241
  },
  "newToday": [
   {
-   "id": "6814210373",
-   "name": "Auday - All-Day Watch Recorder"
+   "id": "382698565",
+   "name": "American Airlines"
   },
   {
-   "id": "6753807741",
-   "name": "frenzy - friends only"
+   "id": "6816474457",
+   "name": "Callsign: Desk Busy Sign"
   },
   {
-   "id": "6794501026",
-   "name": "Grok Bot"
+   "id": "6833613428",
+   "name": "Clackity – Duo Flip Clock"
   },
   {
-   "id": "878577184",
-   "name": "SHEIN - Shopping Online"
+   "id": "6833103142",
+   "name": "Desky - Desktop Mode Switching"
+  },
+  {
+   "id": "382233851",
+   "name": "Flightradar24 | Flight Tracker"
+  },
+  {
+   "id": "363738376",
+   "name": "forScore"
+  },
+  {
+   "id": "6443996847",
+   "name": "Frame Crop – Art Mode"
+  },
+  {
+   "id": "1450672436",
+   "name": "Hipstamatic® Analog Camera"
+  },
+  {
+   "id": "6828987389",
+   "name": "Looky Looky"
+  },
+  {
+   "id": "497387361",
+   "name": "Taco Bell Fast Food & Delivery"
   }
  ],
  "errors": 0,
- "skippedKnownDuo": 86
+ "skippedKnownDuo": 80
 }
