@@ -1,28 +1,32 @@
 {
- "generatedAt": "2026-11-14T18:01:06Z",
+ "generatedAt": "2026-11-14T22:23:41Z",
  "totals": {
   "tracked": 241,
-  "duoReady": 88,
+  "duoReady": 90,
   "checked": 241
  },
  "newToday": [
   {
-   "id": "1202650514",
-   "name": "HealthFit"
+   "id": "282614216",
+   "name": "eBay online shopping & selling"
   },
   {
-   "id": "1373567447",
-   "name": "Loon"
+   "id": "6818168418",
+   "name": "Flipcorder: Retro Camcorder"
   },
   {
-   "id": "754105884",
-   "name": "NightCap Camera: Long Exposure"
+   "id": "1450175505",
+   "name": "Giftful - Wishlist & Registry"
   },
   {
-   "id": "878577184",
-   "name": "SHEIN - Shopping Online"
+   "id": "6823045499",
+   "name": "IvyPod"
+  },
+  {
+   "id": "6821710782",
+   "name": "Satisfy: ASMR Fidget Toys"
   }
  ],
  "errors": 0,
- "skippedKnownDuo": 84
+ "skippedKnownDuo": 85
 }
