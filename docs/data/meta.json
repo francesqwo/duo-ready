@@ -1,52 +1,28 @@
 {
- "generatedAt": "2026-11-14T06:25:33Z",
+ "generatedAt": "2026-11-14T18:01:06Z",
  "totals": {
   "tracked": 241,
-  "duoReady": 90,
+  "duoReady": 88,
   "checked": 241
  },
  "newToday": [
   {
-   "id": "382698565",
-   "name": "American Airlines"
+   "id": "1202650514",
+   "name": "HealthFit"
   },
   {
-   "id": "6816474457",
-   "name": "Callsign: Desk Busy Sign"
+   "id": "1373567447",
+   "name": "Loon"
   },
   {
-   "id": "6833613428",
-   "name": "Clackity – Duo Flip Clock"
+   "id": "754105884",
+   "name": "NightCap Camera: Long Exposure"
   },
   {
-   "id": "6833103142",
-   "name": "Desky - Desktop Mode Switching"
-  },
-  {
-   "id": "382233851",
-   "name": "Flightradar24 | Flight Tracker"
-  },
-  {
-   "id": "363738376",
-   "name": "forScore"
-  },
-  {
-   "id": "6443996847",
-   "name": "Frame Crop – Art Mode"
-  },
-  {
-   "id": "1450672436",
-   "name": "Hipstamatic® Analog Camera"
-  },
-  {
-   "id": "6828987389",
-   "name": "Looky Looky"
-  },
-  {
-   "id": "497387361",
-   "name": "Taco Bell Fast Food & Delivery"
+   "id": "878577184",
+   "name": "SHEIN - Shopping Online"
   }
  ],
  "errors": 0,
- "skippedKnownDuo": 80
+ "skippedKnownDuo": 84
 }
