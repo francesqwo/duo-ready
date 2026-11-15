@@ -1,32 +1,32 @@
 {
- "generatedAt": "2026-11-14T22:23:41Z",
+ "generatedAt": "2026-11-15T06:37:33Z",
  "totals": {
   "tracked": 241,
-  "duoReady": 90,
-  "checked": 241
+  "duoReady": 89,
+  "checked": 240
  },
  "newToday": [
   {
-   "id": "282614216",
-   "name": "eBay online shopping & selling"
+   "id": "436491861",
+   "name": "Domino's Pizza USA"
   },
   {
-   "id": "6818168418",
-   "name": "Flipcorder: Retro Camcorder"
+   "id": "363738376",
+   "name": "forScore"
   },
   {
-   "id": "1450175505",
-   "name": "Giftful - Wishlist & Registry"
+   "id": "754105884",
+   "name": "NightCap Camera: Long Exposure"
   },
   {
-   "id": "6823045499",
-   "name": "IvyPod"
+   "id": "530168168",
+   "name": "Paramount+"
   },
   {
-   "id": "6821710782",
-   "name": "Satisfy: ASMR Fidget Toys"
+   "id": "497387361",
+   "name": "Taco Bell Fast Food & Delivery"
   }
  ],
- "errors": 0,
- "skippedKnownDuo": 85
+ "errors": 1,
+ "skippedKnownDuo": 83
 }
