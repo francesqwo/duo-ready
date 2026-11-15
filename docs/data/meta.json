@@ -1,32 +1,24 @@
 {
- "generatedAt": "2026-11-15T06:37:33Z",
+ "generatedAt": "2026-11-15T18:51:08Z",
  "totals": {
   "tracked": 241,
-  "duoReady": 89,
-  "checked": 240
+  "duoReady": 90,
+  "checked": 241
  },
  "newToday": [
   {
-   "id": "436491861",
-   "name": "Domino's Pizza USA"
+   "id": "6814210373",
+   "name": "Auday - All-Day Watch Recorder"
   },
   {
-   "id": "363738376",
-   "name": "forScore"
+   "id": "6794501026",
+   "name": "Grok Bot"
   },
   {
-   "id": "754105884",
-   "name": "NightCap Camera: Long Exposure"
-  },
-  {
-   "id": "530168168",
-   "name": "Paramount+"
-  },
-  {
-   "id": "497387361",
-   "name": "Taco Bell Fast Food & Delivery"
+   "id": "886445756",
+   "name": "Tubi: Movies & Live TV"
   }
  ],
- "errors": 1,
- "skippedKnownDuo": 83
+ "errors": 0,
+ "skippedKnownDuo": 87
 }
