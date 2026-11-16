@@ -1,24 +1,16 @@
 {
- "generatedAt": "2026-11-15T18:51:08Z",
+ "generatedAt": "2026-11-16T06:37:32Z",
  "totals": {
-  "tracked": 241,
-  "duoReady": 90,
-  "checked": 241
+  "tracked": 240,
+  "duoReady": 85,
+  "checked": 239
  },
  "newToday": [
   {
-   "id": "6814210373",
-   "name": "Auday - All-Day Watch Recorder"
-  },
-  {
-   "id": "6794501026",
-   "name": "Grok Bot"
-  },
-  {
-   "id": "886445756",
-   "name": "Tubi: Movies & Live TV"
+   "id": "401626263",
+   "name": "Airbnb"
   }
  ],
- "errors": 0,
- "skippedKnownDuo": 87
+ "errors": 1,
+ "skippedKnownDuo": 83
 }
