@@ -1,16 +1,16 @@
 {
- "generatedAt": "2026-11-16T06:37:32Z",
+ "generatedAt": "2026-11-16T22:01:26Z",
  "totals": {
-  "tracked": 240,
-  "duoReady": 85,
-  "checked": 239
+  "tracked": 148,
+  "duoReady": 72,
+  "checked": 148
  },
  "newToday": [
   {
-   "id": "401626263",
-   "name": "Airbnb"
+   "id": "6480136315",
+   "name": "Suno - AI Songs, Music, Lyrics"
   }
  ],
- "errors": 1,
- "skippedKnownDuo": 83
+ "errors": 0,
+ "skippedKnownDuo": 71
 }
