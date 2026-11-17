@@ -1,16 +1,88 @@
 {
- "generatedAt": "2026-11-16T22:01:26Z",
+ "generatedAt": "2026-11-17T08:04:18Z",
  "totals": {
-  "tracked": 148,
-  "duoReady": 72,
-  "checked": 148
+  "tracked": 237,
+  "duoReady": 89,
+  "checked": 232
  },
  "newToday": [
   {
-   "id": "6480136315",
-   "name": "Suno - AI Songs, Music, Lyrics"
+   "id": "6814210373",
+   "name": "Auday - All-Day Watch Recorder"
+  },
+  {
+   "id": "390017969",
+   "name": "Due - Reminders & Timers"
+  },
+  {
+   "id": "6827445474",
+   "name": "FoldTick"
+  },
+  {
+   "id": "363738376",
+   "name": "forScore"
+  },
+  {
+   "id": "1202650514",
+   "name": "HealthFit"
+  },
+  {
+   "id": "339407922",
+   "name": "iBend Pipe"
+  },
+  {
+   "id": "1373567447",
+   "name": "Loon"
+  },
+  {
+   "id": "586149216",
+   "name": "Monash FODMAP Diet"
+  },
+  {
+   "id": "754105884",
+   "name": "NightCap Camera: Long Exposure"
+  },
+  {
+   "id": "357421934",
+   "name": "PeakFinder"
+  },
+  {
+   "id": "949490225",
+   "name": "Print to Size"
+  },
+  {
+   "id": "916366645",
+   "name": "Procreate Pocket"
+  },
+  {
+   "id": "6828347986",
+   "name": "Ripple Player"
+  },
+  {
+   "id": "1596063349",
+   "name": "Stash - Rule Based Proxy"
+  },
+  {
+   "id": "963034692",
+   "name": "Streaks"
+  },
+  {
+   "id": "330247123",
+   "name": "Sun Seeker - Sunlight Tracker"
+  },
+  {
+   "id": "304731501",
+   "name": "Tempo - Metronome with Setlist"
+  },
+  {
+   "id": "1662217862",
+   "name": "Wipr 2"
+  },
+  {
+   "id": "546505307",
+   "name": "Zoom Workplace"
   }
  ],
- "errors": 0,
- "skippedKnownDuo": 71
+ "errors": 5,
+ "skippedKnownDuo": 0
 }
