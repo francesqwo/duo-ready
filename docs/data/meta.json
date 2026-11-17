@@ -1,88 +1,24 @@
 {
- "generatedAt": "2026-11-17T08:04:18Z",
+ "generatedAt": "2026-11-17T20:56:40Z",
  "totals": {
-  "tracked": 237,
-  "duoReady": 89,
-  "checked": 232
+  "tracked": 241,
+  "duoReady": 90,
+  "checked": 241
  },
  "newToday": [
   {
-   "id": "6814210373",
-   "name": "Auday - All-Day Watch Recorder"
+   "id": "6794501026",
+   "name": "Grok Bot"
   },
   {
-   "id": "390017969",
-   "name": "Due - Reminders & Timers"
+   "id": "1443988620",
+   "name": "Quantumult X"
   },
   {
-   "id": "6827445474",
-   "name": "FoldTick"
-  },
-  {
-   "id": "363738376",
-   "name": "forScore"
-  },
-  {
-   "id": "1202650514",
-   "name": "HealthFit"
-  },
-  {
-   "id": "339407922",
-   "name": "iBend Pipe"
-  },
-  {
-   "id": "1373567447",
-   "name": "Loon"
-  },
-  {
-   "id": "586149216",
-   "name": "Monash FODMAP Diet"
-  },
-  {
-   "id": "754105884",
-   "name": "NightCap Camera: Long Exposure"
-  },
-  {
-   "id": "357421934",
-   "name": "PeakFinder"
-  },
-  {
-   "id": "949490225",
-   "name": "Print to Size"
-  },
-  {
-   "id": "916366645",
-   "name": "Procreate Pocket"
-  },
-  {
-   "id": "6828347986",
-   "name": "Ripple Player"
-  },
-  {
-   "id": "1596063349",
-   "name": "Stash - Rule Based Proxy"
-  },
-  {
-   "id": "963034692",
-   "name": "Streaks"
-  },
-  {
-   "id": "330247123",
-   "name": "Sun Seeker - Sunlight Tracker"
-  },
-  {
-   "id": "304731501",
-   "name": "Tempo - Metronome with Setlist"
-  },
-  {
-   "id": "1662217862",
-   "name": "Wipr 2"
-  },
-  {
-   "id": "546505307",
-   "name": "Zoom Workplace"
+   "id": "6821710782",
+   "name": "Satisfy: ASMR Fidget Toys"
   }
  ],
- "errors": 5,
- "skippedKnownDuo": 0
+ "errors": 0,
+ "skippedKnownDuo": 86
 }
