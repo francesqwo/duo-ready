@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-11-18T07:32:08Z",
+ "generatedAt": "2026-11-18T20:30:50Z",
  "totals": {
   "tracked": 141,
-  "duoReady": 57,
-  "checked": 140
+  "duoReady": 58,
+  "checked": 141
  },
  "apps": [
   {
@@ -27,6 +27,25 @@
    ]
   },
   {
+   "id": "1569922923",
+   "name": "Air & Space Fitness Calculator",
+   "seller": "Patrick Smith",
+   "genre": "Health & Fitness",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/5b/3f/1b5b3fe8-66ac-731a-51bf-f9bc429d36e0/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/air-space-fitness-calculator/id1569922923",
+   "duo": true,
+   "duoShots": [
+    "2853x2007"
+   ],
+   "latestRelease": "2026-10-23",
+   "checkedAt": "2026-11-18",
+   "notesMentionDuo": false,
+   "firstSeenDuo": "2026-11-18",
+   "sources": [
+    "chart-paid"
+   ]
+  },
+  {
    "id": "6825181273",
    "name": "AltoPaint: Oil & Gouache",
    "seller": "Eric Kunz",
@@ -42,8 +61,7 @@
    "notesMentionDuo": false,
    "firstSeenDuo": "2026-10-31",
    "sources": [
-    "chart-paid",
-    "featured"
+    "chart-paid"
    ]
   },
   {
@@ -121,8 +139,7 @@
    "notesMentionDuo": false,
    "firstSeenDuo": "2026-11-12",
    "sources": [
-    "chart-paid",
-    "featured"
+    "chart-paid"
    ]
   },
   {
@@ -264,26 +281,6 @@
    ]
   },
   {
-   "id": "6447014685",
-   "name": "Finalist: Daily Planner",
-   "seller": "Diversion Marketing Inc",
-   "genre": "Productivity",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/1c/d5/d41cd5b0-addb-a13f-62f1-3d492c89a61f/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/finalist-daily-planner/id6447014685",
-   "duo": true,
-   "duoShots": [
-    "1398x2034",
-    "2853x2007"
-   ],
-   "latestRelease": "2026-10-19",
-   "checkedAt": "2026-10-25",
-   "notesMentionDuo": true,
-   "firstSeenDuo": "2026-10-25",
-   "sources": [
-    "featured"
-   ]
-  },
-  {
    "id": "6820516041",
    "name": "Fineliner",
    "seller": "Overcast Radio, LLC",
@@ -299,6 +296,25 @@
    "checkedAt": "2026-11-07",
    "notesMentionDuo": false,
    "firstSeenDuo": "2026-11-07",
+   "sources": [
+    "featured"
+   ]
+  },
+  {
+   "id": "6822860496",
+   "name": "Foldtype",
+   "seller": "Tiann-Tevong You",
+   "genre": "Productivity",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/36/e6/3f36e6ee-dd0d-2e6e-185e-53cec1fd5eba/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/foldtype/id6822860496",
+   "duo": true,
+   "duoShots": [
+    "2007x2853"
+   ],
+   "latestRelease": "2026-11-04",
+   "checkedAt": "2026-11-18",
+   "notesMentionDuo": false,
+   "firstSeenDuo": "2026-11-18",
    "sources": [
     "featured"
    ]
@@ -363,22 +379,23 @@
    ]
   },
   {
-   "id": "1450672436",
-   "name": "Hipstamatic® Analog Camera",
-   "seller": "Hipstamatic, LLC",
-   "genre": "Photo & Video",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/33/7e/61/337e61ad-9482-08a7-4443-dc9d097cc1a7/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/hipstamatic-analog-camera/id1450672436",
+   "id": "339407922",
+   "name": "iBend Pipe",
+   "seller": "Francisco Alcala",
+   "genre": "Productivity",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/4b/e2/504be26e-6550-724f-78af-3a8580fc8a57/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/ibend-pipe/id339407922",
    "duo": true,
    "duoShots": [
-    "1398x2034"
+    "2007x2853",
+    "2853x2007"
    ],
-   "latestRelease": "2026-11-10",
-   "checkedAt": "2026-11-14",
-   "notesMentionDuo": true,
-   "firstSeenDuo": "2026-11-14",
+   "latestRelease": "2026-11-15",
+   "checkedAt": "2026-11-18",
+   "notesMentionDuo": false,
+   "firstSeenDuo": "2026-11-18",
    "sources": [
-    "featured"
+    "chart-paid"
    ]
   },
   {
@@ -1173,23 +1190,6 @@
    ]
   },
   {
-   "id": "378120971",
-   "name": "AeroWeather Pro",
-   "seller": "Lakehorn AG",
-   "genre": "Weather",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/ac/86/40ac8667-1f5d-07f5-f87c-ef4cd871dae8/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/aeroweather-pro/id378120971",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2026-10-29",
-   "checkedAt": "2026-11-18",
-   "notesMentionDuo": true,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-paid"
-   ]
-  },
-  {
    "id": "6470239695",
    "name": "Ahoy! From Picardy",
    "seller": "Daniel Jones",
@@ -1250,6 +1250,23 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-03",
+   "checkedAt": "2026-11-18",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-paid"
+   ]
+  },
+  {
+   "id": "6746705608",
+   "name": "AutoSnore: Snoring Recorder",
+   "seller": "Tantsissa",
+   "genre": "Medical",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/b6/32/cdb632b9-518d-730c-28a2-62a6ae1b9061/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/autosnore-snoring-recorder/id6746705608",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-09-12",
    "checkedAt": "2026-11-18",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
@@ -1377,6 +1394,23 @@
    ]
   },
   {
+   "id": "6749840287",
+   "name": "Conduit: Open WebUI & AI",
+   "seller": "Tunap Paul",
+   "genre": "Productivity",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/3b/a4/5f3ba4d4-572c-ca3b-4e99-9422fa216268/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/conduit-open-webui-ai/id6749840287",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-11",
+   "checkedAt": "2026-11-18",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-paid"
+   ]
+  },
+  {
    "id": "1589914368",
    "name": "CookieRun:Witch’s Castle Blast",
    "seller": "Devsisters",
@@ -1403,23 +1437,6 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2025-12-24",
-   "checkedAt": "2026-11-18",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-paid"
-   ]
-  },
-  {
-   "id": "6748243845",
-   "name": "Cozmo Robot",
-   "seller": "Digital Dream Labs LLC",
-   "genre": "Entertainment",
-   "icon": null,
-   "url": "https://apps.apple.com/us/app/cozmo-robot/id6748243845",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2025-07-17",
    "checkedAt": "2026-11-18",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
@@ -1578,6 +1595,23 @@
    "firstSeenDuo": null,
    "sources": [
     "chart-paid"
+   ]
+  },
+  {
+   "id": "885697368",
+   "name": "Halide Mark III - Pro Camera",
+   "seller": "Lux Optics Incorporated",
+   "genre": "Photo & Video",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/40/4f/8e404f0b-6717-147a-d054-623bbffa55b1/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/halide-mark-iii-pro-camera/id885697368",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-05",
+   "checkedAt": "2026-11-18",
+   "notesMentionDuo": true,
+   "firstSeenDuo": null,
+   "sources": [
+    "featured"
    ]
   },
   {
@@ -1819,23 +1853,6 @@
    ]
   },
   {
-   "id": "1062022008",
-   "name": "LumaFusion",
-   "seller": "Luma Touch LLC",
-   "genre": "Photo & Video",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/c0/36/bac0365f-c6d6-de66-1da4-1029149e9fc3/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/lumafusion/id1062022008",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2026-10-29",
-   "checkedAt": "2026-11-18",
-   "notesMentionDuo": true,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-paid"
-   ]
-  },
-  {
    "id": "405835358",
    "name": "MilGPS",
    "seller": "Cascode Labs Pty Ltd",
@@ -1862,40 +1879,6 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-06",
-   "checkedAt": "2026-11-18",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-paid"
-   ]
-  },
-  {
-   "id": "583922375",
-   "name": "myLightMeter PRO",
-   "seller": "David Quiles",
-   "genre": "Photo & Video",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/20/64/e72064e4-4b26-9641-faf1-5c7c756caf31/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/mylightmeter-pro/id583922375",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2026-11-13",
-   "checkedAt": "2026-11-18",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-paid"
-   ]
-  },
-  {
-   "id": "1670762759",
-   "name": "Necrometer",
-   "seller": "chris rogers",
-   "genre": "Utilities",
-   "icon": null,
-   "url": "https://apps.apple.com/us/app/necrometer/id1670762759",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2024-11-02",
    "checkedAt": "2026-11-18",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
@@ -1964,6 +1947,23 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-08-11",
+   "checkedAt": "2026-11-18",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-paid"
+   ]
+  },
+  {
+   "id": "482303584",
+   "name": "PDG PROmote 2026+",
+   "seller": "ForceReadiness.com",
+   "genre": "Education",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b4/8a/95/b48a9542-9f82-5426-d0bf-8a42b8f536b9/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/pdg-promote-2026/id482303584",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-01-25",
    "checkedAt": "2026-11-18",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
@@ -2074,6 +2074,23 @@
    ]
   },
   {
+   "id": "6448106860",
+   "name": "Private LLM - Local AI Chat",
+   "seller": "Numen Technologies Limited",
+   "genre": "Utilities",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1e/39/02/1e3902c8-a381-1a5a-bc0e-156c49d628ad/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/private-llm-local-ai-chat/id6448106860",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-10-28",
+   "checkedAt": "2026-11-18",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-paid"
+   ]
+  },
+  {
    "id": "894811756",
    "name": "PromptSmart Pro - Teleprompter",
    "seller": "PromptSmart",
@@ -2173,6 +2190,23 @@
    "firstSeenDuo": null,
    "sources": [
     "featured"
+   ]
+  },
+  {
+   "id": "972387337",
+   "name": "Scrivener",
+   "seller": "Literature & Latte",
+   "genre": "Productivity",
+   "icon": null,
+   "url": "https://apps.apple.com/us/app/scrivener/id972387337",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2023-09-29",
+   "checkedAt": "2026-11-18",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-paid"
    ]
   },
   {
@@ -2457,45 +2491,11 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-13",
-   "checkedAt": "2026-11-17",
+   "checkedAt": "2026-11-18",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
     "featured"
-   ]
-  },
-  {
-   "id": "791467318",
-   "name": "Vargo Anesthesia Mega App",
-   "seller": "Vargo Anesthesia Inc",
-   "genre": "Medical",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/a4/70/e3a47051-692c-2e35-70f0-8db8d5ea0d57/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/vargo-anesthesia-mega-app/id791467318",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2026-11-14",
-   "checkedAt": "2026-11-18",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-paid"
-   ]
-  },
-  {
-   "id": "6474207287",
-   "name": "Wagotabi: Learn Japanese",
-   "seller": "WAGOTABI LIMITED",
-   "genre": "Education",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/52/1e/27521ef2-1e45-bf3e-f323-f99b1dc81de9/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/wagotabi-learn-japanese/id6474207287",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2026-11-03",
-   "checkedAt": "2026-11-18",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-paid"
    ]
   },
   {

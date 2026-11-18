@@ -1,24 +1,24 @@
 {
- "generatedAt": "2026-11-18T07:32:08Z",
+ "generatedAt": "2026-11-18T20:30:50Z",
  "totals": {
   "tracked": 141,
-  "duoReady": 57,
-  "checked": 140
+  "duoReady": 58,
+  "checked": 141
  },
  "newToday": [
   {
-   "id": "390017969",
-   "name": "Due - Reminders & Timers"
+   "id": "1569922923",
+   "name": "Air & Space Fitness Calculator"
   },
   {
-   "id": "6823045499",
-   "name": "IvyPod"
+   "id": "6822860496",
+   "name": "Foldtype"
   },
   {
-   "id": "284942719",
-   "name": "Universalis"
+   "id": "339407922",
+   "name": "iBend Pipe"
   }
  ],
- "errors": 1,
- "skippedKnownDuo": 54
+ "errors": 0,
+ "skippedKnownDuo": 55
 }
