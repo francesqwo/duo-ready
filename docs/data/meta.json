@@ -1,24 +1,24 @@
 {
- "generatedAt": "2026-11-17T20:56:40Z",
+ "generatedAt": "2026-11-18T07:32:08Z",
  "totals": {
-  "tracked": 241,
-  "duoReady": 90,
-  "checked": 241
+  "tracked": 141,
+  "duoReady": 57,
+  "checked": 140
  },
  "newToday": [
   {
-   "id": "6794501026",
-   "name": "Grok Bot"
+   "id": "390017969",
+   "name": "Due - Reminders & Timers"
   },
   {
-   "id": "1443988620",
-   "name": "Quantumult X"
+   "id": "6823045499",
+   "name": "IvyPod"
   },
   {
-   "id": "6821710782",
-   "name": "Satisfy: ASMR Fidget Toys"
+   "id": "284942719",
+   "name": "Universalis"
   }
  ],
- "errors": 0,
- "skippedKnownDuo": 86
+ "errors": 1,
+ "skippedKnownDuo": 54
 }
