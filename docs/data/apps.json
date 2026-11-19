@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-11-18T20:30:50Z",
+ "generatedAt": "2026-11-19T07:28:30Z",
  "totals": {
-  "tracked": 141,
-  "duoReady": 58,
-  "checked": 141
+  "tracked": 241,
+  "duoReady": 87,
+  "checked": 241
  },
  "apps": [
   {
@@ -46,6 +46,26 @@
    ]
   },
   {
+   "id": "401626263",
+   "name": "Airbnb",
+   "seller": "Airbnb, Inc.",
+   "genre": "Travel",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/0a/ac/c20aac1a-1b21-cc8c-a83e-0b597e758ab4/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/airbnb/id401626263",
+   "duo": true,
+   "duoShots": [
+    "1398x2034",
+    "2007x2853"
+   ],
+   "latestRelease": "2026-11-11",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": "2026-11-19",
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
    "id": "6825181273",
    "name": "AltoPaint: Oil & Gouache",
    "seller": "Eric Kunz",
@@ -62,6 +82,25 @@
    "firstSeenDuo": "2026-10-31",
    "sources": [
     "chart-paid"
+   ]
+  },
+  {
+   "id": "545519333",
+   "name": "Amazon Prime Video",
+   "seller": "AMZN Mobile LLC",
+   "genre": "Entertainment",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/34/f7/4a34f733-37ae-30a1-0928-a56dfc02b9f2/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/amazon-prime-video/id545519333",
+   "duo": true,
+   "duoShots": [
+    "1398x2034"
+   ],
+   "latestRelease": "2026-11-18",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": "2026-11-19",
+   "sources": [
+    "chart-free"
    ]
   },
   {
@@ -105,6 +144,26 @@
    ]
   },
   {
+   "id": "6768593043",
+   "name": "BlinkDrama - Short Dramas",
+   "seller": "Atlas Ventures Culture & Technology Limited",
+   "genre": "Entertainment",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/ab/1d/b7ab1d8d-ff27-724a-eef3-fedc1f2290e1/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/blinkdrama-short-dramas/id6768593043",
+   "duo": true,
+   "duoShots": [
+    "1398x2034",
+    "2853x2007"
+   ],
+   "latestRelease": "2026-11-12",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": "2026-11-19",
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
    "id": "6816474457",
    "name": "Callsign: Desk Busy Sign",
    "seller": "Moosa BV",
@@ -124,6 +183,65 @@
    ]
   },
   {
+   "id": "897446215",
+   "name": "Canva AI Photo & Video Editor",
+   "seller": "Canva",
+   "genre": "Photo & Video",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/57/1a/60571a04-2e99-1f58-8de8-56a3577dd85a/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/canva-ai-photo-video-editor/id897446215",
+   "duo": true,
+   "duoShots": [
+    "2853x2007"
+   ],
+   "latestRelease": "2026-11-12",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": true,
+   "firstSeenDuo": "2026-11-19",
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "711923939",
+   "name": "Cash App",
+   "seller": "Block, Inc.",
+   "genre": "Finance",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/26/7b/c4267bd2-f433-e38b-587b-1ffd45360902/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/cash-app/id711923939",
+   "duo": true,
+   "duoShots": [
+    "1398x2034",
+    "2007x2853",
+    "2853x2007"
+   ],
+   "latestRelease": "2026-11-16",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": "2026-11-19",
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "6448311069",
+   "name": "ChatGPT",
+   "seller": "OpenAI OpCo, LLC",
+   "genre": "Productivity",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/82/65/b3826504-29df-1e08-2604-624fb05900c6/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/chatgpt/id6448311069",
+   "duo": true,
+   "duoShots": [
+    "1398x2034"
+   ],
+   "latestRelease": "2026-11-10",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": "2026-11-19",
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
    "id": "6803329435",
    "name": "Chromagraph Camera",
    "seller": "Chromatic Applications LLC",
@@ -140,6 +258,44 @@
    "firstSeenDuo": "2026-11-12",
    "sources": [
     "chart-paid"
+   ]
+  },
+  {
+   "id": "6473753684",
+   "name": "Claude by Anthropic",
+   "seller": "Anthropic PBC",
+   "genre": "Productivity",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/19/60/45/196045cb-ef82-4a46-2415-6fdb7f3c6c50/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/claude-by-anthropic/id6473753684",
+   "duo": true,
+   "duoShots": [
+    "2853x2007"
+   ],
+   "latestRelease": "2026-11-18",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": "2026-11-19",
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "6745274862",
+   "name": "DealSeek: Coupons & Discounts",
+   "seller": "DealSeek LLC",
+   "genre": "Shopping",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/71/db/6c/71db6cf4-c8cb-d704-f02a-e515c18b7c8f/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/dealseek-coupons-discounts/id6745274862",
+   "duo": true,
+   "duoShots": [
+    "2853x2007"
+   ],
+   "latestRelease": "2026-11-14",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": true,
+   "firstSeenDuo": "2026-11-19",
+   "sources": [
+    "chart-free"
    ]
   },
   {
@@ -163,6 +319,25 @@
    ]
   },
   {
+   "id": "518684914",
+   "name": "Depop - Buy & Sell Clothes",
+   "seller": "Depop Ltd",
+   "genre": "Shopping",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/cb/c7/8acbc718-5b20-173c-2b5c-3d5b52327aec/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/depop-buy-sell-clothes/id518684914",
+   "duo": true,
+   "duoShots": [
+    "2853x2007"
+   ],
+   "latestRelease": "2026-11-16",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": "2026-11-19",
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
    "id": "849316734",
    "name": "Dibs",
    "seller": "Brent Chionh",
@@ -180,25 +355,6 @@
    "firstSeenDuo": "2026-11-07",
    "sources": [
     "featured"
-   ]
-  },
-  {
-   "id": "390017969",
-   "name": "Due - Reminders & Timers",
-   "seller": "Due Apps LLP",
-   "genre": "Productivity",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/db/da/a2dbda94-e91c-1175-78f3-7a2a1caaff6e/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/due-reminders-timers/id390017969",
-   "duo": true,
-   "duoShots": [
-    "2853x2007"
-   ],
-   "latestRelease": "2026-10-31",
-   "checkedAt": "2026-11-18",
-   "notesMentionDuo": false,
-   "firstSeenDuo": "2026-11-18",
-   "sources": [
-    "chart-paid"
    ]
   },
   {
@@ -239,6 +395,25 @@
    "firstSeenDuo": "2026-11-07",
    "sources": [
     "featured"
+   ]
+  },
+  {
+   "id": "282614216",
+   "name": "eBay online shopping & selling",
+   "seller": "eBay Inc.",
+   "genre": "Shopping",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/78/59/6b785987-cdc0-9407-8cf8-e3c43cc6f11c/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/ebay-online-shopping-selling/id282614216",
+   "duo": true,
+   "duoShots": [
+    "1398x2034"
+   ],
+   "latestRelease": "2026-11-14",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": true,
+   "firstSeenDuo": "2026-11-19",
+   "sources": [
+    "chart-free"
    ]
   },
   {
@@ -340,6 +515,65 @@
    ]
   },
   {
+   "id": "1450175505",
+   "name": "Giftful - Wishlist & Registry",
+   "seller": "Giftful LLC",
+   "genre": "Lifestyle",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/89/12/5689128b-8728-4b1b-df31-eca83f7aac24/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/giftful-wishlist-registry/id1450175505",
+   "duo": true,
+   "duoShots": [
+    "2007x2853",
+    "2853x2007"
+   ],
+   "latestRelease": "2026-11-09",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": true,
+   "firstSeenDuo": "2026-11-19",
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "284815942",
+   "name": "Google",
+   "seller": "Google",
+   "genre": "Utilities",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/43/58/604358af-eda4-0900-fd66-26f9502e7293/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/google/id284815942",
+   "duo": true,
+   "duoShots": [
+    "1398x2034",
+    "2034x1398"
+   ],
+   "latestRelease": "2026-11-16",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": "2026-11-19",
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "6477489729",
+   "name": "Google Gemini",
+   "seller": "Google",
+   "genre": "Productivity",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f8/99/94/f89994b0-d665-c639-2cce-39ba4036ea7b/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/google-gemini/id6477489729",
+   "duo": true,
+   "duoShots": [
+    "2853x2007"
+   ],
+   "latestRelease": "2026-11-18",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": "2026-11-19",
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
    "id": "1623318294",
    "name": "Gossip Harbor®: Merge & Story",
    "seller": "Microfun Limited",
@@ -379,6 +613,66 @@
    ]
   },
   {
+   "id": "6670324846",
+   "name": "Grok",
+   "seller": "X Corp.",
+   "genre": "Productivity",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/62/0a/31620aaf-c54f-4654-d03d-3670e0d90ef0/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/grok/id6670324846",
+   "duo": true,
+   "duoShots": [
+    "2007x2853",
+    "2853x2007"
+   ],
+   "latestRelease": "2026-11-12",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": "2026-11-19",
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "6794501026",
+   "name": "Grok Bot",
+   "seller": "X Corp.",
+   "genre": "Productivity",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/3c/8e/943c8e35-5b2c-8d40-e122-cade11680396/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/grok-bot/id6794501026",
+   "duo": true,
+   "duoShots": [
+    "2853x2007"
+   ],
+   "latestRelease": "2026-11-14",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": "2026-11-19",
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "1202650514",
+   "name": "HealthFit",
+   "seller": "Stephane Lizeray",
+   "genre": "Health & Fitness",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/55/40/b15540cd-c33d-131b-0708-397588f2947f/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/healthfit/id1202650514",
+   "duo": true,
+   "duoShots": [
+    "1398x2034",
+    "2034x1398",
+    "2853x2007"
+   ],
+   "latestRelease": "2026-11-16",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": "2026-11-19",
+   "sources": [
+    "chart-paid"
+   ]
+  },
+  {
    "id": "339407922",
    "name": "iBend Pipe",
    "seller": "Francisco Alcala",
@@ -399,6 +693,25 @@
    ]
   },
   {
+   "id": "389801252",
+   "name": "Instagram",
+   "seller": "Instagram, Inc.",
+   "genre": "Photo & Video",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/4b/af/0c4baf0a-a80c-8473-1e33-5815e31a47b1/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/instagram/id389801252",
+   "duo": true,
+   "duoShots": [
+    "2034x1398"
+   ],
+   "latestRelease": "2026-11-16",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": "2026-11-19",
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
    "id": "6823045499",
    "name": "IvyPod",
    "seller": "Jeremy Siegel",
@@ -415,6 +728,25 @@
    "firstSeenDuo": "2026-11-18",
    "sources": [
     "chart-paid"
+   ]
+  },
+  {
+   "id": "384830320",
+   "name": "Life360: Family Safety & GPS",
+   "seller": "Life360",
+   "genre": "Social Networking",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cc/c9/73/ccc9736c-708e-6a18-d3f7-de9a0d5bba67/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/life360-family-safety-gps/id384830320",
+   "duo": true,
+   "duoShots": [
+    "2853x2007"
+   ],
+   "latestRelease": "2026-11-17",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": "2026-11-19",
+   "sources": [
+    "chart-free"
    ]
   },
   {
@@ -475,6 +807,26 @@
    ]
   },
   {
+   "id": "563082328",
+   "name": "Military Retirement",
+   "seller": "LYNNFIELD LLC",
+   "genre": "Finance",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c1/46/d7/c146d7c3-bbef-a0c7-d1ba-619d211130b5/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/military-retirement/id563082328",
+   "duo": true,
+   "duoShots": [
+    "1398x2034",
+    "2853x2007"
+   ],
+   "latestRelease": "2026-11-06",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": "2026-11-19",
+   "sources": [
+    "chart-paid"
+   ]
+  },
+  {
    "id": "1534460779",
    "name": "Mini Mini Farm",
    "seller": "CoffeeBreak Inc.",
@@ -510,6 +862,45 @@
    "firstSeenDuo": "2026-11-17",
    "sources": [
     "chart-paid"
+   ]
+  },
+  {
+   "id": "6760173601",
+   "name": "Muse from Meta",
+   "seller": "Meta Platforms, Inc.",
+   "genre": "Productivity",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/78/3c/ec783c17-a945-5b2e-2a1f-4d5544c8082e/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/muse-from-meta/id6760173601",
+   "duo": true,
+   "duoShots": [
+    "1398x2034",
+    "2853x2007"
+   ],
+   "latestRelease": "2026-11-16",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": "2026-11-19",
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "363590051",
+   "name": "Netflix",
+   "seller": "Netflix, Inc.",
+   "genre": "Entertainment",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/18/87/0418879e-4e96-1092-7d3d-a213d0234579/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/netflix/id363590051",
+   "duo": true,
+   "duoShots": [
+    "2853x2007"
+   ],
+   "latestRelease": "2026-11-16",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": "2026-11-19",
+   "sources": [
+    "chart-free"
    ]
   },
   {
@@ -861,6 +1252,45 @@
    ]
   },
   {
+   "id": "878577184",
+   "name": "SHEIN - Shopping Online",
+   "seller": "ROADGET BUSINESS PTE. LTD.",
+   "genre": "Shopping",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/eb/49/93eb492c-f9c6-15ea-7ed4-fbd506bc0479/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/shein-shopping-online/id878577184",
+   "duo": true,
+   "duoShots": [
+    "1398x2034",
+    "2007x2853"
+   ],
+   "latestRelease": "2026-11-13",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": "2026-11-19",
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "1223471316",
+   "name": "Shop: Track, Pay, Discover",
+   "seller": "Shopify Inc.",
+   "genre": "Shopping",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/e7/91/c3e7918b-9842-5895-c6b2-b443960687e9/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/shop-track-pay-discover/id1223471316",
+   "duo": true,
+   "duoShots": [
+    "2853x2007"
+   ],
+   "latestRelease": "2026-11-11",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": "2026-11-19",
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
    "id": "1098342019",
    "name": "Sneaky Sasquatch",
    "seller": "RAC7 Games",
@@ -879,6 +1309,25 @@
    "firstSeenDuo": "2026-10-25",
    "sources": [
     "featured"
+   ]
+  },
+  {
+   "id": "371817955",
+   "name": "Sporty's E6B Flight Computer",
+   "seller": "Sporty's Pilot Shop",
+   "genre": "Navigation",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/28/d3/8b28d3f4-7ee1-3a74-75ae-831d7abd63be/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/sportys-e6b-flight-computer/id371817955",
+   "duo": true,
+   "duoShots": [
+    "1398x2034"
+   ],
+   "latestRelease": "2026-11-18",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": true,
+   "firstSeenDuo": "2026-11-19",
+   "sources": [
+    "chart-paid"
    ]
   },
   {
@@ -920,24 +1369,64 @@
    ]
   },
   {
-   "id": "330247123",
-   "name": "Sun Seeker - Sunlight Tracker",
-   "seller": "ozPDA",
-   "genre": "Navigation",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/a0/e4/30a0e442-b533-910a-b01b-52d86c3583fd/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/sun-seeker-sunlight-tracker/id330247123",
+   "id": "6480136315",
+   "name": "Suno - AI Songs, Music, Lyrics",
+   "seller": "Suno, Inc.",
+   "genre": "Music",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/3a/8f/7c3a8f82-35eb-1127-b3b6-c54d733b5f72/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/suno-ai-songs-music-lyrics/id6480136315",
    "duo": true,
    "duoShots": [
     "1398x2034",
     "2007x2853",
     "2853x2007"
    ],
-   "latestRelease": "2026-10-22",
-   "checkedAt": "2026-11-17",
-   "notesMentionDuo": true,
-   "firstSeenDuo": "2026-11-17",
+   "latestRelease": "2026-11-18",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": "2026-11-19",
    "sources": [
-    "chart-paid"
+    "chart-free"
+   ]
+  },
+  {
+   "id": "297430070",
+   "name": "Target: Shop. Style. Save.",
+   "seller": "Target",
+   "genre": "Shopping",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/39/bd/dc39bd88-a067-f4fe-c776-1c780ec25409/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/target-shop-style-save/id297430070",
+   "duo": true,
+   "duoShots": [
+    "2007x2853",
+    "2853x2007"
+   ],
+   "latestRelease": "2026-11-09",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": "2026-11-19",
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "686449807",
+   "name": "Telegram Messenger",
+   "seller": "Telegram FZ-LLC",
+   "genre": "Social Networking",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9e/54/41/9e544160-3e35-5375-0d6f-64fd732d0a60/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/telegram-messenger/id686449807",
+   "duo": true,
+   "duoShots": [
+    "1398x2034",
+    "2853x2007"
+   ],
+   "latestRelease": "2026-11-16",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": "2026-11-19",
+   "sources": [
+    "chart-free"
    ]
   },
   {
@@ -957,6 +1446,27 @@
    "firstSeenDuo": "2026-11-17",
    "sources": [
     "chart-paid"
+   ]
+  },
+  {
+   "id": "1641486558",
+   "name": "Temu: Shop Like a Billionaire",
+   "seller": "Temu",
+   "genre": "Shopping",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/14/79/b5/1479b5bd-7801-7401-8fd5-859b73c44ee4/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/temu-shop-like-a-billionaire/id1641486558",
+   "duo": true,
+   "duoShots": [
+    "1398x2034",
+    "2007x2853",
+    "2853x2007"
+   ],
+   "latestRelease": "2026-11-17",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": "2026-11-19",
+   "sources": [
+    "chart-free"
    ]
   },
   {
@@ -997,6 +1507,26 @@
    "sources": [
     "chart-paid",
     "watchlist"
+   ]
+  },
+  {
+   "id": "6446901002",
+   "name": "Threads",
+   "seller": "Instagram, Inc.",
+   "genre": "Social Networking",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/e7/31/14e7315e-87b2-3d02-c075-ae56b09fd70d/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/threads/id6446901002",
+   "duo": true,
+   "duoShots": [
+    "1398x2034",
+    "2853x2007"
+   ],
+   "latestRelease": "2026-11-16",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": "2026-11-19",
+   "sources": [
+    "chart-free"
    ]
   },
   {
@@ -1079,24 +1609,23 @@
    ]
   },
   {
-   "id": "284942719",
-   "name": "Universalis",
-   "seller": "Universalis Publishing",
-   "genre": "Lifestyle",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/25/2e/c3/252ec397-3d35-30b9-c85b-5dfdd20e484f/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/universalis/id284942719",
+   "id": "338137227",
+   "name": "Walmart: Shopping & Savings",
+   "seller": "Walmart",
+   "genre": "Shopping",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/76/c4/ec76c46d-25da-d4dc-19ce-9eac29afaf48/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/walmart-shopping-savings/id338137227",
    "duo": true,
    "duoShots": [
     "1398x2034",
-    "2007x2853",
     "2853x2007"
    ],
-   "latestRelease": "2026-10-30",
-   "checkedAt": "2026-11-18",
+   "latestRelease": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
-   "firstSeenDuo": "2026-11-18",
+   "firstSeenDuo": "2026-11-19",
    "sources": [
-    "chart-paid"
+    "chart-free"
    ]
   },
   {
@@ -1116,6 +1645,25 @@
    "firstSeenDuo": "2026-11-17",
    "sources": [
     "chart-paid"
+   ]
+  },
+  {
+   "id": "544007664",
+   "name": "YouTube",
+   "seller": "Google",
+   "genre": "Photo & Video",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/a1/10/21a1106c-f3f2-4a50-d2f9-0ceebbe626a3/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/youtube/id544007664",
+   "duo": true,
+   "duoShots": [
+    "1398x2034"
+   ],
+   "latestRelease": "2026-11-15",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": "2026-11-19",
+   "sources": [
+    "chart-free"
    ]
   },
   {
@@ -1139,6 +1687,26 @@
    ]
   },
   {
+   "id": "546505307",
+   "name": "Zoom Workplace",
+   "seller": "Zoom Communications, Inc.",
+   "genre": "Business",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/db/09/50db096f-a469-9adb-cefc-6b60f4b01c45/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/zoom-workplace/id546505307",
+   "duo": true,
+   "duoShots": [
+    "1398x2034",
+    "2853x2007"
+   ],
+   "latestRelease": "2026-11-01",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": true,
+   "firstSeenDuo": "2026-11-19",
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
    "id": "6793744610",
    "name": "2AM CAM",
    "seller": "Aiden Magarian",
@@ -1148,7 +1716,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-12",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -1165,7 +1733,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-17",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -1182,7 +1750,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-22",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -1190,20 +1758,37 @@
    ]
   },
   {
-   "id": "6470239695",
-   "name": "Ahoy! From Picardy",
-   "seller": "Daniel Jones",
-   "genre": "Entertainment",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/32/7e/3d/327e3dec-5a2d-3504-5ef3-4930b9db2ef8/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/ahoy-from-picardy/id6470239695",
+   "id": "436672029",
+   "name": "AliExpress - Shopping App",
+   "seller": "Alibaba",
+   "genre": "Shopping",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3d/43/04/3d43045f-2451-dbc8-5d9f-498daf064e9f/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/aliexpress-shopping-app/id436672029",
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-17",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
-    "chart-paid"
+    "chart-free"
+   ]
+  },
+  {
+   "id": "297606951",
+   "name": "Amazon Shopping",
+   "seller": "AMZN Mobile LLC",
+   "genre": "Shopping",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/c8/04/29c80472-dff1-0551-c96e-752895785684/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/amazon-shopping/id297606951",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-09",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
    ]
   },
   {
@@ -1216,7 +1801,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-16",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -1233,7 +1818,41 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-03",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-paid"
+   ]
+  },
+  {
+   "id": "6444631986",
+   "name": "AstroShader",
+   "seller": "AstroShader Limited",
+   "genre": "Photo & Video",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/40/74/a9407407-48b9-6a8c-a6f9-0347fa9fabfd/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/astroshader/id6444631986",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-14",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-paid"
+   ]
+  },
+  {
+   "id": "1661419573",
+   "name": "atvTools",
+   "seller": "Oleksandr Hamlii",
+   "genre": "Utilities",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/74/16/bf7416f3-1002-349b-245c-52c5db5da93a/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/atvtools/id1661419573",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-08-29",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -1250,7 +1869,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-03",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -1267,7 +1886,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-09-12",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -1284,7 +1903,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-09",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -1292,20 +1911,37 @@
    ]
   },
   {
-   "id": "379485721",
-   "name": "Blood Type Diet®",
-   "seller": "D'Adamo Personalized Nutrition®",
-   "genre": "Health & Fitness",
-   "icon": null,
-   "url": "https://apps.apple.com/us/app/blood-type-diet/id379485721",
+   "id": "314855255",
+   "name": "Best Buy: Tech Deals & Savings",
+   "seller": "Best Buy Co., Inc.",
+   "genre": "Shopping",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/f5/20/5ff520a2-aef6-47ee-4e4f-685a6be92545/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/best-buy-tech-deals-savings/id314855255",
    "duo": false,
    "duoShots": [],
-   "latestRelease": "2025-08-04",
-   "checkedAt": "2026-11-18",
+   "latestRelease": "2026-11-11",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
-    "chart-paid"
+    "chart-free"
+   ]
+  },
+  {
+   "id": "6448849666",
+   "name": "Bible Chat: Daily Devotional",
+   "seller": "Book Vitals Inc.",
+   "genre": "Reference",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fe/f3/b7/fef3b748-1120-7873-c1d1-3e0c32d47c52/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/bible-chat-daily-devotional/id6448849666",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-17",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": true,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
    ]
   },
   {
@@ -1318,7 +1954,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-08",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -1335,7 +1971,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-31",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": true,
    "firstSeenDuo": null,
    "sources": [
@@ -1343,20 +1979,54 @@
    ]
   },
   {
-   "id": "1048775759",
-   "name": "California Firearms Test",
-   "seller": "AlphaSquare Technologies Inc.",
-   "genre": "Education",
-   "icon": null,
-   "url": "https://apps.apple.com/us/app/california-firearms-test/id1048775759",
+   "id": "1500855883",
+   "name": "CapCut: Photo & Video Editor",
+   "seller": "Bytedance Pte. Ltd",
+   "genre": "Photo & Video",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/d1/01/97d1010e-11ba-a0b6-a66c-6f0595529ce3/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/capcut-photo-video-editor/id1500855883",
    "duo": false,
    "duoShots": [],
-   "latestRelease": "2020-04-29",
-   "checkedAt": "2026-11-18",
+   "latestRelease": "2026-11-17",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
-    "chart-paid"
+    "chart-free"
+   ]
+  },
+  {
+   "id": "407558537",
+   "name": "Capital One Mobile",
+   "seller": "Capital One",
+   "genre": "Finance",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/9a/8f/ea9a8f61-530d-dd7f-027e-d29320fb23bc/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/capital-one-mobile/id407558537",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-18",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "1089294040",
+   "name": "Capital One Shopping: Save Now",
+   "seller": "Wikibuy, LLC",
+   "genre": "Shopping",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c8/9a/6f/c89a6fea-5c96-39e0-3771-7cdb0c4abb8c/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/capital-one-shopping-save-now/id1089294040",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-18",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
    ]
   },
   {
@@ -1369,7 +2039,75 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2025-05-23",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-paid"
+   ]
+  },
+  {
+   "id": "488818252",
+   "name": "Chick-fil-A",
+   "seller": "Chick-fil-A, Inc.",
+   "genre": "Food & Drink",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/9f/43/7b9f43c5-a809-9995-0c75-17b77c888792/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/chick-fil-a/id488818252",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-05",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "836215269",
+   "name": "Chime® – Mobile Banking",
+   "seller": "Chime Financial, Inc.",
+   "genre": "Finance",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a0/20/e2/a020e222-41ca-c0ca-bbe5-9d58825cdf21/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/chime-mobile-banking/id836215269",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-10",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "6803276000",
+   "name": "Claude Duet by Anthropic",
+   "seller": "Anthropic PBC",
+   "genre": "Productivity",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/79/57/d8/7957d8d7-bd56-677d-9ccb-bb24f6b3372d/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/claude-duet-by-anthropic/id6803276000",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-18",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "1142095221",
+   "name": "Clock Yourself",
+   "seller": "Next Step Allied Health",
+   "genre": "Health & Fitness",
+   "icon": null,
+   "url": "https://apps.apple.com/us/app/clock-yourself/id1142095221",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2023-09-07",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -1386,7 +2124,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-09",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -1403,7 +2141,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-11",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -1420,7 +2158,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-05",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -1428,16 +2166,33 @@
    ]
   },
   {
-   "id": "448474423",
-   "name": "Couch to 5K® - Run training",
-   "seller": "Active Network, LLC",
-   "genre": "Health & Fitness",
-   "icon": null,
-   "url": "https://apps.apple.com/us/app/couch-to-5k-run-training/id448474423",
+   "id": "535509415",
+   "name": "Costco",
+   "seller": "Costco Wholesale Corporation",
+   "genre": "Shopping",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0b/03/cf/0b03cf68-bcca-2877-235c-b23f7b70ac9c/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/costco/id535509415",
    "duo": false,
    "duoShots": [],
-   "latestRelease": "2025-12-24",
-   "checkedAt": "2026-11-18",
+   "latestRelease": "2026-11-13",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "6748243845",
+   "name": "Cozmo Robot",
+   "seller": "Digital Dream Labs LLC",
+   "genre": "Entertainment",
+   "icon": null,
+   "url": "https://apps.apple.com/us/app/cozmo-robot/id6748243845",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2025-07-17",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -1445,20 +2200,105 @@
    ]
   },
   {
-   "id": "6752807769",
-   "name": "DJ Rehab Mashups & Remixes",
-   "seller": "Brian McCoy",
-   "genre": "Music",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/8b/f4/e48bf46b-54cb-6769-024e-ce2a13aea3f3/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/dj-rehab-mashups-remixes/id6752807769",
+   "id": "395545555",
+   "name": "CVS Health",
+   "seller": "CVS Pharmacy",
+   "genre": "Medical",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/55/a7/b9/55a7b986-be13-3f4f-32d7-a779a328b73b/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/cvs-health/id395545555",
    "duo": false,
    "duoShots": [],
-   "latestRelease": "2026-10-28",
-   "checkedAt": "2026-11-18",
+   "latestRelease": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
-    "chart-paid"
+    "chart-free"
+   ]
+  },
+  {
+   "id": "985746746",
+   "name": "Discord - Talk, Play, Hang Out",
+   "seller": "Discord Inc.",
+   "genre": "Social Networking",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/05/49/8a05499b-5193-6689-2ea6-d912d7d32f3a/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/discord-talk-play-hang-out/id985746746",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-16",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "1446075923",
+   "name": "Disney+",
+   "seller": "Disney",
+   "genre": "Entertainment",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/1d/87/991d873c-7c36-1158-af85-98f455a9d067/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/disney/id1446075923",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-18",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "719972451",
+   "name": "DoorDash: Food, Grocery, More",
+   "seller": "DoorDash, Inc.",
+   "genre": "Food & Drink",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/e3/d2/0ae3d26d-3c94-6745-8fc2-fbc3092e26d2/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/doordash-food-grocery-more/id719972451",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-16",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "1056813463",
+   "name": "Dunkin'",
+   "seller": "Dunkin' Donuts",
+   "genre": "Food & Drink",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/a9/17/52a917fc-01fb-e7f5-adbe-4f4ee10074ba/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/dunkin/id1056813463",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-12",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "570060128",
+   "name": "Duolingo: Learn Languages",
+   "seller": "Duolingo",
+   "genre": "Education",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/62/72/b0/6272b005-b603-cc0d-8036-f8c2a9ca1b72/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/duolingo-learn-languages/id570060128",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-18",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": true,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
    ]
   },
   {
@@ -1471,7 +2311,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2025-07-25",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -1488,11 +2328,28 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-30",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
     "chart-paid"
+   ]
+  },
+  {
+   "id": "6738967378",
+   "name": "Edits: Video Editor",
+   "seller": "Instagram, Inc.",
+   "genre": "Photo & Video",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/73/a0/f3/73a0f39a-82c3-68f7-26c8-4c5e720dfabb/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/edits-video-editor/id6738967378",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-16",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
    ]
   },
   {
@@ -1505,7 +2362,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2022-01-22",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -1522,11 +2379,28 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-17",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
     "chart-paid"
+   ]
+  },
+  {
+   "id": "284882215",
+   "name": "Facebook",
+   "seller": "Meta Platforms, Inc.",
+   "genre": "Social Networking",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a5/b9/9a/a5b99af1-66c9-9588-98b5-f265109f047f/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/facebook/id284882215",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-18",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
    ]
   },
   {
@@ -1539,7 +2413,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-07-21",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -1556,7 +2430,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-09",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -1573,11 +2447,45 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-05-09",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
     "chart-paid"
+   ]
+  },
+  {
+   "id": "1673567402",
+   "name": "Freecash - Get Paid Real Money",
+   "seller": "Freecash - Get Paid Real Money",
+   "genre": "Entertainment",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/28/e0/e128e07e-c4a0-ed93-2b21-e4289dfbc404/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/freecash-get-paid-real-money/id1673567402",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-17",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "422689480",
+   "name": "Gmail - Email by Google",
+   "seller": "Google",
+   "genre": "Productivity",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/54/c6/9a54c6f8-6e25-d3f5-cd3f-8355baa7beab/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/gmail-email-by-google/id422689480",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-16",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
    ]
   },
   {
@@ -1590,11 +2498,130 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-08-23",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
     "chart-paid"
+   ]
+  },
+  {
+   "id": "388497605",
+   "name": "Google Authenticator",
+   "seller": "Google",
+   "genre": "Utilities",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/e3/d6/68e3d640-0d9b-6589-f970-148abfa8eb56/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/google-authenticator/id388497605",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-16",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "535886823",
+   "name": "Google Chrome",
+   "seller": "Google",
+   "genre": "Utilities",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/88/55/0888553a-fde7-c283-1758-ca41525286b6/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/google-chrome/id535886823",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-12",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "842842640",
+   "name": "Google Docs",
+   "seller": "Google",
+   "genre": "Productivity",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/40/f5/ae40f56f-31f7-f30a-44f7-54bd01e31efa/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/google-docs/id842842640",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-16",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "507874739",
+   "name": "Google Drive",
+   "seller": "Google",
+   "genre": "Productivity",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/be/b6/e5/beb6e513-6dd3-6921-282d-3d8dbb30dad0/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/google-drive/id507874739",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-12",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "585027354",
+   "name": "Google Maps",
+   "seller": "Google",
+   "genre": "Navigation",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/bd/76/57bd7605-5bca-5910-8e1e-89078f55c8a8/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/google-maps/id585027354",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-13",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "842849113",
+   "name": "Google Sheets",
+   "seller": "Google",
+   "genre": "Productivity",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f8/82/4f/f8824f3b-b18a-099f-b0ff-91a3c9221ea1/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/google-sheets/id842849113",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-16",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "1605170923",
+   "name": "GoWish - Your Digital Wishlist",
+   "seller": "Onskeskyen ApS",
+   "genre": "Lifestyle",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/1d/f7/081df7d0-0074-0ded-09ed-3968e1f403dd/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/gowish-your-digital-wishlist/id1605170923",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-17",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
    ]
   },
   {
@@ -1607,7 +2634,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-05",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": true,
    "firstSeenDuo": null,
    "sources": [
@@ -1624,7 +2651,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-07-23",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -1641,7 +2668,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-01",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -1658,7 +2685,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-09-11",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -1675,7 +2702,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-10",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": true,
    "firstSeenDuo": null,
    "sources": [
@@ -1692,7 +2719,24 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-16",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-paid"
+   ]
+  },
+  {
+   "id": "1234266367",
+   "name": "iDrumTune Precision Drum Tuner",
+   "seller": "RT Sixty Ltd",
+   "genre": "Music",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/3e/fb/ff3efb5f-9bd3-ca71-14f9-09f8898edf73/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/idrumtune-precision-drum-tuner/id1234266367",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-19",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -1709,11 +2753,28 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-01-28",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
     "chart-paid"
+   ]
+  },
+  {
+   "id": "309735670",
+   "name": "Indeed Job Search",
+   "seller": "Indeed Inc.",
+   "genre": "Business",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cf/16/fb/cf16fb28-62c2-16df-9969-21152274ddf6/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/indeed-job-search/id309735670",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-16",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
    ]
   },
   {
@@ -1726,25 +2787,8 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-17",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": true,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-paid"
-   ]
-  },
-  {
-   "id": "1466120520",
-   "name": "iVerify Basic",
-   "seller": "iVerify",
-   "genre": "Utilities",
-   "icon": null,
-   "url": "https://apps.apple.com/us/app/iverify-basic/id1466120520",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2026-03-02",
-   "checkedAt": "2026-11-18",
-   "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
     "chart-paid"
@@ -1760,7 +2804,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-10",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -1777,11 +2821,62 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-09-11",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
     "chart-paid"
+   ]
+  },
+  {
+   "id": "1632713844",
+   "name": "Kalshi: Trade Sports & Events",
+   "seller": "KalshiEX LLC",
+   "genre": "Finance",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/be/af/95/beaf95af-e9ad-d6c5-96ed-2964782202c0/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/kalshi-trade-sports-events/id1632713844",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-18",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "6446202561",
+   "name": "KICK - Live Streaming",
+   "seller": "Kick Streaming",
+   "genre": "Photo & Video",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/36/2f/0d362f40-b831-4017-64ce-d98f9d8b84ae/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/kick-live-streaming/id6446202561",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-13",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "1115120118",
+   "name": "Klarna: Smarter everyday money",
+   "seller": "Klarna Bank AB",
+   "genre": "Finance",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/36/dc/cf36dc3f-9534-9e46-b10e-addace5a31b9/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/klarna-smarter-everyday-money/id1115120118",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-13",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
    ]
   },
   {
@@ -1794,7 +2889,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-26",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -1806,16 +2901,33 @@
    "name": "Koala Sampler • Beat Maker",
    "seller": "Mazbox Limited",
    "genre": "Music",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/51/e5/9451e5f2-9c09-e153-adc3-f0625ab74cf6/Placeholder.mill/96x96bb.png",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/31/d7/a931d7af-9a6a-d6fc-2676-9e9e0cbffc70/Placeholder.mill/96x96bb.png",
    "url": "https://apps.apple.com/us/app/koala-sampler-beat-maker/id1449584007",
    "duo": false,
    "duoShots": [],
-   "latestRelease": "2026-11-12",
-   "checkedAt": "2026-11-18",
+   "latestRelease": "2026-11-19",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
     "chart-paid"
+   ]
+  },
+  {
+   "id": "6472232952",
+   "name": "Koupon: Promo Codes & Deals",
+   "seller": "Koupon Inc.",
+   "genre": "Shopping",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/f7/61/87f76157-6909-2369-d5c1-6d9bd464f35d/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/koupon-promo-codes-deals/id6472232952",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-15",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
    ]
   },
   {
@@ -1828,11 +2940,28 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2019-04-08",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
     "chart-paid"
+   ]
+  },
+  {
+   "id": "288429040",
+   "name": "LinkedIn: Community & Network",
+   "seller": "LinkedIn Corporation",
+   "genre": "Business",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/79/d9/aa/79d9aa96-f02b-d8a0-4b6d-4dcfefe581de/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/linkedin-community-network/id288429040",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-18",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
    ]
   },
   {
@@ -1845,11 +2974,96 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-01-26",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
     "chart-paid"
+   ]
+  },
+  {
+   "id": "922103212",
+   "name": "McDonald's",
+   "seller": "McDonald's USA",
+   "genre": "Food & Drink",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/a3/ba/6ca3baee-8881-cb90-fab0-c32a746232c5/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/mcdonalds/id922103212",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-10-12",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "983156458",
+   "name": "Microsoft Authenticator",
+   "seller": "Microsoft Corporation",
+   "genre": "Productivity",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/f9/19/b8f9194d-dfda-88eb-190a-ec167292ddac/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/microsoft-authenticator/id983156458",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-11",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "951937596",
+   "name": "Microsoft Outlook",
+   "seller": "Microsoft Corporation",
+   "genre": "Productivity",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/3d/d9/ed3dd941-a27c-b4e5-e6b1-5307576f78b6/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/microsoft-outlook/id951937596",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-16",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "1113153706",
+   "name": "Microsoft Teams",
+   "seller": "Microsoft Corporation",
+   "genre": "Business",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/0e/b3/8a0eb3b1-3c71-dc5d-97fc-66cd34ce697f/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/microsoft-teams/id1113153706",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-18",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "586447913",
+   "name": "Microsoft Word",
+   "seller": "Microsoft Corporation",
+   "genre": "Productivity",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/67/6d/7c676dfb-ba41-33ce-8c21-af81e1550b40/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/microsoft-word/id586447913",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-16",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
    ]
   },
   {
@@ -1862,7 +3076,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-26",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": true,
    "firstSeenDuo": null,
    "sources": [
@@ -1870,16 +3084,33 @@
    ]
   },
   {
-   "id": "6748837351",
-   "name": "Moment Pro Camera II",
-   "seller": "Moment Inc.",
-   "genre": "Photo & Video",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/61/c5/f061c5be-ae4f-05bb-c396-06500e802ecc/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/moment-pro-camera-ii/id6748837351",
+   "id": "382952264",
+   "name": "MyChart",
+   "seller": "Epic",
+   "genre": "Medical",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/e2/ec/36e2ec1c-28aa-09b0-a923-27ba0220b954/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/mychart/id382952264",
    "duo": false,
    "duoShots": [],
-   "latestRelease": "2026-11-06",
-   "checkedAt": "2026-11-18",
+   "latestRelease": "2026-11-16",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "583922375",
+   "name": "myLightMeter PRO",
+   "seller": "David Quiles",
+   "genre": "Photo & Video",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/20/64/e72064e4-4b26-9641-faf1-5c7c756caf31/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/mylightmeter-pro/id583922375",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-13",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -1896,11 +3127,28 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2022-06-19",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
     "chart-paid"
+   ]
+  },
+  {
+   "id": "6447582581",
+   "name": "Netflix Game Controller",
+   "seller": "Netflix, Inc.",
+   "genre": "Entertainment",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/5b/22/0b5b22a5-4f03-0f4d-30a0-9edea51af1c2/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/netflix-game-controller/id6447582581",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-18",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
    ]
   },
   {
@@ -1913,7 +3161,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-06",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -1930,7 +3178,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-13",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": true,
    "firstSeenDuo": null,
    "sources": [
@@ -1947,11 +3195,79 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-08-11",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
     "chart-paid"
+   ]
+  },
+  {
+   "id": "1494523953",
+   "name": "OnePay – Mobile Banking",
+   "seller": "One Finance, Inc.",
+   "genre": "Finance",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/d2/28/4ad228bf-c8ce-3063-9ce9-cffe5c02c44c/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/onepay-mobile-banking/id1494523953",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-16",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "6833175434",
+   "name": "Open Chair Finder",
+   "seller": "Melissa Wolf",
+   "genre": "Lifestyle",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/53/b5/6153b556-83a1-849c-619e-cdb081e566da/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/open-chair-finder/id6833175434",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-13",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-paid"
+   ]
+  },
+  {
+   "id": "1662982304",
+   "name": "Partiful: Party Invite Maker",
+   "seller": "Partiful",
+   "genre": "Lifestyle",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/8a/d0/028ad0b6-3fef-b5d9-b013-0208fc0be816/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/partiful-party-invite-maker/id1662982304",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-17",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "283646709",
+   "name": "PayPal - Pay, Send, Save",
+   "seller": "PayPal, Inc.",
+   "genre": "Finance",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/72/d1/4172d134-f457-f0be-ca7e-1289d58c6e6e/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/paypal-pay-send-save/id283646709",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-16",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
    ]
   },
   {
@@ -1964,7 +3280,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-01-25",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -1981,7 +3297,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-03",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -1998,11 +3314,45 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-09-02",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
     "chart-paid"
+   ]
+  },
+  {
+   "id": "6754134922",
+   "name": "PineDrama - Short Dramas",
+   "seller": "TikTok Ltd.",
+   "genre": "Entertainment",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/b5/cf/6ab5cf59-58f8-66b2-2399-04971ad6a248/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/pinedrama-short-dramas/id6754134922",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-13",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "429047995",
+   "name": "Pinterest",
+   "seller": "Pinterest, Inc.",
+   "genre": "Lifestyle",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/74/78/b0/7478b08c-d0ba-bcd9-0009-941d432baa99/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/pinterest/id429047995",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-12",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
    ]
   },
   {
@@ -2015,11 +3365,45 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-27",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
     "chart-paid"
+   ]
+  },
+  {
+   "id": "1631584032",
+   "name": "PLAYFUL REWARDS: Earn Rewards",
+   "seller": "Playful Rewards",
+   "genre": "Entertainment",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/f9/88/fbf988bb-ec04-6985-62d0-3cea3c899158/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/playful-rewards-earn-rewards/id1631584032",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-05",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "410896080",
+   "name": "PlayStation App",
+   "seller": "PlayStation Mobile Inc.",
+   "genre": "Entertainment",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/1e/71/f51e7182-1f8e-c141-68d7-42851563f63e/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/playstation-app/id410896080",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-16",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
    ]
   },
   {
@@ -2032,11 +3416,28 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2015-08-20",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
     "chart-paid"
+   ]
+  },
+  {
+   "id": "6827901499",
+   "name": "PolyBuzz AI Character Chat",
+   "seller": "Evert Pfannenstiel",
+   "genre": "Graphics & Design",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/1e/9b/e01e9b40-639b-083e-2160-a7ee58df8da7/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/polybuzz-ai-character-chat/id6827901499",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-13",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
    ]
   },
   {
@@ -2049,41 +3450,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-21",
-   "checkedAt": "2026-11-18",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-paid"
-   ]
-  },
-  {
-   "id": "1135991142",
-   "name": "Prepware Remote Pilot UAS",
-   "seller": "ASA",
-   "genre": "Education",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/cd/05/cccd05f9-7a00-4089-302e-3e61339ef827/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/prepware-remote-pilot-uas/id1135991142",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2026-10-21",
-   "checkedAt": "2026-11-18",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-paid"
-   ]
-  },
-  {
-   "id": "6448106860",
-   "name": "Private LLM - Local AI Chat",
-   "seller": "Numen Technologies Limited",
-   "genre": "Utilities",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1e/39/02/1e3902c8-a381-1a5a-bc0e-156c49d628ad/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/private-llm-local-ai-chat/id6448106860",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2026-10-28",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2100,7 +3467,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-29",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2117,7 +3484,24 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-24",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-paid"
+   ]
+  },
+  {
+   "id": "1543684531",
+   "name": "QZ Fitness",
+   "seller": "Roberto Viola",
+   "genre": "Sports",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/91/fa/d291fadb-9915-79cb-d8a8-b296e0faf2e5/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/qz-fitness/id1543684531",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-09-02",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2134,7 +3518,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-05",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2142,20 +3526,88 @@
    ]
   },
   {
-   "id": "679454835",
-   "name": "Rarevision VHS: Retro Cam",
-   "seller": "Rarevision",
-   "genre": "Photo & Video",
-   "icon": null,
-   "url": "https://apps.apple.com/us/app/rarevision-vhs-retro-cam/id679454835",
+   "id": "6742024490",
+   "name": "Reco Social",
+   "seller": "Reco Social, Inc.",
+   "genre": "Social Networking",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/09/d4/5509d4b1-e6b3-9f34-2662-d5940f8cb925/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/reco-social/id6742024490",
    "duo": false,
    "duoShots": [],
-   "latestRelease": "2025-11-07",
-   "checkedAt": "2026-11-18",
+   "latestRelease": "2026-11-11",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
-    "chart-paid"
+    "chart-free"
+   ]
+  },
+  {
+   "id": "1064216828",
+   "name": "Reddit",
+   "seller": "REDDIT, INC.",
+   "genre": "News",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/ea/54/3eea544b-a41c-e944-eea2-9528441702e1/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/reddit/id1064216828",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-16",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "1636235979",
+   "name": "ReelShort - Stream Drama & TV",
+   "seller": "NewLeaf Publishing",
+   "genre": "Entertainment",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/f7/8e/18f78e71-4dca-6de5-19c7-36e003fbc24e/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/reelshort-stream-drama-tv/id1636235979",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-09-28",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "6751921248",
+   "name": "Rips by Triumph",
+   "seller": "Triumph Arcade",
+   "genre": "Shopping",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/24/19/4b24193a-85c1-ef4d-3459-e3f7bbd6997e/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/rips-by-triumph/id6751921248",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-12",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "482066631",
+   "name": "Roku Remote (Official)",
+   "seller": "ROKU INC",
+   "genre": "Entertainment",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/97/91/e49791c5-e4da-8b2a-5a90-7b3d6578ae94/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/roku-remote-official/id482066631",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-04",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
    ]
   },
   {
@@ -2168,7 +3620,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-14",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2185,7 +3637,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-17",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2202,7 +3654,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2023-09-29",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2219,7 +3671,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-29",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2236,7 +3688,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-06",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2253,11 +3705,45 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2025-05-02",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
     "chart-paid"
+   ]
+  },
+  {
+   "id": "1222822904",
+   "name": "SmartThings",
+   "seller": "Samsung Electronics Co., Ltd.",
+   "genre": "Lifestyle",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/02/ae/6d02aefb-bb20-dc97-7b9a-6160bfa3ca6d/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/smartthings/id1222822904",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-10-14",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "447188370",
+   "name": "Snapchat",
+   "seller": "Snap, Inc.",
+   "genre": "Photo & Video",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5a/f5/2c/5af52c3d-4126-a0d1-ca89-72bfa3bc5fef/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/snapchat/id447188370",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-12",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
    ]
   },
   {
@@ -2270,7 +3756,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-07",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2287,7 +3773,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-31",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2295,20 +3781,20 @@
    ]
   },
   {
-   "id": "371817955",
-   "name": "Sporty's E6B Flight Computer",
-   "seller": "Sporty's Pilot Shop",
-   "genre": "Navigation",
-   "icon": null,
-   "url": "https://apps.apple.com/us/app/sportys-e6b-flight-computer/id371817955",
+   "id": "324684580",
+   "name": "Spotify: Music and Podcasts",
+   "seller": "Spotify",
+   "genre": "Music",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/b9/80/86b9802a-d6b6-ca6d-67ff-c6cda841ad1a/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580",
    "duo": false,
    "duoShots": [],
-   "latestRelease": "2024-02-17",
-   "checkedAt": "2026-11-18",
+   "latestRelease": "2026-11-13",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
-    "chart-paid"
+    "chart-free"
    ]
   },
   {
@@ -2321,7 +3807,24 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2024-09-25",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-paid"
+   ]
+  },
+  {
+   "id": "1564403188",
+   "name": "StbEmuTV (Pro)",
+   "seller": "Junaid Muhammad",
+   "genre": "Entertainment",
+   "icon": null,
+   "url": "https://apps.apple.com/us/app/stbemutv-pro/id1564403188",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2022-09-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2338,7 +3841,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-12",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2355,7 +3858,41 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2025-06-15",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-paid"
+   ]
+  },
+  {
+   "id": "1111876388",
+   "name": "T-Life",
+   "seller": "T-Mobile",
+   "genre": "Lifestyle",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/07/59/aa/0759aac4-1f61-1691-aa1b-8d88425c451d/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/t-life/id1111876388",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-07",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "6738342400",
+   "name": "Tampermonkey",
+   "seller": "Jan Biniok",
+   "genre": "Productivity",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/1f/23/971f2354-a18c-5ea9-5538-f495bee85f1d/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/tampermonkey/id6738342400",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-10-09",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2372,7 +3909,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-09",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2389,7 +3926,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-04-17",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2406,7 +3943,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-04-28",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2423,7 +3960,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-06",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2440,11 +3977,62 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-17",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": true,
    "firstSeenDuo": null,
    "sources": [
     "chart-paid"
+   ]
+  },
+  {
+   "id": "500003565",
+   "name": "Ticketmaster－Buy, Sell Tickets",
+   "seller": "Ticketmaster",
+   "genre": "Entertainment",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/d4/be/a5d4be40-da31-93c2-9c7e-0d5034b87941/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/ticketmaster-buy-sell-tickets/id500003565",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-10-27",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "835599320",
+   "name": "TikTok - Videos, Shop & LIVE",
+   "seller": "TikTok Ltd.",
+   "genre": "Entertainment",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/c9/b5/8cc9b57d-f4f4-24eb-3a48-74dc3143812d/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/tiktok-videos-shop-live/id835599320",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-17",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "6741796873",
+   "name": "TikTok Pro - Events",
+   "seller": "TikTok Ltd.",
+   "genre": "Entertainment",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/75/c1/5375c118-61ef-8dd2-83ed-fceea326043c/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/tiktok-pro-events/id6741796873",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-18",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
    ]
   },
   {
@@ -2457,11 +4045,62 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-08-29",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
     "chart-paid"
+   ]
+  },
+  {
+   "id": "460177396",
+   "name": "Twitch: Live Streaming",
+   "seller": "Twitch Interactive, Inc.",
+   "genre": "Photo & Video",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/ce/ec/04ceec6c-adcf-ff1b-8eb8-90257349c047/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/twitch-live-streaming/id460177396",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-16",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "368677368",
+   "name": "Uber - Rides, Eats, Hotels",
+   "seller": "Uber Technologies, Inc.",
+   "genre": "Travel",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e8/40/48/e8404821-d0cc-afc6-725b-cbe4c226b06a/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/uber-rides-eats-hotels/id368677368",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-16",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "1058959277",
+   "name": "Uber Eats: Food & Groceries",
+   "seller": "Uber Technologies, Inc.",
+   "genre": "Food & Drink",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/3d/88/e83d88f5-fee6-969d-36be-0d8730719c41/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/uber-eats-food-groceries/id1058959277",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-16",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
    ]
   },
   {
@@ -2474,7 +4113,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-06-19",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2491,7 +4130,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-13",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2499,20 +4138,122 @@
    ]
   },
   {
-   "id": "6759160117",
-   "name": "What Plane?",
-   "seller": "David Wilkinson",
-   "genre": "Utilities",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f3/cb/e5/f3cbe544-fbee-801d-bbf9-a297c311d530/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/what-plane/id6759160117",
+   "id": "791467318",
+   "name": "Vargo Anesthesia Mega App",
+   "seller": "Vargo Anesthesia Inc",
+   "genre": "Medical",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/a4/70/e3a47051-692c-2e35-70f0-8db8d5ea0d57/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/vargo-anesthesia-mega-app/id791467318",
    "duo": false,
    "duoShots": [],
-   "latestRelease": "2026-11-11",
-   "checkedAt": "2026-11-18",
+   "latestRelease": "2026-11-14",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
     "chart-paid"
+   ]
+  },
+  {
+   "id": "351727428",
+   "name": "Venmo",
+   "seller": "Venmo",
+   "genre": "Finance",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/c9/e8/4dc9e827-c000-b1fa-147b-47a79e7707b5/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/venmo/id351727428",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-12",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "632064380",
+   "name": "Vinted: Pre-loved marketplace",
+   "seller": "Vinted Limited",
+   "genre": "Shopping",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/63/e1/9363e155-2275-f821-75ad-9cf74f588fc8/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/vinted-pre-loved-marketplace/id632064380",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-16",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "1054033219",
+   "name": "VIZIO Remote (Official)",
+   "seller": "VIZIO",
+   "genre": "Entertainment",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/9f/ec/5c9fec0e-4629-918f-70bc-3518257ec85f/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/vizio-remote-official/id1054033219",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-10-23",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "1370293473",
+   "name": "VPN - Super Unlimited Proxy",
+   "seller": "Mobile Jump Pte Ltd",
+   "genre": "Productivity",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d2/d4/6a/d2d46a1f-4f7a-dbf3-be50-0147cf67e4b9/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/vpn-super-unlimited-proxy/id1370293473",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-17",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": true,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "1488269261",
+   "name": "Whatnot: Shop, Sell, Connect",
+   "seller": "Whatnot Inc.",
+   "genre": "Shopping",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/98/6c/7a986c5e-c581-b232-cbf3-922a487b99bc/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/whatnot-shop-sell-connect/id1488269261",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-17",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "310633997",
+   "name": "WhatsApp",
+   "seller": "WhatsApp Inc.",
+   "genre": "Social Networking",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b1/34/08/b1340868-af8b-86b9-5192-9ace445bf893/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/whatsapp/id310633997",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-15",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
    ]
   },
   {
@@ -2525,7 +4266,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-12",
-   "checkedAt": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2537,16 +4278,50 @@
    "name": "White Noise",
    "seller": "TMSOFT",
    "genre": "Health & Fitness",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/74/b4/bf74b4ef-4686-9012-f4af-157dcf4e7285/Placeholder.mill/96x96bb.png",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/88/ea/1088ea4a-b174-5312-1e17-766a127d76c5/Placeholder.mill/96x96bb.png",
    "url": "https://apps.apple.com/us/app/white-noise/id289894882",
    "duo": false,
    "duoShots": [],
-   "latestRelease": "2026-11-17",
-   "checkedAt": "2026-11-18",
+   "latestRelease": "2026-11-18",
+   "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
     "chart-paid"
+   ]
+  },
+  {
+   "id": "1241909999",
+   "name": "WorkOutDoors",
+   "seller": "CCS Ltd",
+   "genre": "Health & Fitness",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/b2/52/47b25268-714b-fb3b-669a-9b46762f5dcb/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/workoutdoors/id1241909999",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-06-26",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-paid"
+   ]
+  },
+  {
+   "id": "333903271",
+   "name": "X",
+   "seller": "X Corp.",
+   "genre": "News",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/37/85/7037852b-1a98-d75c-7a62-bca80a2d4558/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/x/id333903271",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-18",
+   "checkedAt": "2026-11-19",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
    ]
   }
  ]
