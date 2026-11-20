@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T20:37:01Z",
+ "generatedAt": "2026-11-20T07:21:18Z",
  "totals": {
   "tracked": 241,
   "duoReady": 84,
@@ -7,18 +7,26 @@
  },
  "newToday": [
   {
-   "id": "6814210373",
-   "name": "Auday - All-Day Watch Recorder"
+   "id": "282614216",
+   "name": "eBay online shopping & selling"
   },
   {
-   "id": "6816657062",
-   "name": "Go Narrow: Study Antibiotics"
+   "id": "1202650514",
+   "name": "HealthFit"
   },
   {
-   "id": "962194608",
-   "name": "Google Photos: Backup & Edit"
+   "id": "529379082",
+   "name": "Lyft"
+  },
+  {
+   "id": "6828347986",
+   "name": "Ripple Player"
+  },
+  {
+   "id": "1581052096",
+   "name": "stitch."
   }
  ],
  "errors": 0,
- "skippedKnownDuo": 81
+ "skippedKnownDuo": 77
 }
