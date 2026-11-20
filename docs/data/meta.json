@@ -1,32 +1,32 @@
 {
- "generatedAt": "2026-11-20T07:21:18Z",
+ "generatedAt": "2026-11-20T20:19:47Z",
  "totals": {
-  "tracked": 241,
-  "duoReady": 84,
-  "checked": 241
+  "tracked": 240,
+  "duoReady": 88,
+  "checked": 239
  },
  "newToday": [
   {
-   "id": "282614216",
-   "name": "eBay online shopping & selling"
+   "id": "754105884",
+   "name": "NightCap Camera: Long Exposure"
   },
   {
-   "id": "1202650514",
-   "name": "HealthFit"
+   "id": "1443988620",
+   "name": "Quantumult X"
   },
   {
-   "id": "529379082",
-   "name": "Lyft"
+   "id": "6821710782",
+   "name": "Satisfy: ASMR Fidget Toys"
   },
   {
-   "id": "6828347986",
-   "name": "Ripple Player"
+   "id": "6480136315",
+   "name": "Suno - AI Songs, Music, Lyrics"
   },
   {
-   "id": "1581052096",
-   "name": "stitch."
+   "id": "284942719",
+   "name": "Universalis"
   }
  ],
- "errors": 0,
- "skippedKnownDuo": 77
+ "errors": 1,
+ "skippedKnownDuo": 83
 }
