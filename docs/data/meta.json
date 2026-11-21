@@ -1,32 +1,48 @@
 {
- "generatedAt": "2026-11-21T07:09:14Z",
+ "generatedAt": "2026-11-21T19:15:55Z",
  "totals": {
   "tracked": 241,
-  "duoReady": 87,
+  "duoReady": 88,
   "checked": 241
  },
  "newToday": [
   {
-   "id": "6760536822",
-   "name": "Health100"
+   "id": "401626263",
+   "name": "Airbnb"
   },
   {
-   "id": "6807560962",
-   "name": "IdleLines - Trace & Relax"
+   "id": "282614216",
+   "name": "eBay online shopping & selling"
   },
   {
-   "id": "975770717",
-   "name": "My Earthquake Alerts Pro"
+   "id": "363738376",
+   "name": "forScore"
   },
   {
-   "id": "530168168",
-   "name": "Paramount+"
+   "id": "6443996847",
+   "name": "Frame Crop – Art Mode"
   },
   {
-   "id": "497387361",
-   "name": "Taco Bell Fast Food & Delivery"
+   "id": "6823045499",
+   "name": "IvyPod"
+  },
+  {
+   "id": "6759029184",
+   "name": "Mono Lab"
+  },
+  {
+   "id": "878577184",
+   "name": "SHEIN - Shopping Online"
+  },
+  {
+   "id": "357404131",
+   "name": "Slow Shutter Cam"
+  },
+  {
+   "id": "6817187484",
+   "name": "Untraced: Find the Suspect"
   }
  ],
  "errors": 0,
- "skippedKnownDuo": 81
+ "skippedKnownDuo": 79
 }
