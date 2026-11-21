@@ -1,32 +1,32 @@
 {
- "generatedAt": "2026-11-20T20:19:47Z",
+ "generatedAt": "2026-11-21T07:09:14Z",
  "totals": {
-  "tracked": 240,
-  "duoReady": 88,
-  "checked": 239
+  "tracked": 241,
+  "duoReady": 87,
+  "checked": 241
  },
  "newToday": [
   {
-   "id": "754105884",
-   "name": "NightCap Camera: Long Exposure"
+   "id": "6760536822",
+   "name": "Health100"
   },
   {
-   "id": "1443988620",
-   "name": "Quantumult X"
+   "id": "6807560962",
+   "name": "IdleLines - Trace & Relax"
   },
   {
-   "id": "6821710782",
-   "name": "Satisfy: ASMR Fidget Toys"
+   "id": "975770717",
+   "name": "My Earthquake Alerts Pro"
   },
   {
-   "id": "6480136315",
-   "name": "Suno - AI Songs, Music, Lyrics"
+   "id": "530168168",
+   "name": "Paramount+"
   },
   {
-   "id": "284942719",
-   "name": "Universalis"
+   "id": "497387361",
+   "name": "Taco Bell Fast Food & Delivery"
   }
  ],
- "errors": 1,
- "skippedKnownDuo": 83
+ "errors": 0,
+ "skippedKnownDuo": 81
 }
