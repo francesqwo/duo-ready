@@ -1,28 +1,36 @@
 {
- "generatedAt": "2026-11-22T06:54:56Z",
+ "generatedAt": "2026-11-22T19:39:03Z",
  "totals": {
   "tracked": 241,
-  "duoReady": 87,
-  "checked": 240
+  "duoReady": 88,
+  "checked": 241
  },
  "newToday": [
   {
-   "id": "436491861",
-   "name": "Domino's Pizza USA"
+   "id": "6825181273",
+   "name": "AltoPaint: Oil & Watercolor"
   },
   {
-   "id": "962194608",
-   "name": "Google Photos: Backup & Edit"
+   "id": "6827445474",
+   "name": "FoldTick: Duo Fold Counter"
   },
   {
-   "id": "949490225",
-   "name": "Print to Size"
+   "id": "1202650514",
+   "name": "HealthFit"
   },
   {
-   "id": "497387361",
-   "name": "Taco Bell Fast Food & Delivery"
+   "id": "457954781",
+   "name": "Lowe's Home Improvement"
+  },
+  {
+   "id": "6759029184",
+   "name": "Mono Lab"
+  },
+  {
+   "id": "886445756",
+   "name": "Tubi: Movies & Live TV"
   }
  ],
- "errors": 1,
- "skippedKnownDuo": 83
+ "errors": 0,
+ "skippedKnownDuo": 82
 }
