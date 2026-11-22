@@ -1,31 +1,11 @@
 {
- "generatedAt": "2026-11-21T19:15:55Z",
+ "generatedAt": "2026-11-22T06:54:56Z",
  "totals": {
   "tracked": 241,
-  "duoReady": 88,
-  "checked": 241
+  "duoReady": 87,
+  "checked": 240
  },
  "apps": [
-  {
-   "id": "401626263",
-   "name": "Airbnb",
-   "seller": "Airbnb, Inc.",
-   "genre": "Travel",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/75/b5/1d75b560-8b6b-56ce-7dec-85b8520dc5ee/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/airbnb/id401626263",
-   "duo": true,
-   "duoShots": [
-    "1398x2034",
-    "2007x2853"
-   ],
-   "latestRelease": "2026-11-19",
-   "checkedAt": "2026-11-21",
-   "notesMentionDuo": false,
-   "firstSeenDuo": "2026-11-21",
-   "sources": [
-    "chart-free"
-   ]
-  },
   {
    "id": "545519333",
    "name": "Amazon Prime Video",
@@ -255,6 +235,25 @@
    "checkedAt": "2026-11-19",
    "notesMentionDuo": false,
    "firstSeenDuo": "2026-11-19",
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "436491861",
+   "name": "Domino's Pizza USA",
+   "seller": "Domino's Pizza LLC",
+   "genre": "Food & Drink",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/47/32/fc4732af-0820-bc0a-363d-f0f841325316/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/dominos-pizza-usa/id436491861",
+   "duo": true,
+   "duoShots": [
+    "1398x2034"
+   ],
+   "latestRelease": "2026-11-16",
+   "checkedAt": "2026-11-22",
+   "notesMentionDuo": false,
+   "firstSeenDuo": "2026-11-22",
    "sources": [
     "chart-free"
    ]
@@ -516,6 +515,26 @@
    ]
   },
   {
+   "id": "962194608",
+   "name": "Google Photos: Backup & Edit",
+   "seller": "Google",
+   "genre": "Photo & Video",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/3e/49/e53e497d-a01d-463f-845b-f32cd4d18686/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/google-photos-backup-edit/id962194608",
+   "duo": true,
+   "duoShots": [
+    "1398x2034",
+    "2007x2853"
+   ],
+   "latestRelease": "2026-11-19",
+   "checkedAt": "2026-11-22",
+   "notesMentionDuo": false,
+   "firstSeenDuo": "2026-11-22",
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
    "id": "1623318294",
    "name": "Gossip Harbor®: Merge & Story",
    "seller": "Microfun Limited",
@@ -591,26 +610,6 @@
    "firstSeenDuo": "2026-11-21",
    "sources": [
     "chart-free"
-   ]
-  },
-  {
-   "id": "339407922",
-   "name": "iBend Pipe",
-   "seller": "Francisco Alcala",
-   "genre": "Productivity",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/4b/e2/504be26e-6550-724f-78af-3a8580fc8a57/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/ibend-pipe/id339407922",
-   "duo": true,
-   "duoShots": [
-    "2007x2853",
-    "2853x2007"
-   ],
-   "latestRelease": "2026-11-15",
-   "checkedAt": "2026-11-18",
-   "notesMentionDuo": false,
-   "firstSeenDuo": "2026-11-18",
-   "sources": [
-    "chart-paid"
    ]
   },
   {
@@ -825,25 +824,6 @@
    ]
   },
   {
-   "id": "6759029184",
-   "name": "Mono Lab",
-   "seller": "Inner Circle",
-   "genre": "Graphics & Design",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/b1/3f/68b13fac-1bc5-3f8e-002b-49630094af10/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/mono-lab/id6759029184",
-   "duo": true,
-   "duoShots": [
-    "1398x2034"
-   ],
-   "latestRelease": "2026-11-16",
-   "checkedAt": "2026-11-21",
-   "notesMentionDuo": false,
-   "firstSeenDuo": "2026-11-21",
-   "sources": [
-    "chart-paid"
-   ]
-  },
-  {
    "id": "6760173601",
    "name": "Muse from Meta",
    "seller": "Meta Platforms, Inc.",
@@ -861,25 +841,6 @@
    "firstSeenDuo": "2026-11-19",
    "sources": [
     "chart-free"
-   ]
-  },
-  {
-   "id": "975770717",
-   "name": "My Earthquake Alerts Pro",
-   "seller": "JRustonApps B.V.",
-   "genre": "Weather",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/45/3c/fa453c5a-c6fd-2b46-78ee-b615ac2f1f85/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/my-earthquake-alerts-pro/id975770717",
-   "duo": true,
-   "duoShots": [
-    "2853x2007"
-   ],
-   "latestRelease": "2026-11-08",
-   "checkedAt": "2026-11-21",
-   "notesMentionDuo": false,
-   "firstSeenDuo": "2026-11-21",
-   "sources": [
-    "chart-paid"
    ]
   },
   {
@@ -1112,6 +1073,25 @@
    "firstSeenDuo": "2026-11-12",
    "sources": [
     "featured"
+   ]
+  },
+  {
+   "id": "949490225",
+   "name": "Print to Size",
+   "seller": "Clafou Ltd",
+   "genre": "Photo & Video",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ca/ab/4b/caab4b53-36b4-59af-f78c-948b757200ed/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/print-to-size/id949490225",
+   "duo": true,
+   "duoShots": [
+    "1398x2034"
+   ],
+   "latestRelease": "2026-11-15",
+   "checkedAt": "2026-11-22",
+   "notesMentionDuo": false,
+   "firstSeenDuo": "2026-11-22",
+   "sources": [
+    "chart-paid"
    ]
   },
   {
@@ -1384,22 +1364,20 @@
    ]
   },
   {
-   "id": "6480136315",
-   "name": "Suno - AI Songs, Music, Lyrics",
-   "seller": "Suno, Inc.",
-   "genre": "Music",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/3a/8f/7c3a8f82-35eb-1127-b3b6-c54d733b5f72/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/suno-ai-songs-music-lyrics/id6480136315",
+   "id": "497387361",
+   "name": "Taco Bell Fast Food & Delivery",
+   "seller": "Taco Bell",
+   "genre": "Food & Drink",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/60/79/6a6079f3-0ab4-7dad-b9c1-38dea072b02e/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/taco-bell-fast-food-delivery/id497387361",
    "duo": true,
    "duoShots": [
-    "1398x2034",
-    "2007x2853",
     "2853x2007"
    ],
-   "latestRelease": "2026-11-18",
-   "checkedAt": "2026-11-20",
+   "latestRelease": "2026-11-11",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
-   "firstSeenDuo": "2026-11-20",
+   "firstSeenDuo": "2026-11-22",
    "sources": [
     "chart-free"
    ]
@@ -1730,7 +1708,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-12",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -1747,7 +1725,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-28",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -1764,28 +1742,11 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-22",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
     "chart-paid"
-   ]
-  },
-  {
-   "id": "967040652",
-   "name": "Affirm: Buy now, pay over time",
-   "seller": "Affirm, Inc.",
-   "genre": "Shopping",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/f1/86/6ef18637-6091-3f3e-b819-b3d0f4341891/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/affirm-buy-now-pay-over-time/id967040652",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2026-11-09",
-   "checkedAt": "2026-11-21",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-free"
    ]
   },
   {
@@ -1798,7 +1759,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-17",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -1815,7 +1776,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-09",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -1832,24 +1793,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-16",
-   "checkedAt": "2026-11-21",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-paid"
-   ]
-  },
-  {
-   "id": "1498550832",
-   "name": "ASCCP Management Guidelines",
-   "seller": "American Society for Colposcopy and Cervical Pathology Inc",
-   "genre": "Medical",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e2/da/7c/e2da7c71-edda-8aae-70c2-ec4e96b95128/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/asccp-management-guidelines/id1498550832",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2026-11-03",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -1866,7 +1810,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-08-29",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -1883,7 +1827,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-03",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -1900,7 +1844,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-09-12",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -1908,17 +1852,34 @@
    ]
   },
   {
+   "id": "1256027729",
+   "name": "Bath & Body Works | B&BW",
+   "seller": "Bath & Body Works Brand Management, Inc.",
+   "genre": "Shopping",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/12/7d/1e/127d1ef8-df94-b1c4-4fd5-0416168fa899/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/bath-body-works-b-bw/id1256027729",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-10-29",
+   "checkedAt": "2026-11-22",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
    "id": "6829520007",
    "name": "Berry eReader",
    "seller": "Geoform LLC",
    "genre": "Books",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/39/ed/c039edd2-a236-34b6-bef6-a32750b596d9/Placeholder.mill/96x96bb.png",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/7a/e7/587ae763-c12c-3651-087e-b71b328c755d/Placeholder.mill/96x96bb.png",
    "url": "https://apps.apple.com/us/app/berry-ereader/id6829520007",
    "duo": false,
    "duoShots": [],
-   "latestRelease": "2026-11-20",
-   "checkedAt": "2026-11-21",
-   "notesMentionDuo": true,
+   "latestRelease": "2026-11-21",
+   "checkedAt": "2026-11-22",
+   "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
     "chart-paid"
@@ -1934,7 +1895,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-09",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -1951,7 +1912,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-11",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -1968,28 +1929,11 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-19",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": true,
    "firstSeenDuo": null,
    "sources": [
     "chart-free"
-   ]
-  },
-  {
-   "id": "498732510",
-   "name": "Blitzer.de PRO",
-   "seller": "Eifrig Media",
-   "genre": "Navigation",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/73/71/74/737174e3-54e8-abd8-e937-e4ed05491013/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/blitzer-de-pro/id498732510",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2026-09-08",
-   "checkedAt": "2026-11-21",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-paid"
    ]
   },
   {
@@ -2002,7 +1946,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-08",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2019,7 +1963,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-31",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": true,
    "firstSeenDuo": null,
    "sources": [
@@ -2036,7 +1980,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-24",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2053,7 +1997,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-17",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2070,7 +2014,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-18",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2087,7 +2031,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-18",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2104,7 +2048,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2025-08-09",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2121,7 +2065,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-19",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2138,7 +2082,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-16",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2155,7 +2099,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-23",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": true,
    "firstSeenDuo": null,
    "sources": [
@@ -2172,7 +2116,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-09",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2189,7 +2133,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-05",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2206,7 +2150,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-13",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2223,7 +2167,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2025-07-17",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2240,7 +2184,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-21",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2257,7 +2201,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-16",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2274,7 +2218,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-19",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2291,7 +2235,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-20",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2308,7 +2252,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-16",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2325,7 +2269,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-18",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": true,
    "firstSeenDuo": null,
    "sources": [
@@ -2342,7 +2286,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2025-07-25",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2359,7 +2303,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-21",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2376,7 +2320,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2024-09-16",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2393,7 +2337,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-30",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2410,28 +2354,11 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-16",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
     "chart-free"
-   ]
-  },
-  {
-   "id": "596684220",
-   "name": "Essential Anatomy 5",
-   "seller": "3D4Medical from Elsevier",
-   "genre": "Medical",
-   "icon": null,
-   "url": "https://apps.apple.com/us/app/essential-anatomy-5/id596684220",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2022-01-22",
-   "checkedAt": "2026-11-21",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-paid"
    ]
   },
   {
@@ -2444,7 +2371,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-21",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2461,7 +2388,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-20",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2478,7 +2405,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-09",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2495,7 +2422,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-05-09",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2512,7 +2439,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-20",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2529,11 +2456,28 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-11",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
     "chart-free"
+   ]
+  },
+  {
+   "id": "1360656789",
+   "name": "Ghost Science M3",
+   "seller": "Michael Weber",
+   "genre": "Entertainment",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/76/14/3b761476-0a09-51f5-72dc-19bbe283d493/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/ghost-science-m3/id1360656789",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-05-28",
+   "checkedAt": "2026-11-22",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-paid"
    ]
   },
   {
@@ -2546,7 +2490,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-16",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2563,7 +2507,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-08-23",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2580,24 +2524,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-12",
-   "checkedAt": "2026-11-21",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-free"
-   ]
-  },
-  {
-   "id": "842842640",
-   "name": "Google Docs",
-   "seller": "Google",
-   "genre": "Productivity",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bb/8e/a6/bb8ea682-bfbd-20fa-acdd-0c2931fb612b/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/google-docs/id842842640",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2026-11-19",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2614,7 +2541,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-12",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2631,7 +2558,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-20",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2648,7 +2575,24 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-19",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "1395696823",
+   "name": "Govee Home",
+   "seller": "Shenzhen Intellirocks Tech Co. Ltd.",
+   "genre": "Utilities",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3f/12/6f/3f126f9e-459e-fb25-b166-010df0b38187/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/govee-home/id1395696823",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-11",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2665,7 +2609,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-20",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2682,7 +2626,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-04",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2699,7 +2643,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-20",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": true,
    "firstSeenDuo": null,
    "sources": [
@@ -2716,7 +2660,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-07-23",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2733,7 +2677,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-01",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2750,7 +2694,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-09-11",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2767,7 +2711,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-10",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": true,
    "firstSeenDuo": null,
    "sources": [
@@ -2784,7 +2728,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-16",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2801,7 +2745,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-19",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2818,7 +2762,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-01-28",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2835,7 +2779,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-16",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2852,7 +2796,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-17",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": true,
    "firstSeenDuo": null,
    "sources": [
@@ -2869,24 +2813,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-10",
-   "checkedAt": "2026-11-21",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-paid"
-   ]
-  },
-  {
-   "id": "1033342465",
-   "name": "Just Press Record",
-   "seller": "Open Planet Software",
-   "genre": "Utilities",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/43/b6/e343b671-5dda-730c-df39-ec7902a7d576/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/just-press-record/id1033342465",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2026-09-11",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2903,7 +2830,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-19",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2915,12 +2842,12 @@
    "name": "Koala Sampler • Beat Maker",
    "seller": "Mazbox Limited",
    "genre": "Music",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/31/d7/a931d7af-9a6a-d6fc-2676-9e9e0cbffc70/Placeholder.mill/96x96bb.png",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/69/dd/c3/69ddc339-351c-fdb6-646e-bc64a2b5d5af/Placeholder.mill/96x96bb.png",
    "url": "https://apps.apple.com/us/app/koala-sampler-beat-maker/id1449584007",
    "duo": false,
    "duoShots": [],
-   "latestRelease": "2026-11-19",
-   "checkedAt": "2026-11-21",
+   "latestRelease": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -2937,28 +2864,11 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-21",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
     "chart-free"
-   ]
-  },
-  {
-   "id": "525299323",
-   "name": "Land Nav Assistant",
-   "seller": "Gammon Applications, LLC",
-   "genre": "Navigation",
-   "icon": null,
-   "url": "https://apps.apple.com/us/app/land-nav-assistant/id525299323",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2019-04-08",
-   "checkedAt": "2026-11-21",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-paid"
    ]
   },
   {
@@ -2971,7 +2881,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-19",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3000,12 +2910,12 @@
    "name": "McDonald's",
    "seller": "McDonald's USA",
    "genre": "Food & Drink",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/a0/a1/dea0a11e-1d63-daa7-b5d9-4e9d945e339c/Placeholder.mill/96x96bb.png",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/1a/5b/b91a5b0f-c635-17d4-8203-b0b1f5922f7c/Placeholder.mill/96x96bb.png",
    "url": "https://apps.apple.com/us/app/mcdonalds/id922103212",
    "duo": false,
    "duoShots": [],
-   "latestRelease": "2026-11-20",
-   "checkedAt": "2026-11-21",
+   "latestRelease": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3022,7 +2932,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-20",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3039,24 +2949,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-11",
-   "checkedAt": "2026-11-21",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-free"
-   ]
-  },
-  {
-   "id": "1113153706",
-   "name": "Microsoft Teams",
-   "seller": "Microsoft Corporation",
-   "genre": "Business",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/28/0a/0b280a91-ef90-9c29-b680-48baf7cc334e/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/microsoft-teams/id1113153706",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2026-11-21",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3068,33 +2961,33 @@
    "name": "MilGPS",
    "seller": "Cascode Labs Pty Ltd",
    "genre": "Navigation",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/f3/dd/95f3ddcf-78f5-cf6f-7a79-2bb5c3cd3108/Placeholder.mill/96x96bb.png",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/5d/49/6e5d49fd-9e97-d432-7b42-19a3f66a8f3a/Placeholder.mill/96x96bb.png",
    "url": "https://apps.apple.com/us/app/milgps/id405835358",
    "duo": false,
    "duoShots": [],
-   "latestRelease": "2026-10-26",
-   "checkedAt": "2026-11-21",
-   "notesMentionDuo": true,
+   "latestRelease": "2026-11-21",
+   "checkedAt": "2026-11-22",
+   "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
     "chart-paid"
    ]
   },
   {
-   "id": "382952264",
-   "name": "MyChart",
-   "seller": "Epic",
-   "genre": "Medical",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/e2/ec/36e2ec1c-28aa-09b0-a923-27ba0220b954/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/mychart/id382952264",
+   "id": "583922375",
+   "name": "myLightMeter PRO",
+   "seller": "David Quiles",
+   "genre": "Photo & Video",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/20/64/e72064e4-4b26-9641-faf1-5c7c756caf31/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/mylightmeter-pro/id583922375",
    "duo": false,
    "duoShots": [],
-   "latestRelease": "2026-11-16",
-   "checkedAt": "2026-11-21",
+   "latestRelease": "2026-11-13",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
-    "chart-free"
+    "chart-paid"
    ]
   },
   {
@@ -3107,7 +3000,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2022-06-19",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3124,24 +3017,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-18",
-   "checkedAt": "2026-11-21",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-free"
-   ]
-  },
-  {
-   "id": "1116186798",
-   "name": "NFHS Network",
-   "seller": "NFHS Network",
-   "genre": "Sports",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/81/60/fd81602f-1889-1706-5ef2-7c191ce44850/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/nfhs-network/id1116186798",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2026-09-30",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3158,7 +3034,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-20",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3175,7 +3051,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-23",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3192,25 +3068,8 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-13",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": true,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-paid"
-   ]
-  },
-  {
-   "id": "6835619709",
-   "name": "On Pace: Steps vs Average",
-   "seller": "ALEJANDRO LOPEZ ALBERTOS",
-   "genre": "Health & Fitness",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/23/46/7d2346ef-1970-0b3d-c523-bb2def93efb4/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/on-pace-steps-vs-average/id6835619709",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2026-11-20",
-   "checkedAt": "2026-11-21",
-   "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
     "chart-paid"
@@ -3226,7 +3085,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-19",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3243,7 +3102,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-18",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3260,7 +3119,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-17",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3277,7 +3136,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2025-02-24",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3294,7 +3153,24 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-16",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "1508186374",
+   "name": "Peacock TV: Stream TV & Movies",
+   "seller": "Peacock TV LLC",
+   "genre": "Entertainment",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/a5/45/7aa545d7-503b-b034-d7b3-620c5fc438c4/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/peacock-tv-stream-tv-movies/id1508186374",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-09",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3311,7 +3187,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-03",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3328,7 +3204,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-09-25",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3345,7 +3221,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-09-02",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3362,7 +3238,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-20",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3379,7 +3255,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-19",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3396,7 +3272,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-19",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3413,11 +3289,28 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-16",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
     "chart-free"
+   ]
+  },
+  {
+   "id": "6754315964",
+   "name": "Plezy: Media Server Client",
+   "seller": "Edvard Wikhall",
+   "genre": "Entertainment",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/16/51/c9/1651c9f1-de23-c698-c047-268fc16754c5/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/plezy-media-server-client/id6754315964",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-09",
+   "checkedAt": "2026-11-22",
+   "notesMentionDuo": true,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-paid"
    ]
   },
   {
@@ -3430,7 +3323,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2015-08-20",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3447,7 +3340,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-21",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3464,24 +3357,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2018-01-04",
-   "checkedAt": "2026-11-21",
-   "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-paid"
-   ]
-  },
-  {
-   "id": "894811756",
-   "name": "PromptSmart Pro - Teleprompter",
-   "seller": "PromptSmart",
-   "genre": "Photo & Video",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/8a/30/c08a304b-9308-9c6f-95e9-838e856ea9ae/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/promptsmart-pro-teleprompter/id894811756",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2026-10-29",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3498,7 +3374,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-24",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3515,7 +3391,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-13",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3532,7 +3408,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-05",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3549,7 +3425,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2025-11-07",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3566,7 +3442,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-11",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3583,7 +3459,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-16",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3600,7 +3476,24 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-09-28",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "926252661",
+   "name": "Ring - Always Home",
+   "seller": "Ring.com",
+   "genre": "Lifestyle",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/38/1d/3d381da9-4d9b-9a68-a385-fb310f23703b/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/ring-always-home/id926252661",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-18",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3617,7 +3510,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-19",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3634,7 +3527,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-19",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3651,7 +3544,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-14",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3668,11 +3561,45 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-20",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
     "featured"
+   ]
+  },
+  {
+   "id": "382497397",
+   "name": "Sam's Club Shopping & Delivery",
+   "seller": "Sam’s Club",
+   "genre": "Shopping",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/2f/c2/ed2fc2b4-08a7-ca07-a4a8-e1e74bdcd573/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/sams-club-shopping-delivery/id382497397",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-21",
+   "checkedAt": "2026-11-22",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-free"
+   ]
+  },
+  {
+   "id": "363978811",
+   "name": "Seconds Pro Interval Timer",
+   "seller": "Runloop Ltd",
+   "genre": "Health & Fitness",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/81/ec/1081ec6d-06a7-3363-3e8f-610988e48b46/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/seconds-pro-interval-timer/id363978811",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-10-29",
+   "checkedAt": "2026-11-22",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-paid"
    ]
   },
   {
@@ -3685,7 +3612,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-29",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3702,7 +3629,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-06",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3719,7 +3646,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2025-05-02",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3736,7 +3663,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-14",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3753,7 +3680,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-20",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3770,7 +3697,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-07",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3787,7 +3714,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-31",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3804,7 +3731,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2024-09-25",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3821,7 +3748,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2022-09-18",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3838,7 +3765,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-12",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3855,7 +3782,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2025-06-15",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3872,7 +3799,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-20",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3889,7 +3816,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-09",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3906,7 +3833,24 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-09",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-paid"
+   ]
+  },
+  {
+   "id": "577628510",
+   "name": "TeamSpeak 3",
+   "seller": "TeamSpeak Systems Inc",
+   "genre": "Social Networking",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/c7/3b/31c73b8b-8fa1-374e-e935-87707e9d5973/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/teamspeak-3/id577628510",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2025-11-25",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3923,7 +3867,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-04-17",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3940,7 +3884,24 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-04-28",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-paid"
+   ]
+  },
+  {
+   "id": "340779800",
+   "name": "The Christmas List",
+   "seller": "Erik Eggleston",
+   "genre": "Shopping",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/1d/86/fb1d8696-3a8f-ecbc-e770-2fb75173c575/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/the-christmas-list/id340779800",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-09-29",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3957,7 +3918,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-06",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -3974,7 +3935,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-17",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": true,
    "firstSeenDuo": null,
    "sources": [
@@ -3991,7 +3952,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-27",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -4008,7 +3969,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-17",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -4025,7 +3986,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-18",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -4042,8 +4003,25 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-08-29",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-paid"
+   ]
+  },
+  {
+   "id": "6818644922",
+   "name": "TV Jr.",
+   "seller": "Ben Markowitz",
+   "genre": "Entertainment",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/64/5b/7a645b4f-7ff3-dbec-cfb8-03f8b7317b34/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/tv-jr/id6818644922",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-21",
+   "checkedAt": "2026-11-22",
+   "notesMentionDuo": true,
    "firstSeenDuo": null,
    "sources": [
     "chart-paid"
@@ -4059,7 +4037,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-12",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -4076,7 +4054,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-16",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -4093,7 +4071,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-19",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -4110,11 +4088,28 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-16",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
     "chart-free"
+   ]
+  },
+  {
+   "id": "6837076125",
+   "name": "VB Mafia Gauges",
+   "seller": "Tarik Mazahreh",
+   "genre": "Utilities",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/d7/99/86d7990a-e2a9-ad67-5bfe-00d7d0421886/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/vb-mafia-gauges/id6837076125",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-21",
+   "checkedAt": "2026-11-22",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-paid"
    ]
   },
   {
@@ -4127,7 +4122,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-12",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -4144,7 +4139,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-16",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -4161,25 +4156,8 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-10-23",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
-   "firstSeenDuo": null,
-   "sources": [
-    "chart-free"
-   ]
-  },
-  {
-   "id": "1370293473",
-   "name": "VPN - Super Unlimited Proxy",
-   "seller": "Mobile Jump Pte Ltd",
-   "genre": "Productivity",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d2/d4/6a/d2d46a1f-4f7a-dbf3-be50-0147cf67e4b9/Placeholder.mill/96x96bb.png",
-   "url": "https://apps.apple.com/us/app/vpn-super-unlimited-proxy/id1370293473",
-   "duo": false,
-   "duoShots": [],
-   "latestRelease": "2026-11-17",
-   "checkedAt": "2026-11-21",
-   "notesMentionDuo": true,
    "firstSeenDuo": null,
    "sources": [
     "chart-free"
@@ -4195,7 +4173,24 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-03",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
+   "notesMentionDuo": false,
+   "firstSeenDuo": null,
+   "sources": [
+    "chart-paid"
+   ]
+  },
+  {
+   "id": "690911261",
+   "name": "Wasatch Backcountry Skiing Map",
+   "seller": "Iterum, LLC",
+   "genre": "Navigation",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/4d/80/ba4d8037-3dc4-9cb5-6b31-d20c64b6da4b/Placeholder.mill/96x96bb.png",
+   "url": "https://apps.apple.com/us/app/wasatch-backcountry-skiing-map/id690911261",
+   "duo": false,
+   "duoShots": [],
+   "latestRelease": "2026-11-09",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -4212,7 +4207,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-09",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -4229,7 +4224,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-20",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -4241,12 +4236,12 @@
    "name": "WhatsApp",
    "seller": "WhatsApp Inc.",
    "genre": "Social Networking",
-   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b1/34/08/b1340868-af8b-86b9-5192-9ace445bf893/Placeholder.mill/96x96bb.png",
+   "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/f8/4c/34f84cc3-89ca-8fa9-03c4-cef1327edd31/Placeholder.mill/96x96bb.png",
    "url": "https://apps.apple.com/us/app/whatsapp/id310633997",
    "duo": false,
    "duoShots": [],
-   "latestRelease": "2026-11-15",
-   "checkedAt": "2026-11-21",
+   "latestRelease": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -4263,7 +4258,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-20",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -4280,7 +4275,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-18",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -4297,7 +4292,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-06-26",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [
@@ -4314,7 +4309,7 @@
    "duo": false,
    "duoShots": [],
    "latestRelease": "2026-11-19",
-   "checkedAt": "2026-11-21",
+   "checkedAt": "2026-11-22",
    "notesMentionDuo": false,
    "firstSeenDuo": null,
    "sources": [

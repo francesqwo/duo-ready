@@ -1,48 +1,28 @@
 {
- "generatedAt": "2026-11-21T19:15:55Z",
+ "generatedAt": "2026-11-22T06:54:56Z",
  "totals": {
   "tracked": 241,
-  "duoReady": 88,
-  "checked": 241
+  "duoReady": 87,
+  "checked": 240
  },
  "newToday": [
   {
-   "id": "401626263",
-   "name": "Airbnb"
+   "id": "436491861",
+   "name": "Domino's Pizza USA"
   },
   {
-   "id": "282614216",
-   "name": "eBay online shopping & selling"
+   "id": "962194608",
+   "name": "Google Photos: Backup & Edit"
   },
   {
-   "id": "363738376",
-   "name": "forScore"
+   "id": "949490225",
+   "name": "Print to Size"
   },
   {
-   "id": "6443996847",
-   "name": "Frame Crop – Art Mode"
-  },
-  {
-   "id": "6823045499",
-   "name": "IvyPod"
-  },
-  {
-   "id": "6759029184",
-   "name": "Mono Lab"
-  },
-  {
-   "id": "878577184",
-   "name": "SHEIN - Shopping Online"
-  },
-  {
-   "id": "357404131",
-   "name": "Slow Shutter Cam"
-  },
-  {
-   "id": "6817187484",
-   "name": "Untraced: Find the Suspect"
+   "id": "497387361",
+   "name": "Taco Bell Fast Food & Delivery"
   }
  ],
- "errors": 0,
- "skippedKnownDuo": 79
+ "errors": 1,
+ "skippedKnownDuo": 83
 }
