@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T07:40:02Z",
+ "generatedAt": "2026-11-23T23:53:54Z",
  "totals": {
   "tracked": 241,
   "duoReady": 90,
@@ -7,22 +7,26 @@
  },
  "newToday": [
   {
-   "id": "401626263",
-   "name": "Airbnb"
+   "id": "1569922923",
+   "name": "Air & Space Fitness Calculator"
   },
   {
-   "id": "6828383349",
-   "name": "DuoFridge"
+   "id": "6833103142",
+   "name": "Desky - Desktop Mode Switching"
   },
   {
-   "id": "363738376",
-   "name": "forScore"
+   "id": "962194608",
+   "name": "Google Photos: Backup & Edit"
   },
   {
-   "id": "6756866511",
-   "name": "IIWII: Film Simulation Camera"
+   "id": "330247123",
+   "name": "Sun Seeker - Sunlight Tracker"
+  },
+  {
+   "id": "284942719",
+   "name": "Universalis"
   }
  ],
  "errors": 0,
- "skippedKnownDuo": 86
+ "skippedKnownDuo": 85
 }
