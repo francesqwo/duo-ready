@@ -1,36 +1,28 @@
 {
- "generatedAt": "2026-11-22T19:39:03Z",
+ "generatedAt": "2026-11-23T07:40:02Z",
  "totals": {
   "tracked": 241,
-  "duoReady": 88,
+  "duoReady": 90,
   "checked": 241
  },
  "newToday": [
   {
-   "id": "6825181273",
-   "name": "AltoPaint: Oil & Watercolor"
+   "id": "401626263",
+   "name": "Airbnb"
   },
   {
-   "id": "6827445474",
-   "name": "FoldTick: Duo Fold Counter"
+   "id": "6828383349",
+   "name": "DuoFridge"
   },
   {
-   "id": "1202650514",
-   "name": "HealthFit"
+   "id": "363738376",
+   "name": "forScore"
   },
   {
-   "id": "457954781",
-   "name": "Lowe's Home Improvement"
-  },
-  {
-   "id": "6759029184",
-   "name": "Mono Lab"
-  },
-  {
-   "id": "886445756",
-   "name": "Tubi: Movies & Live TV"
+   "id": "6756866511",
+   "name": "IIWII: Film Simulation Camera"
   }
  ],
  "errors": 0,
- "skippedKnownDuo": 82
+ "skippedKnownDuo": 86
 }
