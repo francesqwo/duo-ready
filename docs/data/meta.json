@@ -1,32 +1,28 @@
 {
- "generatedAt": "2026-11-23T23:53:54Z",
+ "generatedAt": "2026-11-24T09:58:14Z",
  "totals": {
-  "tracked": 241,
-  "duoReady": 90,
-  "checked": 241
+  "tracked": 141,
+  "duoReady": 58,
+  "checked": 141
  },
  "newToday": [
   {
-   "id": "1569922923",
-   "name": "Air & Space Fitness Calculator"
+   "id": "390017969",
+   "name": "Due - Reminders & Timers"
   },
   {
-   "id": "6833103142",
-   "name": "Desky - Desktop Mode Switching"
+   "id": "1202650514",
+   "name": "HealthFit"
   },
   {
-   "id": "962194608",
-   "name": "Google Photos: Backup & Edit"
+   "id": "6826478625",
+   "name": "Pocket Mac Lab"
   },
   {
-   "id": "330247123",
-   "name": "Sun Seeker - Sunlight Tracker"
-  },
-  {
-   "id": "284942719",
-   "name": "Universalis"
+   "id": "304731501",
+   "name": "Tempo - Metronome with Setlist"
   }
  ],
  "errors": 0,
- "skippedKnownDuo": 85
+ "skippedKnownDuo": 41
 }
