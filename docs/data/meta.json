@@ -1,28 +1,164 @@
 {
- "generatedAt": "2026-11-24T09:58:14Z",
+ "generatedAt": "2026-11-24T22:35:31Z",
  "totals": {
-  "tracked": 141,
-  "duoReady": 58,
-  "checked": 141
+  "tracked": 238,
+  "duoReady": 95,
+  "checked": 235
  },
  "newToday": [
   {
-   "id": "390017969",
-   "name": "Due - Reminders & Timers"
+   "id": "1569922923",
+   "name": "Air & Space Fitness Calculator"
   },
   {
-   "id": "1202650514",
-   "name": "HealthFit"
+   "id": "401626263",
+   "name": "Airbnb"
   },
   {
-   "id": "6826478625",
-   "name": "Pocket Mac Lab"
+   "id": "545519333",
+   "name": "Amazon Prime Video"
   },
   {
-   "id": "304731501",
-   "name": "Tempo - Metronome with Setlist"
+   "id": "897446215",
+   "name": "Canva AI Photo & Video Editor"
+  },
+  {
+   "id": "711923939",
+   "name": "Cash App"
+  },
+  {
+   "id": "6448311069",
+   "name": "ChatGPT"
+  },
+  {
+   "id": "6473753684",
+   "name": "Claude by Anthropic"
+  },
+  {
+   "id": "6745274862",
+   "name": "DealSeek: Coupons & Discounts"
+  },
+  {
+   "id": "518684914",
+   "name": "Depop - Buy & Sell Clothes"
+  },
+  {
+   "id": "282614216",
+   "name": "eBay online shopping & selling"
+  },
+  {
+   "id": "1450175505",
+   "name": "Giftful - Wishlist & Registry"
+  },
+  {
+   "id": "284815942",
+   "name": "Google"
+  },
+  {
+   "id": "962194608",
+   "name": "Google Photos: Backup & Edit"
+  },
+  {
+   "id": "6670324846",
+   "name": "Grok"
+  },
+  {
+   "id": "6760536822",
+   "name": "Health100"
+  },
+  {
+   "id": "339407922",
+   "name": "iBend Pipe"
+  },
+  {
+   "id": "389801252",
+   "name": "Instagram"
+  },
+  {
+   "id": "1632713844",
+   "name": "Kalshi: Trade Sports & Events"
+  },
+  {
+   "id": "384830320",
+   "name": "Life360: Family Safety & GPS"
+  },
+  {
+   "id": "457954781",
+   "name": "Lowe's Home Improvement"
+  },
+  {
+   "id": "6760173601",
+   "name": "Muse from Meta"
+  },
+  {
+   "id": "363590051",
+   "name": "Netflix"
+  },
+  {
+   "id": "1443988620",
+   "name": "Quantumult X"
+  },
+  {
+   "id": "878577184",
+   "name": "SHEIN - Shopping Online"
+  },
+  {
+   "id": "1223471316",
+   "name": "Shop: Track, Pay, Discover"
+  },
+  {
+   "id": "324684580",
+   "name": "Spotify: Music and Podcasts"
+  },
+  {
+   "id": "330247123",
+   "name": "Sun Seeker - Sunlight Tracker"
+  },
+  {
+   "id": "297430070",
+   "name": "Target: Shop. Style. Save."
+  },
+  {
+   "id": "686449807",
+   "name": "Telegram Messenger"
+  },
+  {
+   "id": "1641486558",
+   "name": "Temu: Shop Like a Billionaire"
+  },
+  {
+   "id": "6446901002",
+   "name": "Threads"
+  },
+  {
+   "id": "886445756",
+   "name": "Tubi: Movies & Live TV"
+  },
+  {
+   "id": "284942719",
+   "name": "Universalis"
+  },
+  {
+   "id": "6817187484",
+   "name": "Untraced: Find the Suspect"
+  },
+  {
+   "id": "1370293473",
+   "name": "VPN - Super Unlimited Proxy"
+  },
+  {
+   "id": "338137227",
+   "name": "Walmart: Shopping & Savings"
+  },
+  {
+   "id": "544007664",
+   "name": "YouTube"
+  },
+  {
+   "id": "546505307",
+   "name": "Zoom Workplace"
   }
  ],
- "errors": 0,
- "skippedKnownDuo": 41
+ "errors": 3,
+ "skippedKnownDuo": 57
 }
