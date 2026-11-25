@@ -1,56 +1,28 @@
 {
- "generatedAt": "2026-11-25T08:42:46Z",
+ "generatedAt": "2026-11-25T21:42:31Z",
  "totals": {
   "tracked": 241,
-  "duoReady": 98,
-  "checked": 235
+  "duoReady": 93,
+  "checked": 241
  },
  "newToday": [
   {
-   "id": "1440996640",
-   "name": "Flat Earth Sun, Moon & Zodiac"
+   "id": "390017969",
+   "name": "Due - Reminders & Timers"
   },
   {
-   "id": "6753807741",
-   "name": "frenzy - friends only"
+   "id": "962194608",
+   "name": "Google Photos: Backup & Edit"
   },
   {
-   "id": "6477489729",
-   "name": "Google Gemini"
+   "id": "529379082",
+   "name": "Lyft"
   },
   {
-   "id": "1666653815",
-   "name": "HBO Max: Stream Movies & TV"
-  },
-  {
-   "id": "1062022008",
-   "name": "LumaFusion"
-  },
-  {
-   "id": "754105884",
-   "name": "NightCap Camera: Long Exposure"
-  },
-  {
-   "id": "530168168",
-   "name": "Paramount+"
-  },
-  {
-   "id": "6461348120",
-   "name": "R8 Companion"
-  },
-  {
-   "id": "371817955",
-   "name": "Sporty's E6B Flight Computer"
-  },
-  {
-   "id": "1304177471",
-   "name": "Superimpose X"
-  },
-  {
-   "id": "6827308965",
-   "name": "Widezilla Browser"
+   "id": "1370293473",
+   "name": "VPN - Super Unlimited Proxy"
   }
  ],
- "errors": 6,
- "skippedKnownDuo": 0
+ "errors": 0,
+ "skippedKnownDuo": 89
 }
