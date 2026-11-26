@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T21:42:31Z",
+ "generatedAt": "2026-11-26T08:20:14Z",
  "totals": {
   "tracked": 241,
   "duoReady": 93,
@@ -7,22 +7,42 @@
  },
  "newToday": [
   {
-   "id": "390017969",
-   "name": "Due - Reminders & Timers"
+   "id": "503451073",
+   "name": "Alibaba.com B2B Trade App"
   },
   {
-   "id": "962194608",
-   "name": "Google Photos: Backup & Edit"
+   "id": "6832087760",
+   "name": "Chord Lab: Chord Synth"
   },
   {
-   "id": "529379082",
-   "name": "Lyft"
+   "id": "6753807741",
+   "name": "frenzy - friends only"
   },
   {
-   "id": "1370293473",
-   "name": "VPN - Super Unlimited Proxy"
+   "id": "1666653815",
+   "name": "HBO Max: Stream Movies & TV"
+  },
+  {
+   "id": "1202650514",
+   "name": "HealthFit"
+  },
+  {
+   "id": "1062022008",
+   "name": "LumaFusion"
+  },
+  {
+   "id": "530168168",
+   "name": "Paramount+"
+  },
+  {
+   "id": "497387361",
+   "name": "Taco Bell Fast Food & Delivery"
+  },
+  {
+   "id": "6817187484",
+   "name": "Untraced: Find the Suspect"
   }
  ],
  "errors": 0,
- "skippedKnownDuo": 89
+ "skippedKnownDuo": 84
 }
