@@ -1,32 +1,16 @@
 {
- "generatedAt": "2026-11-26T21:31:50Z",
+ "generatedAt": "2026-11-27T08:39:23Z",
  "totals": {
-  "tracked": 241,
-  "duoReady": 93,
-  "checked": 241
+  "tracked": 140,
+  "duoReady": 54,
+  "checked": 132
  },
  "newToday": [
   {
-   "id": "6835305167",
-   "name": "Crease Control: Fold Odometer"
-  },
-  {
-   "id": "6443996847",
-   "name": "Frame Crop – Art Mode"
-  },
-  {
-   "id": "325683306",
-   "name": "MyRadar Weather Radar Pro"
-  },
-  {
-   "id": "6480136315",
-   "name": "Suno - AI Songs, Music, Lyrics"
-  },
-  {
-   "id": "1370293473",
-   "name": "VPN - Super Unlimited Proxy"
+   "id": "1304177471",
+   "name": "Superimpose X"
   }
  ],
- "errors": 0,
- "skippedKnownDuo": 88
+ "errors": 8,
+ "skippedKnownDuo": 53
 }
