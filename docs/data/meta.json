@@ -1,16 +1,132 @@
 {
- "generatedAt": "2026-11-27T08:39:23Z",
+ "generatedAt": "2026-11-27T21:26:35Z",
  "totals": {
-  "tracked": 140,
-  "duoReady": 54,
-  "checked": 132
+  "tracked": 227,
+  "duoReady": 83,
+  "checked": 218
  },
  "newToday": [
   {
-   "id": "1304177471",
-   "name": "Superimpose X"
+   "id": "545519333",
+   "name": "Amazon Prime Video"
+  },
+  {
+   "id": "711923939",
+   "name": "Cash App"
+  },
+  {
+   "id": "6448311069",
+   "name": "ChatGPT"
+  },
+  {
+   "id": "6473753684",
+   "name": "Claude by Anthropic"
+  },
+  {
+   "id": "6745274862",
+   "name": "DealSeek: Coupons & Discounts"
+  },
+  {
+   "id": "518684914",
+   "name": "Depop - Buy & Sell Clothes"
+  },
+  {
+   "id": "282614216",
+   "name": "eBay online shopping & selling"
+  },
+  {
+   "id": "6443996847",
+   "name": "Frame Crop – Art Mode"
+  },
+  {
+   "id": "1450175505",
+   "name": "Giftful - Wishlist & Registry"
+  },
+  {
+   "id": "284815942",
+   "name": "Google"
+  },
+  {
+   "id": "6477489729",
+   "name": "Google Gemini"
+  },
+  {
+   "id": "6670324846",
+   "name": "Grok"
+  },
+  {
+   "id": "1666653815",
+   "name": "HBO Max: Stream Movies & TV"
+  },
+  {
+   "id": "389801252",
+   "name": "Instagram"
+  },
+  {
+   "id": "6823045499",
+   "name": "IvyPod"
+  },
+  {
+   "id": "1632713844",
+   "name": "Kalshi: Trade Sports & Events"
+  },
+  {
+   "id": "384830320",
+   "name": "Life360: Family Safety & GPS"
+  },
+  {
+   "id": "457954781",
+   "name": "Lowe's Home Improvement"
+  },
+  {
+   "id": "6760173601",
+   "name": "Muse from Meta"
+  },
+  {
+   "id": "363590051",
+   "name": "Netflix"
+  },
+  {
+   "id": "530168168",
+   "name": "Paramount+"
+  },
+  {
+   "id": "878577184",
+   "name": "SHEIN - Shopping Online"
+  },
+  {
+   "id": "1223471316",
+   "name": "Shop: Track, Pay, Discover"
+  },
+  {
+   "id": "324684580",
+   "name": "Spotify: Music and Podcasts"
+  },
+  {
+   "id": "686449807",
+   "name": "Telegram Messenger"
+  },
+  {
+   "id": "1641486558",
+   "name": "Temu: Shop Like a Billionaire"
+  },
+  {
+   "id": "886445756",
+   "name": "Tubi: Movies & Live TV"
+  },
+  {
+   "id": "6817187484",
+   "name": "Untraced: Find the Suspect"
+  },
+  {
+   "id": "338137227",
+   "name": "Walmart: Shopping & Savings"
+  },
+  {
+   "id": "544007664",
+   "name": "YouTube"
   }
  ],
- "errors": 8,
- "skippedKnownDuo": 53
+ "errors": 9,
+ "skippedKnownDuo": 0
 }
